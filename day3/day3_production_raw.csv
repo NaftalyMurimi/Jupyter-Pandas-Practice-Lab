@@ -1,0 +1,826 @@
+record_id,date,production_line,shift,product,operator_id,units_planned,units_produced,units_defective,downtime_minutes,temperature_c,supplier
+R1543,2025-02-15,Line A,Morning,Motherboard,OP06,202,168.0,2,7.0,71.5,Nordic Parts
+R1626,2025-01-03,Line E,Afternoon,Sensor Module,OP28,266,252.0,16,18.0,63.1,TechSource
+R1175,2025-03-03,Line E,morning,Connector Board,OP29,220,198.0,9,27.0,63.8,Baltic Components
+R1371,2025-03-30,Line B,Night,Sensor Module,OP19,238,191.0,8,22.0,74.2,Baltic Components
+R1144,2025-05-11,Line B,Night,Connector Board,OP39,246,209.0,9,34.0,67.3,Baltic Components
+R1357,2025-04-26,line d,Morning,Sensor Module,OP33,273,217.0,3,16.0,74.0,Baltic Components
+R1294,2025-06-01,Line A,Afternoon,Connector Board,OP37,222,203.0,4,49.0,66.7,Nordic Parts
+R1010,2025-02-17,Line D,Night,Sensor Module,,279,275.0,10,16.0,62.6,Baltic Components
+R1051,11/03/2025,line c,Morning,Sensor Module,OP34,198,176.0,7,33.0,56.1,TechSource
+R1157,2025-03-14,Line-C,Afternoon,Power Unit,OP05,311,246.0,21,22.0,64.3,Nordic Parts
+R1028,2025-01-08,Line D,Afternoon,Motherboard,OP05,201,158.0,2,7.0,70.0,Baltic Components
+R1303,2025-05-26,Line D,Night,Connector Board,OP19,248,201.0,8,13.0,71.3,TechSource
+R1232,2025-02-27,Line D,Night,Sensor Module,OP32,294,239.0,11,34.0,60.4,TechSource
+R1146,2025-01-17,Line E,Morning,Connector Board,OP16,227,188.0,11,12.0,65.9,TechSource
+R1373,2025-04-09,Line A,Night,Connector Board,,192,166.0,8,22.0,76.5,Baltic Components
+R1599,2025-03-10,Line A,Morning,Power Unit,OP32,296,271.0,11,2.0,79.5,Nordic Parts
+R1397,2025-05-10,LINE B ,Night,Sensor Module,OP17,311,255.0,15,19.0,67.1,EuroChip
+R1342,2025-04-03,Line E,Night,Sensor Module,OP15,276,270.0,25,16.0,81.6,TechSource
+R1065,2025-05-17,LINE A ,Morning,Motherboard,OP25,280,246.0,5,20.0,65.4,EuroChip
+R1027,2025-03-12,Line C,Afternoon,Motherboard,OP40,268,236.0,22,,60.9,Nordic Parts
+R1570,2025-01-04,line e,Morning,Power Unit,OP17,311,269.0,17,38.0,71.4,Nordic Parts
+R1633,2025-02-24,Line E,Afternoon,Sensor Module,OP11,188,147.0,5,63.0,71.8,TechSource
+R1453,2025-02-19,LINE C ,Afternoon,Connector Board,OP21,250,226.0,16,19.0,,EuroChip
+R1703,2025-04-13,LINE A ,Night,Connector Board,OP34,184,172.0,6,5.0,73.2,EuroChip
+R1236,2025-01-26,LINE E ,Morning,Connector Board,OP14,297,281.0,11,17.0,63.8,TechSource
+R1243,2025-03-01,Line E,Morning,Power Unit,OP39,277,257.0,12,8.0,65.4,Nordic Parts
+R1585,2025-04-02,Line E,Morning,Sensor Module,OP09,283,257.0,16,7.0,64.8,Baltic Components
+R1762,2025-03-29,Line B,Morning,Sensor Module,OP31,306,282.0,13,12.0,71.8,Baltic Components
+R1663,2025-02-18,LINE D ,Afternoon,Motherboard,OP09,214,178.0,0,30.0,70.5,TechSource
+R1797,2025-05-26,Line-C,Morning,Power Unit,OP34,237,219.0,19,23.0,68.1,EuroChip
+R1459,2025-04-24,Line C,Afternoon,Connector Board,OP39,218,175.0,12,30.0,66.6,TechSource
+R1376,2025-06-22,Line B,Night,Sensor Module,OP09,244,191.0,10,2.0,75.1,TechSource
+R1319,2025-06-09,line a,Morning,Motherboard,OP02,277,252.0,18,18.0,80.1,TechSource
+R1206,2025-02-09,LINE A ,Morning,Sensor Module,OP18,298,259.0,7,12.0,66.5,EuroChip
+R1137,2025-04-14,LINE E ,Morning,Power Unit,OP17,318,283.0,22,35.0,76.9,Nordic Parts
+R1738,2025-06-25,Line C,Morning,Motherboard,OP04,250,236.0,20,16.0,76.5,TechSource
+R1552,2025-02-18,Line A,Morning,Power Unit,OP15,253,241.0,8,35.0,77.0,EuroChip
+R1737,2025-02-22,Line D,Morning,Motherboard,OP34,241,221.0,7,47.0,58.4,TechSource
+R1505,2025-01-01,Line A,Morning,Power Unit,OP38,249,202.0,4,24.0,65.2,EuroChip
+R1229,2025-05-03,Line A,Afternoon,Connector Board,OP40,229,222.0,3,12.0,64.4,Baltic Components
+R1355,2025-05-06,Line E,Morning,Power Unit,OP10,194,169.0,6,31.0,70.0,TechSource
+R1201,2025-02-12,line c,Afternoon,Sensor Module,OP32,308,284.0,28,26.0,78.9,EuroChip
+R1061,2025-03-23,LINE B ,Afternoon,Sensor Module,OP06,193,,10,21.0,58.5,TechSource
+R1467,2025-01-11,line b,Night,Motherboard,OP10,229,185.0,11,,73.7,TechSource
+R1080,2025-04-02,Line A,Afternoon,Power Unit,OP27,245,211.0,8,13.0,75.7,Baltic Components
+R1362,2025-06-08,Line A,Morning,Connector Board,,194,189.0,4,31.0,63.0,Nordic Parts
+R1671,2025-04-14,LINE A ,Morning,Connector Board,OP37,225,189.0,6,18.0,72.9,TechSource
+R1514,2025-03-13,Line E,Morning,Motherboard,OP25,204,169.0,7,34.0,63.0,TechSource
+R1197,2025-01-26,line e,Night,Power Unit,OP09,286,248.0,22,37.0,74.8,TechSource
+R1085,2025-04-11,Line A,Night,Power Unit,OP17,295,260.0,7,21.0,68.3,Nordic Parts
+R1670,2025-05-09,line b,Night,Sensor Module,OP19,242,239.0,10,25.0,62.8,TechSource
+R1266,2025-03-21,Line C,Afternoon,Connector Board,OP17,182,167.0,12,27.0,74.5,Nordic Parts
+R1048,2025-02-20,Line-B,morning,Sensor Module,OP06,218,209.0,4,36.0,,EuroChip
+R1591,2025-02-09,line c,Afternoon,Sensor Module,OP34,195,159.0,9,57.0,73.1,Nordic Parts
+R1216,2025-03-25,LINE D ,Afternoon,Connector Board,OP19,267,260.0,8,35.0,72.9,Baltic Components
+R1121,2025-04-25,Line D,morning,Power Unit,OP12,199,190.0,3,27.0,72.5,TechSource
+R1439,2025-01-05,Line D,Afternoon,Motherboard,OP18,240,196.0,3,35.0,66.4,TechSource
+R1194,2025-03-25,Line E,Night,Sensor Module,OP40,259,218.0,23,62.0,77.3,TechSource
+R1126,2025-01-05,LINE A ,Morning,Motherboard,OP38,189,172.0,2,71.0,,EuroChip
+R1329,2025-05-16,Line B,Afternoon,Motherboard,OP08,206,187.0,5,28.0,73.0,Baltic Components
+R1350,2025-03-16,Line D,Night,Motherboard,OP35,238,203.0,11,24.0,75.6,TechSource
+R1328,2025-04-20,Line E,Morning,Motherboard,OP18,249,219.0,10,20.0,55.4,Baltic Components
+R1399,2025-03-27,Line C,morning,Sensor Module,OP37,224,212.0,20,22.0,76.8,TechSource
+R1301,2025-05-15,Line A,Afternoon,Motherboard,OP08,217,177.0,4,27.0,999.0,Baltic Components
+R1058,2025-01-16,Line A,night,Motherboard,OP39,212,197.0,6,9.0,72.2,TechSource
+R1163,2025-04-25,Line D,Morning,Power Unit,OP38,204,177.0,2,22.0,,Baltic Components
+R1041,2025-03-13,line e,Morning,Motherboard,OP37,226,186.0,8,16.0,65.3,TechSource
+R1290,2025-05-21,Line C,Morning,Connector Board,OP02,219,171.0,14,,71.3,EuroChip
+R1461,2025-04-18,line d,Morning,Power Unit,OP28,183,153.0,4,21.0,56.5,Baltic Components
+R1209,2025-02-09,Line A,Afternoon,Connector Board,OP17,180,169.0,3,30.0,69.7,EuroChip
+R1045,2025-03-05,Line E,Night,Connector Board,OP01,206,203.0,20,67.0,73.5,TechSource
+R1491,2025-06-12,Line A,Afternoon,Sensor Module,OP33,262,,8,56.0,61.5,TechSource
+R1081,2025-05-20,line c,Night,Motherboard,OP12,319,297.0,26,4.0,69.6,Nordic Parts
+R1456,2025-06-29,Line E,Afternoon,Power Unit,OP11,189,151.0,4,37.0,59.1,EuroChip
+R1557,2025-01-30,Line A,Night,Motherboard,OP25,220,208.0,7,40.0,68.6,TechSource
+R1524,2025-04-05,line e,Night,Power Unit,OP15,197,180.0,10,,58.3,Nordic Parts
+R1289,2025-03-06,Line A,Morning,Sensor Module,OP07,228,193.0,9,24.0,76.6,Nordic Parts
+R1509,2025-01-14,Line E,Afternoon,Connector Board,OP06,258,210.0,13,24.0,66.6,Baltic Components
+R1101,2025-04-05,LINE E ,Night,Power Unit,OP32,229,189.0,12,27.0,74.0,EuroChip
+R1192,2025-04-14,line d,Morning,Sensor Module,OP17,259,242.0,4,70.0,56.8,TechSource
+R1324,2025-01-17,Line A,Morning,Motherboard,OP31,297,248.0,7,27.0,65.4,Nordic Parts
+R1527,2025-04-10,Line A,Night,Motherboard,OP19,226,219.0,13,10.0,60.8,TechSource
+R1177,2025-04-19,Line-C,Afternoon,Sensor Module,OP28,207,163.0,18,42.0,58.1,TechSource
+R1578,2025-06-26,LINE D ,Night,Power Unit,OP01,235,,11,18.0,78.4,Baltic Components
+R1600,2025-02-26,Line E,Morning,Power Unit,OP13,241,216.0,9,40.0,58.0,EuroChip
+R1108,2025-05-17,Line D,Morning,Power Unit,OP18,186,170.0,8,7.0,84.6,Baltic Components
+R1233,2025-03-20,Line E,morning,Motherboard,OP38,219,215.0,7,44.0,60.1,Nordic Parts
+R1740,2025-06-07,Line E,Night,Power Unit,OP12,291,256.0,24,32.0,80.2,TechSource
+R1574,2025-03-24,Line A,Afternoon,Power Unit,OP19,199,182.0,2,18.0,,Baltic Components
+R1548,2025-05-26,Line-C,Night,Connector Board,OP07,265,259.0,19,72.0,71.3,Nordic Parts
+R1569,2025-04-29,Line A,Afternoon,Connector Board,OP36,256,234.0,3,70.0,66.5,Nordic Parts
+R1103,2025-06-21,Line E,Morning,Motherboard,OP03,197,153.0,9,20.0,58.7,TechSource
+R1073,2025-05-09,Line B,Afternoon,Power Unit,OP33,288,248.0,5,24.0,62.7,Nordic Parts
+R1526,2025-01-07,Line A,Morning,Motherboard,OP28,276,243.0,7,16.0,74.5,TechSource
+R1293,2025-05-06,Line A,Night,Connector Board,OP23,303,277.0,28,10.0,78.7,EuroChip
+R1078,2025-02-05,line b,Night,Sensor Module,OP38,263,247.0,20,12.0,79.6,Nordic Parts
+R1314,2025-03-17,Line D,Morning,Power Unit,OP11,207,180.0,2,17.0,66.1,Nordic Parts
+R1432,2025-05-07,Line A,Morning,Connector Board,OP32,193,170.0,6,20.0,62.0,Nordic Parts
+R1155,2025-06-25,Line D,Afternoon,Sensor Module,OP24,251,217.0,6,28.0,64.9,Baltic Components
+R1637,2025-05-24,Line D,night,Sensor Module,OP22,300,284.0,10,7.0,60.5,Baltic Components
+R1724,2025-06-09,Line E,Night,Connector Board,OP33,282,255.0,18,26.0,66.2,EuroChip
+R1046,2025-04-01,Line A,Afternoon,Power Unit,OP33,275,221.0,4,46.0,68.8,Baltic Components
+R1004,2025-02-21,Line A,Afternoon,Sensor Module,OP25,220,194.0,4,36.0,60.3,Baltic Components
+R1745,2025-06-03,Line B,Morning,Sensor Module,OP01,257,201.0,8,19.0,64.5,TechSource
+R1180,2025-04-19,Line B,Morning,Motherboard,OP19,214,186.0,7,23.0,53.8,EuroChip
+R1102,16/01/2025,Line B,Night,Motherboard,OP06,293,286.0,14,24.0,62.6,Nordic Parts
+R1322,2025-01-09,line a,Afternoon,Motherboard,OP09,182,169.0,1,32.0,57.9,TechSource
+R1450,2025-01-08,Line D,Morning,Power Unit,OP09,192,187.0,4,13.0,57.4,TechSource
+R1506,2025-04-14,LINE A ,Afternoon,Power Unit,OP39,221,179.0,3,8.0,67.8,Baltic Components
+R1451,2025-06-23,line e,Afternoon,Sensor Module,OP12,298,277.0,15,47.0,70.7,TechSource
+R1620,2025-06-08,Line D,Morning,Power Unit,OP13,255,246.0,5,20.0,72.7,EuroChip
+R1349,2025-02-13,Line B,Afternoon,Motherboard,,247,207.0,8,4.0,62.2,EuroChip
+R1123,2025-02-04,LINE B ,Morning,Power Unit,OP28,280,251.0,7,16.0,71.7,EuroChip
+R1642,23/03/2025,Line-C,morning,Sensor Module,OP02,195,171.0,12,27.0,56.9,TechSource
+R1577,2025-06-23,Line-E,Afternoon,Motherboard,OP05,199,174.0,8,8.0,68.7,TechSource
+R1798,2025-01-26,Line C,Afternoon,Connector Board,OP33,315,276.0,20,,72.4,EuroChip
+R1592,2025-04-06,Line E,Night,Sensor Module,OP08,190,156.0,13,32.0,,TechSource
+R1722,2025-03-21,Line C,Morning,Sensor Module,OP22,234,193.0,15,9.0,61.0,Nordic Parts
+R1091,2025-04-30,Line D,Afternoon,Sensor Module,OP40,279,222.0,6,9.0,66.4,TechSource
+R1086,2025-06-21,Line E,night,Connector Board,OP17,236,222.0,19,32.0,71.0,EuroChip
+R1313,2025-04-30,LINE D ,Morning,Sensor Module,OP18,259,223.0,4,19.0,70.4,TechSource
+R1458,2025-06-27,Line-C,afternoon,Motherboard,OP35,247,209.0,15,,57.5,Nordic Parts
+R1683,2025-03-02,Line B,Morning,Power Unit,OP03,231,219.0,12,27.0,79.3,Baltic Components
+R1656,2025-06-18,LINE E ,Afternoon,Sensor Module,OP04,281,245.0,12,7.0,68.0,EuroChip
+R1757,2025-02-25,Line E,Night,Sensor Module,,241,202.0,9,46.0,65.3,Nordic Parts
+R1735,2025-06-06,Line E,Afternoon,Motherboard,OP24,315,303.0,13,22.0,63.6,TechSource
+R1124,2025-01-23,Line E,Afternoon,Connector Board,OP08,190,183.0,7,16.0,67.8,Baltic Components
+R1395,2025-04-24,Line E,Night,Power Unit,OP34,183,158.0,12,18.0,69.3,TechSource
+R1016,2025-04-29,Line E,afternoon,Motherboard,OP04,219,195.0,14,59.0,71.0,Baltic Components
+R1400,2025-02-17,Line D,Afternoon,Connector Board,OP24,242,224.0,5,48.0,63.1,Baltic Components
+R1624,2025-03-05,Line D,Night,Connector Board,OP34,246,218.0,13,20.0,76.2,EuroChip
+R1195,2025-03-15,Line B,Morning,Power Unit,OP02,310,244.0,7,25.0,65.4,EuroChip
+R1235,2025-03-05,Line E,Night,Motherboard,OP17,226,210.0,20,48.0,60.9,Baltic Components
+R1356,2025-05-04,line b,Morning,Power Unit,OP03,268,248.0,8,63.0,70.8,TechSource
+R1499,2025-03-23,Line B,Night,Motherboard,OP28,196,167.0,6,13.0,67.0,Baltic Components
+R1556,2025-04-06,Line A,Morning,Connector Board,OP14,184,158.0,0,28.0,70.3,TechSource
+R1567,2025-06-16,Line B,Morning,Connector Board,OP14,275,224.0,7,6.0,72.1,Baltic Components
+R1768,2025-04-19,LINE E ,Morning,Sensor Module,,210,207.0,10,42.0,60.7,Baltic Components
+R1534,2025-06-16,line c,Morning,Power Unit,OP18,232,196.0,9,19.0,64.8,Nordic Parts
+R1135,2025-01-07,Line-C,Morning,Motherboard,,264,217.0,12,19.0,70.9,Baltic Components
+R1667,2025-03-01,Line C,Night,Motherboard,OP27,258,226.0,22,9.0,60.7,Nordic Parts
+R1636,2025-02-14,Line A,morning,Sensor Module,OP19,219,203.0,5,24.0,61.5,TechSource
+R1498,2025-05-15,Line C,Afternoon,Connector Board,OP30,253,235.0,16,,62.6,TechSource
+R1323,2025-04-28,Line C,Afternoon,Connector Board,OP34,246,220.0,16,13.0,67.4,Baltic Components
+R1378,2025-05-20,line e,Morning,Power Unit,OP28,266,247.0,19,15.0,62.0,EuroChip
+R1586,2025-03-29,Line C,Afternoon,Sensor Module,OP02,300,238.0,15,62.0,68.0,Nordic Parts
+R1700,2025-06-21,Line D,Morning,Sensor Module,,269,215.0,7,72.0,59.9,Baltic Components
+R1239,2025-04-01,line a,Afternoon,Connector Board,OP22,293,240.0,6,3.0,75.9,Baltic Components
+R1710,2025-04-12,Line E,morning,Power Unit,OP07,207,180.0,7,36.0,65.6,Baltic Components
+R1039,2025-03-11,Line A,Night,Motherboard,OP40,226,202.0,5,8.0,66.7,TechSource
+R1575,2025-02-11,Line C,Night,Motherboard,OP24,217,195.0,19,37.0,62.1,Baltic Components
+R1031,2025-04-15,Line C,Afternoon,Power Unit,OP38,274,223.0,15,50.0,71.3,Nordic Parts
+R1214,2025-01-16,Line B,Morning,Motherboard,OP28,317,295.0,8,4.0,62.2,EuroChip
+R1627,2025-05-08,LINE E ,Afternoon,Power Unit,OP28,212,205.0,15,17.0,77.5,Baltic Components
+R1186,2025-03-12,Line A,Night,Connector Board,OP39,286,260.0,9,17.0,74.7,Baltic Components
+R1211,2025-06-13,Line D,Morning,Connector Board,OP40,188,176.0,2,16.0,67.2,Nordic Parts
+R1674,2025-03-31,Line B,Night,Motherboard,OP28,263,238.0,11,16.0,74.1,EuroChip
+R1112,2025-01-15,Line A,Morning,Connector Board,OP04,289,,11,17.0,76.9,Nordic Parts
+R1669,2025-03-28,Line B,night,Connector Board,OP22,226,209.0,6,22.0,68.5,EuroChip
+R1132,2025-02-27,line a,Morning,Motherboard,OP19,255,230.0,12,22.0,,Baltic Components
+R1246,2025-06-24,Line A,Afternoon,Sensor Module,OP21,290,245.0,6,16.0,62.6,EuroChip
+R1753,2025-01-24,Line C,Afternoon,Sensor Module,OP03,310,246.0,22,7.0,77.3,Nordic Parts
+R1199,2025-03-02,Line B,Afternoon,Motherboard,OP31,309,N/A,7,40.0,64.5,EuroChip
+R1795,2025-04-15,Line C,Night,Motherboard,OP03,299,270.0,26,4.0,63.4,Nordic Parts
+R1111,2025-02-21,Line C,Morning,Connector Board,OP30,187,180.0,9,7.0,73.1,EuroChip
+R1003,2025-06-09,Line A,Morning,Connector Board,OP13,286,257.0,3,25.0,61.5,Baltic Components
+R1638,2025-03-13,Line C,Morning,Sensor Module,OP39,249,214.0,19,7.0,71.1,EuroChip
+R1610,2025-06-06,Line C,Afternoon,Motherboard,OP35,231,217.0,20,22.0,75.2,Nordic Parts
+R1628,2025-01-17,Line C,Afternoon,Sensor Module,OP35,240,224.0,18,8.0,67.6,TechSource
+R1005,2025-03-16,Line-C,Morning,Motherboard,OP35,269,255.0,23,19.0,77.5,Nordic Parts
+R1536,2025-04-18,line b,Afternoon,Motherboard,OP23,180,154.0,2,13.0,64.7,Nordic Parts
+R1190,2025-05-31,line a,Morning,Power Unit,OP34,261,208.0,10,22.0,71.7,Baltic Components
+R1385,2025-05-09,Line D,Afternoon,Sensor Module,OP12,248,237.0,5,,65.6,TechSource
+R1558,2025-04-01,Line A,night,Sensor Module,OP18,199,195.0,8,40.0,68.1,Nordic Parts
+R1159,2025-01-30,Line E,Night,Connector Board,OP01,216,209.0,15,31.0,72.0,TechSource
+R1464,2025-01-15,Line E,Afternoon,Sensor Module,OP28,243,214.0,13,21.0,67.6,Baltic Components
+R1097,2025-06-09,Line-E,Morning,Power Unit,OP36,180,156.0,11,74.0,71.1,TechSource
+R1333,2025-03-17,LINE C ,Afternoon,Sensor Module,OP03,313,273.0,13,43.0,68.3,EuroChip
+R1269,2025-04-23,Line E,Afternoon,Sensor Module,OP02,313,307.0,22,21.0,54.8,Baltic Components
+R1347,2025-06-25,Line B,Morning,Sensor Module,OP07,294,246.0,7,20.0,70.3,Baltic Components
+R1703,2025-04-13,LINE A ,Night,Connector Board,OP34,184,172.0,6,5.0,73.2,EuroChip
+R1127,2025-06-24,Line A,Morning,Motherboard,OP34,276,226.0,1,17.0,54.9,EuroChip
+R1247,2025-01-20,Line-B,Morning,Power Unit,OP39,293,240.0,6,28.0,68.2,TechSource
+R1652,2025-03-12,Line D,Morning,Motherboard,OP05,276,248.0,4,46.0,69.8,Baltic Components
+R1270,2025-03-27,Line E,Afternoon,Motherboard,OP04,213,196.0,8,35.0,64.7,EuroChip
+R1064,2025-05-09,Line E,Morning,Sensor Module,OP30,218,209.0,17,17.0,75.2,TechSource
+R1014,2025-06-22,Line B,Afternoon,Sensor Module,OP03,183,166.0,8,25.0,59.6,TechSource
+R1170,2025-04-02,LINE A ,Night,Motherboard,OP29,200,168.0,8,33.0,64.1,Nordic Parts
+R1559,2025-04-23,Line C,Morning,Sensor Module,OP14,301,279.0,25,15.0,67.7,Nordic Parts
+R1136,2025-05-19,Line A,Night,Power Unit,OP40,221,209.0,13,60.0,83.2,Baltic Components
+R1454,2025-03-11,LINE A ,Night,Motherboard,OP37,261,257.0,9,35.0,74.0,Nordic Parts
+R1587,2025-02-22,line d,Night,Sensor Module,OP29,309,252.0,24,4.0,64.8,Nordic Parts
+R1521,2025-03-10,Line D,Afternoon,Motherboard,OP23,261,253.0,8,21.0,,TechSource
+R1533,2025-03-02,Line E,Morning,Sensor Module,OP13,198,170.0,12,11.0,58.3,Baltic Components
+R1648,2025-05-17,Line B,Morning,Power Unit,OP06,274,228.0,5,39.0,60.1,EuroChip
+R1446,2025-01-01,Line C,Morning,Sensor Module,OP22,208,200.0,18,28.0,66.6,Baltic Components
+R1582,2025-02-28,Line A,Night,Sensor Module,OP37,270,241.0,13,13.0,64.2,TechSource
+R1736,2025-02-09,Line A,night,Sensor Module,OP04,294,262.0,14,15.0,68.2,Baltic Components
+R1019,2025-04-26,Line C,Afternoon,Sensor Module,OP36,215,206.0,15,37.0,63.5,TechSource
+R1702,2025-06-26,Line C,Night,Power Unit,,184,172.0,9,27.0,63.5,Baltic Components
+R1107,2025-05-22,LINE B ,Night,Power Unit,OP36,226,186.0,6,38.0,68.5,EuroChip
+R1327,2025-04-18,LINE B ,Afternoon,Sensor Module,OP18,211,192.0,4,2.0,65.7,EuroChip
+R1696,2025-05-24,Line-E,Morning,Connector Board,OP21,185,151.0,7,33.0,63.9,TechSource
+R1105,2025-03-18,Line C,Morning,Motherboard,OP13,206,171.0,11,29.0,67.8,TechSource
+R1099,2025-05-20,Line A,Night,Sensor Module,OP40,263,212.0,17,11.0,76.8,EuroChip
+R1387,2025-06-10,line e,Night,Motherboard,OP33,315,262.0,22,43.0,63.9,Nordic Parts
+R1224,2025-03-28,Line A,Morning,Sensor Module,OP17,274,269.0,7,11.0,71.2,TechSource
+R1304,2025-05-26,Line D,Morning,Connector Board,OP23,274,252.0,9,,69.5,Nordic Parts
+R1763,2025-02-11,LINE A ,Morning,Connector Board,OP10,258,228.0,11,27.0,77.8,Nordic Parts
+R1109,2025-01-31,Line B,Afternoon,Power Unit,OP31,189,160.0,2,17.0,73.0,TechSource
+R1478,2025-01-28,Line A,Afternoon,Connector Board,OP07,283,225.0,3,4.0,70.4,Nordic Parts
+R1742,2025-05-25,Line D,Morning,Power Unit,OP29,245,228.0,4,33.0,74.2,Nordic Parts
+R1415,2025-03-13,Line-B,Morning,Connector Board,OP12,190,169.0,5,12.0,62.3,Nordic Parts
+R1635,2025-04-06,Line A,Afternoon,Sensor Module,OP04,299,286.0,16,40.0,86.4,EuroChip
+R1709,2025-06-22,Line B,Afternoon,Power Unit,OP40,311,265.0,16,5.0,76.5,TechSource
+R1389,2025-04-18,Line D,Morning,Motherboard,OP35,285,261.0,5,10.0,73.6,EuroChip
+R1475,2025-04-04,Line A,Night,Power Unit,OP17,252,203.0,9,31.0,75.1,TechSource
+R1030,2025-01-16,Line-C,Morning,Sensor Module,OP06,286,251.0,12,3.0,74.5,Nordic Parts
+R1237,2025-02-10,Line E,Night,Power Unit,OP19,218,190.0,13,61.0,63.4,TechSource
+R1279,2025-01-23,Line C,Night,Connector Board,OP24,258,246.0,26,9.0,70.2,TechSource
+R1238,2025-03-17,Line A,Morning,Motherboard,OP03,255,210.0,1,11.0,65.4,Nordic Parts
+R1756,05/01/2025,Line A,Afternoon,Sensor Module,OP11,219,214.0,5,28.0,60.1,Nordic Parts
+R1530,2025-04-02,Line B,Morning,Power Unit,OP25,226,206.0,7,35.0,72.5,TechSource
+R1584,2025-03-16,Line B,Afternoon,Power Unit,OP19,214,191.0,3,12.0,65.5,Baltic Components
+R1631,2025-02-09,Line-E,Morning,Connector Board,OP02,290,257.0,12,,,Nordic Parts
+R1706,2025-03-21,Line E,afternoon,Motherboard,OP07,268,234.0,15,6.0,63.5,Nordic Parts
+R1116,2025-05-11,Line A,Night,Power Unit,OP12,288,244.0,2,14.0,72.9,Nordic Parts
+R1784,2025-03-05,Line A,Afternoon,Sensor Module,OP36,231,224.0,6,31.0,65.5,Nordic Parts
+R1068,2025-03-04,Line B,morning,Sensor Module,OP02,259,243.0,12,11.0,83.4,Nordic Parts
+R1537,2025-01-19,Line C,afternoon,Power Unit,OP40,304,289.0,16,17.0,63.8,Baltic Components
+R1619,2025-05-26,Line A,Afternoon,Motherboard,OP19,198,187.0,2,53.0,64.3,TechSource
+R1111,2025-02-21,Line C,Morning,Connector Board,OP30,187,180.0,9,7.0,73.1,EuroChip
+R1145,2025-04-22,line d,Morning,Motherboard,OP02,274,236.0,13,37.0,77.6,TechSource
+R1698,2025-03-06,LINE D ,Afternoon,Power Unit,OP15,293,241.0,4,9.0,72.8,TechSource
+R1115,2025-01-20,LINE A ,Afternoon,Power Unit,OP17,223,181.0,0,34.0,66.9,Baltic Components
+R1143,2025-06-05,Line C,Afternoon,Sensor Module,OP37,317,297.0,20,5.0,66.6,EuroChip
+R1713,2025-05-03,Line E,Afternoon,Motherboard,OP17,182,149.0,11,37.0,75.6,Nordic Parts
+R1440,2025-05-07,Line B,Afternoon,Motherboard,OP18,291,238.0,9,43.0,67.9,EuroChip
+R1359,2025-05-08,Line B,Afternoon,Connector Board,OP16,184,144.0,13,24.0,76.5,Baltic Components
+R1354,2025-02-18,line c,Afternoon,Sensor Module,OP25,313,,26,54.0,67.5,Nordic Parts
+R1037,2025-04-03,line a,Morning,Sensor Module,OP01,202,170.0,5,16.0,72.7,TechSource
+R1580,2025-01-28,Line C,morning,Connector Board,,213,198.0,15,68.0,69.7,Baltic Components
+R1251,2025-04-28,line d,Morning,Motherboard,OP27,207,194.0,6,32.0,66.3,EuroChip
+R1224,2025-03-28,Line A,Morning,Sensor Module,OP17,274,269.0,7,11.0,71.2,TechSource
+R1106,2025-06-03,Line E,Afternoon,Sensor Module,OP32,247,202.0,15,30.0,65.1,Nordic Parts
+R1263,2025-02-17,line e,Morning,Motherboard,OP27,193,182.0,11,,63.8,Nordic Parts
+R1095,2025-03-10,Line E,Night,Connector Board,OP23,205,197.0,17,14.0,68.1,Nordic Parts
+R1692,2025-05-30,Line-A,Afternoon,Power Unit,OP32,216,181.0,4,57.0,63.7,TechSource
+R1465,2025-01-01,Line E,Morning,Motherboard,OP22,231,187.0,11,33.0,65.8,EuroChip
+R1448,2025-04-23,line c,Morning,Power Unit,OP04,310,,23,23.0,77.4,TechSource
+R1771,2025-05-09,Line A,morning,Sensor Module,OP15,284,272.0,5,47.0,66.0,EuroChip
+R1401,2025-02-21,Line B,Afternoon,Power Unit,OP05,215,191.0,5,16.0,67.7,TechSource
+R1336,2025-04-10,Line B,Night,Connector Board,OP32,311,294.0,11,27.0,74.8,TechSource
+R1134,2025-03-25,Line E,Night,Connector Board,OP28,292,N/A,25,25.0,65.9,Nordic Parts
+R1437,2025-04-12,line a,Morning,Power Unit,OP28,181,144.0,3,32.0,68.7,Nordic Parts
+R1346,2025-01-09,Line D,Afternoon,Power Unit,OP15,257,213.0,4,13.0,67.6,TechSource
+R1215,2025-02-28,Line-A,Afternoon,Motherboard,OP38,193,183.0,3,7.0,72.4,TechSource
+R1468,2025-06-17,LINE D ,Morning,Connector Board,OP15,226,221.0,6,29.0,71.0,Nordic Parts
+R1746,2025-03-20,Line B,Night,Connector Board,OP09,276,226.0,8,13.0,68.7,TechSource
+R1264,2025-05-24,Line-A,morning,Sensor Module,OP27,252,223.0,6,13.0,72.6,EuroChip
+R1169,2025-05-07,LINE D ,Night,Power Unit,OP02,281,255.0,9,3.0,66.9,Nordic Parts
+R1431,2025-03-07,Line A,Night,Connector Board,OP04,194,152.0,4,12.0,70.7,EuroChip
+R1053,2025-04-22,Line A,Morning,Power Unit,OP07,276,261.0,6,5.0,68.1,TechSource
+R1291,2025-04-05,Line A,Night,Power Unit,OP22,292,237.0,7,57.0,57.7,Nordic Parts
+R1783,2025-05-18,Line C,Night,Motherboard,OP17,265,215.0,18,11.0,65.9,Nordic Parts
+R1613,2025-02-19,Line D,Night,Motherboard,OP06,250,209.0,12,40.0,74.6,TechSource
+R1151,2025-04-22,Line B,Afternoon,Motherboard,OP29,231,190.0,7,8.0,67.5,Baltic Components
+R1230,2025-03-10,Line B,Night,Power Unit,OP11,265,238.0,13,25.0,56.9,Nordic Parts
+R1639,2025-03-25,Line-A,Morning,Power Unit,OP05,227,202.0,5,12.0,77.2,Baltic Components
+R1255,2025-05-25,line d,Morning,Motherboard,OP35,247,207.0,6,8.0,67.8,EuroChip
+R1571,2025-02-05,Line-E,Morning,Connector Board,OP11,312,254.0,15,16.0,64.1,TechSource
+R1711,2025-04-16,Line A,Night,Power Unit,OP06,306,245.0,12,16.0,63.5,Baltic Components
+R1188,2025-03-04,Line E,Night,Power Unit,OP28,215,169.0,13,19.0,63.5,TechSource
+R1457,2025-02-27,Line-B,Morning,Motherboard,OP16,312,269.0,12,36.0,68.8,Baltic Components
+R1778,2025-04-12,Line B,Night,Connector Board,OP06,318,248.0,9,32.0,56.2,Nordic Parts
+R1185,2025-02-06,Line C,morning,Connector Board,OP13,270,264.0,14,12.0,59.4,EuroChip
+R1043,2025-04-09,line c,Afternoon,Connector Board,OP02,243,213.0,21,11.0,61.5,TechSource
+R1142,2025-04-27,Line A,Morning,Motherboard,OP22,258,204.0,2,8.0,61.4,TechSource
+R1469,2025-01-24,LINE D ,Night,Sensor Module,OP29,253,205.0,8,21.0,68.9,EuroChip
+R1653,2025-05-24,Line C,Night,Power Unit,OP14,309,241.0,18,21.0,73.4,Baltic Components
+R1391,2025-06-24,LINE B ,Night,Motherboard,OP11,249,221.0,22,85.0,77.9,EuroChip
+R1352,2025-06-22,Line C,Afternoon,Sensor Module,OP06,199,180.0,12,15.0,62.1,Nordic Parts
+R1779,2025-05-11,Line C,Night,Sensor Module,OP11,180,153.0,14,14.0,74.4,EuroChip
+R1150,2025-04-15,Line E,Morning,Motherboard,OP23,283,239.0,14,4.0,68.3,EuroChip
+R1067,2025-06-02,Line-C,Morning,Power Unit,OP18,286,241.0,16,35.0,73.6,TechSource
+R1424,2025-04-05,Line D,Night,Sensor Module,OP11,241,215.0,19,39.0,75.7,TechSource
+R1288,2025-03-15,Line E,Night,Motherboard,OP39,221,182.0,11,17.0,68.1,TechSource
+R1518,2025-05-29,Line B,Morning,Sensor Module,OP22,204,168.0,6,19.0,74.3,Nordic Parts
+R1351,2025-05-11,Line B,Afternoon,Connector Board,OP18,254,218.0,9,13.0,76.2,TechSource
+R1330,2025-01-30,line d,Afternoon,Power Unit,OP23,316,273.0,13,26.0,76.6,TechSource
+R1382,2025-06-15,line e,Afternoon,Power Unit,OP35,256,252.0,25,30.0,58.0,TechSource
+R1411,2025-02-01,Line-C,Afternoon,Connector Board,OP38,183,157.0,15,14.0,999.0,EuroChip
+R1565,2025-06-09,line a,Night,Motherboard,OP30,208,192.0,6,22.0,64.9,EuroChip
+R1317,2025-05-15,Line C,Morning,Sensor Module,OP11,191,182.0,13,11.0,65.1,Nordic Parts
+R1487,2025-05-14,Line E,Morning,Connector Board,OP11,274,271.0,17,17.0,68.4,Nordic Parts
+R1131,2025-06-18,Line E,Afternoon,Motherboard,OP30,206,178.0,14,,77.4,Baltic Components
+R1341,2025-02-16,Line C,Afternoon,Connector Board,OP05,269,244.0,10,26.0,70.8,Baltic Components
+R1296,2025-01-13,Line-B,Afternoon,Sensor Module,OP02,197,170.0,9,37.0,79.4,Nordic Parts
+R1283,2025-01-03,Line C,Morning,Motherboard,OP34,221,215.0,25,19.0,78.2,EuroChip
+R1733,2025-06-21,Line E,Afternoon,Sensor Module,OP33,223,181.0,7,15.0,67.8,Nordic Parts
+R1665,2025-02-02,Line-C,Night,Motherboard,OP29,190,164.0,13,62.0,64.0,Baltic Components
+R1130,2025-06-26,Line-C,Afternoon,Sensor Module,OP13,189,171.0,21,11.0,,EuroChip
+R1242,2025-06-11,Line A,Morning,Sensor Module,OP23,220,175.0,3,8.0,65.2,TechSource
+R1442,2025-06-06,Line D,Afternoon,Connector Board,OP18,199,162.0,1,8.0,72.1,Nordic Parts
+R1114,2025-01-19,Line B,night,Connector Board,OP16,245,209.0,11,6.0,55.7,Nordic Parts
+R1358,2025-01-09,Line B,Morning,Connector Board,OP22,246,216.0,8,32.0,68.5,Nordic Parts
+R1510,2025-06-15,Line A,Night,Sensor Module,OP35,310,302.0,21,37.0,,Nordic Parts
+R1407,13/06/2025,Line D,Morning,Power Unit,OP23,186,177.0,8,14.0,75.2,Baltic Components
+R1675,2025-05-19,Line-B,Night,Motherboard,OP06,263,259.0,10,4.0,64.8,Nordic Parts
+R1271,2025-02-27,Line-B,Afternoon,Sensor Module,OP17,219,208.0,11,,75.4,Nordic Parts
+R1488,2025-03-13,line e,Afternoon,Connector Board,OP39,296,291.0,16,9.0,68.7,Baltic Components
+R1284,2025-06-05,Line A,Morning,Power Unit,OP09,198,194.0,4,,69.3,Baltic Components
+R1129,29/04/2025,LINE A ,Morning,Motherboard,OP13,193,189.0,6,,69.9,Nordic Parts
+R1716,2025-05-20,Line E,Afternoon,Sensor Module,OP37,216,212.0,12,49.0,,TechSource
+R1781,2025-03-03,Line B,Afternoon,Power Unit,OP38,299,241.0,3,20.0,72.4,EuroChip
+R1210,2025-05-30,LINE A ,Afternoon,Sensor Module,OP07,212,209.0,7,3.0,74.0,Nordic Parts
+R1443,2025-02-05,Line A,Morning,Connector Board,OP35,292,281.0,8,14.0,76.6,EuroChip
+R1775,2025-01-18,line e,Afternoon,Connector Board,OP21,249,239.0,10,7.0,58.7,Baltic Components
+R1741,2025-02-27,Line E,Morning,Connector Board,OP08,257,227.0,11,93.0,67.8,EuroChip
+R1040,2025-05-30,Line D,Morning,Sensor Module,OP22,292,282.0,7,8.0,56.9,TechSource
+R1306,2025-04-30,Line-A,Morning,Motherboard,OP14,218,212.0,2,21.0,67.0,Baltic Components
+R1542,2025-01-15,Line A,Afternoon,Power Unit,OP18,181,159.0,3,32.0,73.8,Nordic Parts
+R1204,2025-04-18,Line E,Afternoon,Connector Board,OP07,253,214.0,11,16.0,61.9,TechSource
+R1272,2025-06-25,Line C,Afternoon,Motherboard,OP21,213,201.0,18,,71.3,Nordic Parts
+R1008,2025-06-24,Line C,Night,Connector Board,OP36,261,,23,35.0,67.8,EuroChip
+R1525,2025-01-05,Line-D,afternoon,Sensor Module,OP39,224,205.0,4,16.0,68.7,Baltic Components
+R1070,2025-05-22,line d,Morning,Sensor Module,OP25,258,217.0,5,15.0,65.0,TechSource
+R1477,2025-05-24,Line A,Night,Connector Board,OP26,227,208.0,9,16.0,66.9,TechSource
+R1381,2025-05-11,Line D,Morning,Sensor Module,OP22,261,228.0,7,34.0,60.0,Baltic Components
+R1007,2025-02-13,Line B,Morning,Motherboard,OP36,274,229.0,8,42.0,61.7,TechSource
+R1687,2025-01-02,Line C,Morning,Motherboard,OP13,227,200.0,15,44.0,79.7,Baltic Components
+R1371,2025-03-30,Line B,Night,Sensor Module,OP19,238,191.0,8,22.0,74.2,Baltic Components
+R1339,2025-01-31,Line E,Afternoon,Sensor Module,OP16,263,240.0,4,2.0,70.6,Baltic Components
+R1093,2025-03-30,line c,Afternoon,Motherboard,OP21,300,,29,40.0,75.5,Baltic Components
+R1697,2025-02-18,line a,Afternoon,Power Unit,OP39,276,221.0,5,19.0,73.4,TechSource
+R1549,2025-01-01,Line C,Morning,Connector Board,OP39,181,N/A,14,10.0,65.2,Nordic Parts
+R1079,2025-04-10,line e,Afternoon,Connector Board,OP36,204,193.0,9,17.0,68.1,Baltic Components
+R1419,2025-04-12,Line D,Morning,Motherboard,OP01,311,299.0,8,25.0,64.9,EuroChip
+R1049,2025-03-10,LINE A ,Afternoon,Sensor Module,OP11,255,228.0,7,8.0,79.3,Baltic Components
+R1250,2025-06-07,Line C,Morning,Motherboard,OP27,245,214.0,5,37.0,72.6,EuroChip
+R1147,2025-05-15,Line A,Afternoon,Connector Board,OP34,185,177.0,0,11.0,53.4,EuroChip
+R1787,2025-04-19,Line D,Morning,Motherboard,OP37,294,266.0,5,28.0,64.6,Nordic Parts
+R1057,2025-04-28,Line D,Afternoon,Motherboard,OP23,239,212.0,7,42.0,70.2,TechSource
+R1644,2025-03-13,LINE A ,morning,Sensor Module,OP02,228,179.0,4,26.0,61.6,TechSource
+R1427,2025-04-13,Line D,Afternoon,Connector Board,OP28,188,182.0,4,23.0,64.5,Baltic Components
+R1386,2025-05-31,Line B,Afternoon,Sensor Module,OP23,181,176.0,8,27.0,56.9,TechSource
+R1055,2025-01-11,Line B,Afternoon,Sensor Module,OP32,312,304.0,8,6.0,69.7,TechSource
+R1770,2025-03-02,Line D,Morning,Power Unit,OP30,222,210.0,5,38.0,,Nordic Parts
+R1774,2025-03-14,Line E,Morning,Sensor Module,OP09,266,230.0,19,5.0,79.8,TechSource
+R1794,2025-06-01,Line A,night,Power Unit,OP02,238,207.0,10,31.0,,EuroChip
+R1377,2025-03-10,Line D,Night,Sensor Module,OP32,229,198.0,12,50.0,62.6,EuroChip
+R1449,2025-06-24,Line D,Afternoon,Sensor Module,OP31,236,231.0,6,6.0,71.1,Baltic Components
+R1338,2025-02-10,line d,Night,Power Unit,OP39,223,205.0,7,13.0,69.2,Nordic Parts
+R1642,23/03/2025,Line-C,morning,Sensor Module,OP02,195,171.0,12,27.0,56.9,TechSource
+R1528,2025-04-02,Line C,Afternoon,Motherboard,OP29,262,232.0,17,75.0,71.8,TechSource
+R1025,2025-05-28,Line E,Afternoon,Power Unit,OP37,243,197.0,13,19.0,53.7,Nordic Parts
+R1047,2025-05-11,LINE A ,Morning,Sensor Module,OP15,207,198.0,6,27.0,49.6,Baltic Components
+R1174,2025-01-26,Line E,Morning,Power Unit,OP25,260,220.0,12,29.0,69.7,TechSource
+R1445,2025-05-22,Line A,Morning,Sensor Module,OP09,264,N/A,5,16.0,70.9,EuroChip
+R1059,2025-04-01,LINE B ,Afternoon,Sensor Module,OP16,306,271.0,17,9.0,81.7,Nordic Parts
+R1153,2025-02-16,LINE C ,Night,Motherboard,OP36,180,143.0,11,9.0,72.7,EuroChip
+R1717,2025-05-26,Line A,Night,Power Unit,OP37,243,224.0,8,66.0,69.4,Nordic Parts
+R1589,2025-06-26,Line E,Night,Motherboard,OP22,190,178.0,11,25.0,72.7,Baltic Components
+R1161,2025-01-11,Line C,Afternoon,Sensor Module,OP20,248,228.0,23,40.0,67.7,Baltic Components
+R1244,2025-05-11,Line C,Afternoon,Power Unit,OP09,206,171.0,19,35.0,70.0,EuroChip
+R1596,2025-01-08,Line A,Morning,Power Unit,OP02,299,276.0,8,60.0,68.1,Nordic Parts
+R1158,2025-06-14,Line D,Afternoon,Power Unit,OP29,286,235.0,5,11.0,58.3,EuroChip
+R1390,2025-05-08,Line A,Afternoon,Power Unit,OP32,313,278.0,7,25.0,63.4,Nordic Parts
+R1326,2025-05-07,line d,Afternoon,Power Unit,OP19,188,183.0,3,32.0,70.3,Baltic Components
+R1409,2025-03-06,Line D,Morning,Sensor Module,OP15,188,165.0,3,80.0,66.7,Baltic Components
+R1640,2025-05-27,LINE D ,morning,Motherboard,OP02,218,171.0,5,15.0,68.4,TechSource
+R1594,2025-06-27,Line B,Morning,Motherboard,OP37,246,N/A,5,48.0,72.1,EuroChip
+R1388,2025-06-27,Line B,Night,Motherboard,OP18,231,187.0,9,9.0,68.0,EuroChip
+R1617,2025-03-09,Line B,Morning,Connector Board,OP30,272,239.0,6,20.0,61.7,EuroChip
+R1179,2025-01-15,Line E,Night,Connector Board,OP11,183,149.0,12,25.0,65.9,Nordic Parts
+R1629,2025-04-30,line d,Night,Motherboard,OP02,266,242.0,12,43.0,68.8,Baltic Components
+R1417,2025-01-18,line b,Morning,Motherboard,OP26,310,269.0,5,30.0,67.1,Baltic Components
+R1712,07/05/2025,Line E,Morning,Sensor Module,OP28,184,165.0,11,12.0,77.9,Baltic Components
+R1054,2025-02-22,Line A,Afternoon,Sensor Module,OP37,282,249.0,9,25.0,74.6,Baltic Components
+R1632,2025-04-21,Line B,Afternoon,Sensor Module,OP40,280,,8,9.0,59.2,Baltic Components
+R1393,2025-01-22,Line C,Afternoon,Connector Board,OP37,247,224.0,17,,63.9,EuroChip
+R1168,2025-05-11,Line B,Morning,Connector Board,OP04,311,266.0,12,34.0,65.3,EuroChip
+R1550,2025-04-19,Line E,Afternoon,Power Unit,OP18,272,243.0,16,26.0,70.8,EuroChip
+R1593,2025-03-08,Line B,Afternoon,Sensor Module,OP24,276,234.0,7,19.0,69.8,EuroChip
+R1532,2025-05-26,line d,Morning,Motherboard,OP38,235,189.0,4,36.0,63.8,Baltic Components
+R1755,2025-03-18,Line A,Night,Motherboard,OP07,259,227.0,9,19.0,69.6,EuroChip
+R1024,2025-03-29,Line A,Morning,Sensor Module,OP06,180,144.0,1,36.0,72.1,TechSource
+R1298,2025-04-27,Line C,Afternoon,Connector Board,OP31,251,196.0,15,43.0,67.6,Baltic Components
+R1678,2025-01-07,Line C,Morning,Power Unit,OP32,286,266.0,24,16.0,74.9,TechSource
+R1649,2025-05-26,line c,Morning,Power Unit,OP11,192,171.0,14,30.0,64.8,Baltic Components
+R1018,2025-05-26,Line D,Night,Motherboard,OP40,275,244.0,14,13.0,58.5,Nordic Parts
+R1645,2025-01-21,Line D,Morning,Sensor Module,OP39,201,185.0,6,30.0,56.6,TechSource
+R1312,2025-04-14,Line D,Night,Motherboard,OP30,218,189.0,7,31.0,70.9,TechSource
+R1254,2025-01-17,Line B,Afternoon,Connector Board,OP22,228,190.0,7,67.0,69.3,EuroChip
+R1225,2025-04-27,Line C,Afternoon,Connector Board,,200,166.0,13,40.0,63.0,Nordic Parts
+R1087,2025-01-29,Line A,Afternoon,Power Unit,OP24,269,226.0,5,12.0,,TechSource
+R1447,2025-05-07,Line C,Morning,Sensor Module,OP29,298,250.0,13,23.0,70.2,Baltic Components
+R1472,2025-05-18,Line A,Night,Motherboard,OP35,292,232.0,3,98.0,73.1,Nordic Parts
+R1646,2025-02-21,Line B,Morning,Sensor Module,OP22,229,199.0,7,18.0,68.7,TechSource
+R1222,2025-05-06,Line C,Night,Sensor Module,OP19,316,300.0,30,17.0,64.8,Baltic Components
+R1573,2025-01-16,Line A,Morning,Power Unit,OP03,241,208.0,4,47.0,73.8,TechSource
+R1730,2025-04-26,Line E,Morning,Power Unit,OP27,234,218.0,7,57.0,69.1,Nordic Parts
+R1218,2025-02-24,Line-B,Morning,Motherboard,OP25,204,186.0,3,49.0,,Baltic Components
+R1658,2025-05-12,Line-A,Morning,Motherboard,OP27,205,182.0,2,39.0,71.1,EuroChip
+R1429,2025-05-20,Line B,Morning,Sensor Module,OP03,283,255.0,12,38.0,62.3,TechSource
+R1466,2025-04-13,Line B,Night,Sensor Module,OP40,206,179.0,11,57.0,76.4,Baltic Components
+R1792,2025-01-06,Line E,Afternoon,Power Unit,OP12,227,215.0,21,53.0,60.6,EuroChip
+R1512,2025-04-17,Line C,Morning,Power Unit,OP28,258,231.0,15,17.0,62.9,TechSource
+R1193,2025-05-08,Line A,afternoon,Connector Board,OP22,201,174.0,3,63.0,66.3,TechSource
+R1735,2025-06-06,Line E,Afternoon,Motherboard,OP24,315,303.0,13,22.0,63.6,TechSource
+R1286,2025-04-04,Line E,Morning,Sensor Module,OP10,303,258.0,15,33.0,68.7,Nordic Parts
+R1066,2025-02-13,Line C,Afternoon,Power Unit,OP13,250,238.0,13,58.0,75.0,Baltic Components
+R1769,2025-03-17,Line-C,Afternoon,Connector Board,OP07,274,241.0,22,23.0,82.0,Nordic Parts
+R1071,2025-02-28,Line E,Morning,Sensor Module,OP37,187,163.0,6,13.0,66.2,TechSource
+R1412,2025-05-21,Line B,Morning,Power Unit,OP30,245,211.0,7,33.0,71.5,Nordic Parts
+R1082,2025-06-25,Line-D,Night,Sensor Module,OP21,189,183.0,11,56.0,73.0,Baltic Components
+R1749,2025-03-23,line a,Morning,Motherboard,OP12,295,239.0,4,32.0,67.2,Nordic Parts
+R1479,2025-05-31,Line A,morning,Connector Board,OP30,295,257.0,12,7.0,50.8,EuroChip
+R1680,2025-04-22,Line-D,Afternoon,Connector Board,OP19,186,172.0,3,8.0,60.8,TechSource
+R1015,2025-05-03,Line B,Night,Connector Board,OP18,311,253.0,15,6.0,73.7,EuroChip
+R1754,2025-06-27,Line-A,Morning,Power Unit,OP32,221,173.0,4,,66.8,EuroChip
+R1699,2025-01-09,Line-E,Night,Power Unit,OP08,258,244.0,20,7.0,69.7,Nordic Parts
+R1654,2025-06-08,Line C,Night,Motherboard,OP30,239,231.0,25,13.0,72.5,Nordic Parts
+R1546,2025-06-27,line a,Afternoon,Connector Board,OP24,281,240.0,2,21.0,65.4,Baltic Components
+R1406,2025-02-13,Line E,morning,Sensor Module,OP19,226,202.0,8,43.0,74.8,Baltic Components
+R1255,2025-05-25,line d,Morning,Motherboard,OP35,247,207.0,6,8.0,67.8,EuroChip
+R1579,2025-06-23,Line-D,Afternoon,Power Unit,OP12,277,232.0,6,,56.5,Nordic Parts
+R1135,2025-01-07,Line-C,Morning,Motherboard,,264,217.0,12,19.0,70.9,Baltic Components
+R1661,15/05/2025,Line B,night,Sensor Module,OP12,317,273.0,11,40.0,66.0,Baltic Components
+R1416,2025-05-01,Line C,Morning,Sensor Module,OP20,196,180.0,18,66.0,76.7,TechSource
+R1029,2025-03-04,Line D,Afternoon,Power Unit,OP27,202,158.0,7,10.0,69.5,EuroChip
+R1181,2025-02-09,Line-C,Morning,Connector Board,OP03,257,226.0,13,22.0,64.8,EuroChip
+R1227,2025-04-12,Line D,Night,Sensor Module,OP21,284,266.0,12,,68.5,TechSource
+R1404,2025-01-26,Line E,Afternoon,Motherboard,OP12,191,181.0,6,30.0,67.7,TechSource
+R1364,2025-04-27,LINE D ,Morning,Motherboard,OP11,202,181.0,6,40.0,70.8,Baltic Components
+R1767,2025-01-29,Line C,morning,Sensor Module,OP25,284,266.0,19,41.0,63.4,EuroChip
+R1104,2025-05-03,Line-C,Afternoon,Connector Board,OP16,235,,18,8.0,69.6,Baltic Components
+R1321,2025-03-04,Line B,Afternoon,Connector Board,OP22,190,149.0,7,91.0,71.0,EuroChip
+R1268,2025-02-19,Line D,Afternoon,Motherboard,OP02,242,236.0,5,14.0,67.3,Nordic Parts
+R1452,2025-04-13,Line-E,Afternoon,Power Unit,OP17,304,241.0,27,43.0,75.4,TechSource
+R1786,2025-02-25,Line D,Afternoon,Power Unit,OP18,260,257.0,10,20.0,73.9,Nordic Parts
+R1392,2025-03-10,line e,Morning,Power Unit,OP08,300,292.0,15,12.0,63.9,EuroChip
+R1523,2025-01-05,Line C,Afternoon,Connector Board,OP27,263,,17,26.0,65.6,EuroChip
+R1521,2025-03-10,Line D,Afternoon,Motherboard,OP23,261,253.0,8,21.0,,TechSource
+R1241,2025-01-05,Line C,Night,Sensor Module,OP11,286,253.0,23,30.0,68.1,Nordic Parts
+R1430,2025-06-10,Line E,Night,Motherboard,OP10,301,267.0,18,19.0,66.9,EuroChip
+R1554,24/03/2025,Line A,Morning,Power Unit,OP17,221,185.0,3,24.0,71.0,Baltic Components
+R1694,2025-06-03,Line B,Afternoon,Sensor Module,OP16,311,250.0,5,22.0,60.4,EuroChip
+R1203,2025-03-01,LINE C ,night,Connector Board,OP32,270,219.0,18,16.0,74.2,Baltic Components
+R1764,2025-02-18,Line A,Morning,Motherboard,OP02,256,222.0,5,3.0,67.6,Nordic Parts
+R1083,2025-02-04,Line A,Afternoon,Connector Board,OP29,188,178.0,6,20.0,69.7,Baltic Components
+R1118,2025-03-13,Line A,Morning,Connector Board,OP35,196,178.0,2,45.0,66.9,EuroChip
+R1096,2025-01-04,Line A,Morning,Connector Board,OP18,227,222.0,2,72.0,53.7,TechSource
+R1501,2025-05-27,Line-A,morning,Connector Board,OP32,185,153.0,3,17.0,60.4,Baltic Components
+R1166,2025-06-10,Line-A,Morning,Sensor Module,OP20,318,273.0,12,29.0,,Nordic Parts
+R1529,2025-06-27,Line C,morning,Motherboard,OP26,277,236.0,14,6.0,70.0,Baltic Components
+R1189,2025-06-29,Line D,Morning,Power Unit,OP33,257,,8,18.0,64.2,Baltic Components
+R1766,2025-05-25,LINE A ,Morning,Motherboard,OP04,207,195.0,3,27.0,65.1,Baltic Components
+R1682,2025-02-21,Line D,Afternoon,Power Unit,OP08,303,294.0,6,32.0,65.1,Nordic Parts
+R1092,2025-02-23,Line B,Afternoon,Connector Board,OP02,200,157.0,4,3.0,70.5,TechSource
+R1366,2025-06-07,line a,morning,Power Unit,OP02,297,270.0,8,37.0,58.4,Baltic Components
+R1315,2025-05-14,Line A,Afternoon,Power Unit,OP10,186,156.0,3,24.0,72.7,EuroChip
+R1261,2025-03-18,Line A,Night,Connector Board,OP20,252,209.0,11,13.0,68.0,TechSource
+R1361,2025-06-12,Line A,Afternoon,Power Unit,OP30,218,185.0,1,16.0,71.7,EuroChip
+R1138,2025-03-08,Line E,Morning,Power Unit,OP14,272,227.0,7,29.0,,TechSource
+R1727,2025-04-28,Line B,Afternoon,Motherboard,OP18,291,242.0,3,31.0,61.9,Baltic Components
+R1276,2025-02-10,Line E,Morning,Power Unit,OP16,272,255.0,21,11.0,75.3,Baltic Components
+R1384,2025-06-25,Line B,Night,Power Unit,,213,210.0,9,,64.4,Nordic Parts
+R1056,2025-04-14,Line A,Morning,Motherboard,,197,179.0,3,29.0,70.8,EuroChip
+R1655,2025-02-07,Line E,Night,Connector Board,,295,234.0,15,22.0,,EuroChip
+R1522,2025-04-05,Line C,Night,Motherboard,OP14,300,284.0,24,36.0,,Nordic Parts
+R1410,2025-03-02,line c,Night,Power Unit,OP30,208,200.0,19,10.0,72.0,EuroChip
+R1088,2025-03-29,LINE A ,Morning,Motherboard,OP02,184,174.0,2,12.0,66.3,TechSource
+R1668,2025-03-11,line c,Morning,Motherboard,OP04,318,312.0,23,5.0,73.9,TechSource
+R1562,2025-05-26,LINE E ,Morning,Sensor Module,OP11,273,219.0,20,16.0,76.9,Baltic Components
+R1280,2025-05-30,Line C,Night,Power Unit,OP13,279,272.0,29,,73.4,Baltic Components
+R1370,2025-06-18,Line-E,Afternoon,Sensor Module,OP32,199,159.0,4,41.0,56.5,Baltic Components
+R1139,2025-04-11,Line C,Afternoon,Motherboard,OP03,274,215.0,13,5.0,65.7,Baltic Components
+R1360,2025-01-04,Line C,Night,Motherboard,OP23,184,,15,12.0,69.9,Baltic Components
+R1460,2025-02-04,LINE A ,morning,Sensor Module,OP19,277,256.0,18,28.0,75.7,TechSource
+R1515,2025-05-10,LINE E ,Morning,Power Unit,OP11,273,238.0,13,9.0,57.3,EuroChip
+R1287,2025-06-20,Line C,Morning,Power Unit,OP24,257,238.0,21,30.0,64.5,TechSource
+R1721,2025-03-10,Line B,Afternoon,Connector Board,OP36,180,146.0,5,46.0,,TechSource
+R1492,2025-04-03,line b,Morning,Motherboard,OP36,303,251.0,6,66.0,69.1,TechSource
+R1202,2025-02-02,Line B,Afternoon,Sensor Module,OP40,283,224.0,4,44.0,58.9,Baltic Components
+R1402,2025-06-24,Line B,Afternoon,Sensor Module,OP22,301,258.0,5,7.0,68.5,EuroChip
+R1340,2025-03-03,Line A,Afternoon,Motherboard,OP37,204,187.0,3,20.0,57.1,Baltic Components
+R1563,2025-05-13,line b,night,Sensor Module,OP29,257,243.0,8,48.0,67.3,EuroChip
+R1365,2025-01-13,Line D,Night,Motherboard,OP04,206,171.0,6,23.0,72.3,TechSource
+R1023,2025-03-27,Line B,night,Motherboard,OP26,271,235.0,12,3.0,67.5,TechSource
+R1345,2025-02-25,Line C,Afternoon,Sensor Module,OP25,278,258.0,15,12.0,69.1,EuroChip
+R1164,2025-03-04,Line C,Afternoon,Connector Board,OP23,183,,7,49.0,58.0,TechSource
+R1490,2025-01-17,LINE D ,Afternoon,Sensor Module,OP26,199,158.0,3,,74.2,Nordic Parts
+R1535,2025-03-28,line b,Afternoon,Sensor Module,OP11,241,230.0,2,31.0,73.3,TechSource
+R1773,2025-05-18,Line C,Night,Power Unit,OP28,209,164.0,12,44.0,72.1,EuroChip
+R1334,2025-03-25,Line C,Afternoon,Connector Board,OP23,225,207.0,19,5.0,76.0,TechSource
+R1310,2025-02-12,Line B,Night,Power Unit,OP15,293,263.0,15,25.0,71.7,EuroChip
+R1748,2025-06-25,line a,Afternoon,Power Unit,OP32,292,248.0,3,15.0,63.3,Baltic Components
+R1128,2025-03-08,line d,Night,Sensor Module,OP22,212,170.0,6,26.0,68.9,EuroChip
+R1353,2025-04-14,Line D,Night,Sensor Module,OP14,225,185.0,12,,73.8,TechSource
+R1565,2025-06-09,line a,Night,Motherboard,OP30,208,192.0,6,22.0,64.9,EuroChip
+R1790,2025-01-15,Line D,Afternoon,Power Unit,OP28,284,225.0,5,15.0,70.3,Baltic Components
+R1240,2025-06-19,Line B,Afternoon,Motherboard,OP11,184,176.0,11,31.0,,TechSource
+R1539,2025-04-04,Line C,Morning,Motherboard,OP09,185,173.0,16,23.0,78.5,Nordic Parts
+R1318,2025-05-27,Line D,Afternoon,Power Unit,OP31,202,190.0,3,34.0,66.1,EuroChip
+R1772,2025-02-14,Line D,Afternoon,Motherboard,OP03,290,,21,16.0,75.5,Baltic Components
+R1262,2025-05-07,Line B,Morning,Connector Board,OP14,231,,3,7.0,72.9,Nordic Parts
+R1428,2025-05-13,line a,Afternoon,Sensor Module,OP18,206,183.0,3,17.0,69.6,TechSource
+R1098,2025-02-19,Line C,Night,Connector Board,OP01,203,170.0,18,3.0,54.7,Nordic Parts
+R1615,2025-01-12,Line B,Morning,Connector Board,OP20,194,186.0,6,40.0,72.4,TechSource
+R1743,2025-03-24,Line-C,Afternoon,Connector Board,OP18,237,197.0,26,23.0,67.7,EuroChip
+R1634,2025-03-13,LINE C ,Morning,Connector Board,OP34,189,167.0,10,16.0,63.3,EuroChip
+R1719,2025-06-11,Line E,Afternoon,Power Unit,OP40,290,227.0,16,19.0,70.5,EuroChip
+R1089,2025-03-15,Line A,Morning,Sensor Module,OP40,282,,6,19.0,70.4,EuroChip
+R1331,2025-05-23,Line C,Morning,Motherboard,OP35,286,251.0,22,14.0,76.9,EuroChip
+R1780,2025-01-27,Line E,Morning,Sensor Module,OP30,313,284.0,15,20.0,66.4,Baltic Components
+R1433,2025-02-14,LINE C ,Morning,Power Unit,OP04,191,159.0,13,52.0,63.8,EuroChip
+R1760,2025-04-12,Line E,Morning,Power Unit,OP06,191,160.0,7,13.0,69.3,Baltic Components
+R1606,2025-02-25,line e,Afternoon,Sensor Module,OP02,294,285.0,17,14.0,71.0,Nordic Parts
+R1486,2025-04-04,Line A,Afternoon,Motherboard,OP04,243,240.0,2,3.0,67.2,TechSource
+R1693,2025-04-13,Line E,morning,Motherboard,OP38,225,200.0,8,74.0,69.3,Nordic Parts
+R1621,2025-05-10,Line-B,Morning,Motherboard,OP01,251,216.0,9,20.0,73.9,TechSource
+R1260,2025-06-09,Line E,Afternoon,Sensor Module,OP30,198,158.0,11,,76.3,TechSource
+R1305,2025-06-27,Line C,morning,Motherboard,,185,168.0,9,17.0,68.9,EuroChip
+R1196,2025-03-01,line d,Night,Power Unit,OP20,255,200.0,12,12.0,68.6,TechSource
+R1140,2025-05-13,Line D,Night,Power Unit,OP07,204,194.0,12,29.0,62.7,EuroChip
+R1122,2025-04-16,Line D,Night,Connector Board,OP21,187,172.0,8,27.0,71.9,Nordic Parts
+R1494,2025-02-04,Line B,Afternoon,Power Unit,OP28,226,180.0,3,22.0,57.6,EuroChip
+R1110,2025-04-24,Line D,Morning,Connector Board,OP03,299,271.0,8,,74.3,EuroChip
+R1084,2025-01-21,line a,Night,Sensor Module,OP21,217,187.0,11,57.0,76.2,Nordic Parts
+R1555,2025-01-23,Line D,Afternoon,Motherboard,OP28,313,306.0,8,15.0,74.4,EuroChip
+R1513,2025-01-01,Line B,Afternoon,Motherboard,OP29,274,245.0,2,4.0,71.9,EuroChip
+R1482,2025-04-05,Line A,Afternoon,Power Unit,OP36,206,176.0,7,32.0,67.7,TechSource
+R1568,2025-01-21,Line C,Afternoon,Sensor Module,OP37,315,271.0,18,13.0,999.0,TechSource
+R1074,2025-04-30,Line B,morning,Motherboard,,185,176.0,7,9.0,51.4,Baltic Components
+R1793,2025-06-29,Line A,Afternoon,Sensor Module,OP36,234,202.0,10,14.0,77.0,TechSource
+R1437,2025-04-12,line a,Morning,Power Unit,OP28,181,144.0,3,32.0,68.7,Nordic Parts
+R1273,2025-01-12,LINE B ,Morning,Connector Board,OP17,229,202.0,4,18.0,69.5,Baltic Components
+R1396,2025-03-19,line e,Night,Motherboard,OP37,198,159.0,12,45.0,64.7,Nordic Parts
+R1154,2025-05-23,Line B,Afternoon,Power Unit,OP26,185,150.0,2,38.0,58.8,TechSource
+R1191,2025-03-08,Line A,Night,Power Unit,OP09,193,172.0,4,15.0,54.0,TechSource
+R1761,2025-01-25,Line E,Afternoon,Power Unit,OP09,297,282.0,19,12.0,76.3,TechSource
+R1187,2025-06-21,Line-E,Night,Power Unit,OP29,234,201.0,21,37.0,76.1,EuroChip
+R1050,2025-01-13,Line C,Morning,Connector Board,OP28,215,183.0,14,22.0,64.7,Nordic Parts
+R1038,2025-04-06,Line C,Morning,Motherboard,OP38,308,297.0,16,21.0,71.7,EuroChip
+R1418,2025-06-17,Line A,afternoon,Motherboard,OP12,292,241.0,11,34.0,77.8,Baltic Components
+R1728,2025-05-18,Line E,Afternoon,Connector Board,OP23,189,186.0,3,46.0,71.2,TechSource
+R1208,2025-03-01,Line B,Afternoon,Connector Board,OP32,191,183.0,6,28.0,62.1,Nordic Parts
+R1375,2025-04-18,Line A,Night,Motherboard,OP37,240,235.0,6,44.0,69.2,Baltic Components
+R1463,2025-01-10,LINE D ,Afternoon,Motherboard,OP34,213,170.0,3,60.0,61.8,Baltic Components
+R1470,2025-01-13,line c,Morning,Motherboard,OP01,258,229.0,7,28.0,70.4,TechSource
+R1517,2025-02-13,line a,Night,Power Unit,OP23,224,208.0,9,41.0,75.0,Nordic Parts
+R1075,2025-04-15,Line C,Morning,Sensor Module,OP33,232,193.0,10,20.0,65.4,TechSource
+R1248,2025-06-24,Line A,Morning,Motherboard,OP16,317,252.0,2,24.0,55.8,EuroChip
+R1302,2025-05-30,Line E,Morning,Connector Board,OP27,312,244.0,15,53.0,74.9,TechSource
+R1614,2025-01-26,LINE C ,Afternoon,Power Unit,OP36,281,253.0,20,12.0,71.5,Baltic Components
+R1301,2025-05-15,Line A,Afternoon,Motherboard,OP08,217,177.0,4,27.0,999.0,Baltic Components
+R1011,2025-04-17,line c,Afternoon,Sensor Module,OP12,270,265.0,22,27.0,66.2,Baltic Components
+R1485,2025-06-05,Line A,Morning,Connector Board,OP16,250,219.0,6,41.0,61.2,Baltic Components
+R1462,2025-05-25,line b,Morning,Connector Board,OP37,191,162.0,4,18.0,60.3,EuroChip
+R1430,2025-06-10,Line E,Night,Motherboard,OP10,301,267.0,18,19.0,66.9,EuroChip
+R1281,2025-06-16,Line C,Night,Power Unit,OP13,308,254.0,33,22.0,66.2,Nordic Parts
+R1253,2025-03-13,Line B,Morning,Motherboard,OP19,270,230.0,9,35.0,62.7,Nordic Parts
+R1349,2025-02-13,Line B,Afternoon,Motherboard,,247,207.0,8,4.0,62.2,EuroChip
+R1595,2025-03-19,Line C,Night,Power Unit,OP20,270,245.0,22,16.0,61.8,TechSource
+R1759,2025-05-02,LINE C ,Morning,Connector Board,OP13,278,268.0,22,,77.5,EuroChip
+R1219,2025-03-05,Line A,Night,Motherboard,OP19,278,246.0,9,31.0,65.3,Nordic Parts
+R1425,2025-04-18,Line E,morning,Connector Board,OP40,220,209.0,9,15.0,63.0,Nordic Parts
+R1369,2025-05-08,Line-D,Afternoon,Power Unit,OP21,267,219.0,4,20.0,69.7,Baltic Components
+R1008,2025-06-24,Line C,Night,Connector Board,OP36,261,,23,35.0,67.8,EuroChip
+R1069,2025-03-09,Line C,Night,Power Unit,OP15,298,241.0,17,23.0,63.5,EuroChip
+R1021,2025-05-30,LINE B ,Afternoon,Power Unit,OP02,279,239.0,3,8.0,75.0,EuroChip
+R1077,2025-04-24,Line B,Night,Connector Board,OP25,222,176.0,4,27.0,65.0,Nordic Parts
+R1547,2025-06-11,Line E,Morning,Connector Board,OP08,239,222.0,22,72.0,83.8,EuroChip
+R1537,2025-01-19,Line C,afternoon,Power Unit,OP40,304,289.0,16,17.0,63.8,Baltic Components
+R1785,2025-05-12,Line-B,Morning,Motherboard,OP12,198,163.0,4,14.0,999.0,Nordic Parts
+R1125,2025-01-23,Line C,Night,Sensor Module,OP30,264,243.0,17,4.0,69.2,Baltic Components
+R1228,2025-04-05,LINE C ,Morning,Sensor Module,OP22,215,209.0,17,9.0,74.0,Nordic Parts
+R1042,2025-01-10,Line-C,Morning,Connector Board,OP27,290,246.0,20,2.0,70.5,EuroChip
+R1516,2025-05-15,Line E,Afternoon,Power Unit,,300,239.0,13,40.0,74.1,Nordic Parts
+R1572,2025-03-14,Line A,Night,Connector Board,OP29,253,198.0,8,35.0,66.4,Nordic Parts
+R1576,18/01/2025,Line A,Morning,Power Unit,OP28,303,246.0,4,34.0,62.9,Nordic Parts
+R1695,2025-01-12,Line D,Morning,Sensor Module,OP27,295,284.0,7,22.0,,Baltic Components
+R1374,2025-02-22,Line B,Afternoon,Motherboard,OP27,198,154.0,2,3.0,67.5,EuroChip
+R1205,2025-02-08,Line C,Morning,Power Unit,OP06,309,284.0,16,5.0,68.6,EuroChip
+R1175,2025-03-03,Line E,morning,Connector Board,OP29,220,198.0,9,27.0,63.8,Baltic Components
+R1006,2025-06-11,Line D,Afternoon,Motherboard,OP11,188,173.0,8,11.0,62.5,Baltic Components
+R1493,2025-04-18,Line-D,Night,Sensor Module,OP15,288,225.0,13,10.0,75.7,Baltic Components
+R1782,2025-03-04,Line D,Afternoon,Sensor Module,OP01,254,245.0,19,16.0,82.2,EuroChip
+R1612,2025-01-13,Line-C,Morning,Power Unit,OP28,302,284.0,18,51.0,67.0,TechSource
+R1259,2025-06-22,Line A,Morning,Connector Board,OP34,195,165.0,2,12.0,73.1,TechSource
+R1282,2025-04-16,Line C,Morning,Motherboard,OP27,290,258.0,20,,64.4,TechSource
+R1590,2025-03-01,Line C,Morning,Power Unit,OP28,282,269.0,18,21.0,72.5,Nordic Parts
+R1734,2025-04-14,Line E,Night,Connector Board,OP38,291,250.0,24,20.0,69.8,TechSource
+R1764,2025-02-18,Line A,Morning,Motherboard,OP02,256,222.0,5,3.0,67.6,Nordic Parts
+R1455,2025-05-18,Line-D,Night,Motherboard,OP09,211,206.0,17,26.0,,Nordic Parts
+R1320,2025-06-16,line e,Afternoon,Connector Board,OP02,221,197.0,12,20.0,57.6,Nordic Parts
+R1434,01/06/2025,LINE C ,Night,Motherboard,OP28,290,247.0,24,,65.9,Nordic Parts
+R1299,2025-05-28,Line B,Afternoon,Sensor Module,OP21,257,211.0,10,27.0,65.8,Nordic Parts
+R1436,2025-02-22,Line E,Morning,Sensor Module,OP13,225,199.0,7,40.0,65.5,Nordic Parts
+R1673,2025-05-31,Line E,Morning,Connector Board,OP05,180,161.0,8,52.0,59.6,Baltic Components
+R1438,2025-05-29,Line A,Afternoon,Power Unit,OP36,316,,3,10.0,65.6,TechSource
+R1325,2025-02-20,Line A,Afternoon,Sensor Module,OP31,227,192.0,3,39.0,55.5,Baltic Components
+R1403,2025-04-10,Line E,Afternoon,Motherboard,OP02,319,293.0,14,19.0,62.1,Nordic Parts
+R1265,2025-04-20,Line B,night,Power Unit,OP15,202,171.0,4,23.0,63.4,Baltic Components
+R1564,2025-02-17,Line B,Afternoon,Motherboard,OP14,252,211.0,5,16.0,63.3,EuroChip
+R1602,2025-06-10,Line B,Morning,Power Unit,OP12,249,241.0,9,60.0,62.5,EuroChip
+R1676,2025-06-13,Line E,Afternoon,Motherboard,OP37,224,205.0,14,26.0,65.5,Baltic Components
+R1278,2025-01-19,Line D,Morning,Power Unit,OP12,312,248.0,15,26.0,,Nordic Parts
+R1630,2025-05-21,Line A,Morning,Connector Board,,188,163.0,5,13.0,66.0,Baltic Components
+R1553,2025-02-07,Line C,Afternoon,Power Unit,OP04,243,232.0,23,63.0,64.0,TechSource
+R1623,2025-06-20,Line C,Morning,Motherboard,OP08,187,151.0,13,11.0,76.6,Nordic Parts
+R1739,2025-06-29,Line C,Night,Motherboard,OP08,242,230.0,16,,63.9,Nordic Parts
+R1231,2025-04-13,Line B,Morning,Connector Board,OP07,181,163.0,5,20.0,56.5,EuroChip
+R1245,2025-05-03,Line C,Afternoon,Power Unit,OP37,199,191.0,11,,,TechSource
+R1167,2025-06-11,Line E,Afternoon,Connector Board,OP15,191,172.0,7,20.0,61.0,TechSource
+R1502,2025-01-22,Line D,Night,Power Unit,OP28,183,163.0,10,1.0,61.0,EuroChip
+R1332,2025-04-16,Line D,Morning,Sensor Module,OP11,228,191.0,5,33.0,70.2,TechSource
+R1426,2025-05-26,Line-A,Afternoon,Connector Board,OP38,247,199.0,4,7.0,,Nordic Parts
+R1541,2025-04-18,Line A,Morning,Connector Board,OP32,299,291.0,5,58.0,72.6,EuroChip
+R1162,2025-02-12,Line A,Night,Power Unit,OP32,295,244.0,7,54.0,56.2,Nordic Parts
+R1149,2025-03-30,Line B,Morning,Sensor Module,OP21,301,,13,14.0,63.8,EuroChip
+R1226,2025-05-02,Line E,Afternoon,Power Unit,OP26,299,277.0,12,5.0,65.5,Baltic Components
+R1094,2025-06-02,Line-C,Afternoon,Power Unit,OP17,221,212.0,11,33.0,74.8,Baltic Components
+R1221,2025-04-04,Line C,Afternoon,Sensor Module,OP31,290,252.0,22,38.0,72.9,Nordic Parts
+R1597,2025-01-23,Line-B,afternoon,Connector Board,OP11,189,183.0,7,10.0,67.3,EuroChip
+R1473,2025-06-13,Line-E,Morning,Motherboard,OP08,220,180.0,6,6.0,61.3,Nordic Parts
+R1084,2025-01-21,line a,Night,Sensor Module,OP21,217,187.0,11,57.0,76.2,Nordic Parts
+R1601,2025-06-04,Line C,Morning,Power Unit,OP08,253,213.0,26,24.0,83.0,TechSource
+R1726,2025-02-22,Line A,Morning,Power Unit,OP13,192,172.0,4,35.0,55.2,TechSource
+R1034,2025-06-14,Line D,Afternoon,Motherboard,OP09,319,264.0,2,27.0,68.8,EuroChip
+R1217,2025-04-06,Line E,Afternoon,Power Unit,OP06,229,201.0,14,13.0,83.6,TechSource
+R1072,2025-01-14,Line-B,Morning,Power Unit,OP37,189,160.0,5,28.0,65.1,Baltic Components
+R1220,2025-02-21,Line A,Night,Connector Board,OP32,315,301.0,15,16.0,72.6,Nordic Parts
+R1213,2025-01-16,line e,Night,Power Unit,OP27,195,186.0,12,,71.4,EuroChip
+R1715,2025-04-06,Line A,Morning,Power Unit,OP35,290,230.0,4,4.0,,Baltic Components
+R1394,2025-06-09,line c,Night,Power Unit,OP24,198,167.0,19,13.0,77.2,EuroChip
+R1799,2025-05-14,Line-E,Morning,Connector Board,OP28,259,240.0,11,36.0,59.9,TechSource
+R1367,2025-02-18,line b,Afternoon,Connector Board,OP18,269,236.0,5,27.0,63.1,Baltic Components
+R1012,2025-04-17,Line B,Morning,Motherboard,OP05,241,,5,4.0,75.4,Baltic Components
+R1705,2025-03-02,Line-E,Morning,Power Unit,OP21,318,252.0,15,16.0,74.3,Baltic Components
+R1343,2025-06-14,Line D,Afternoon,Sensor Module,OP11,279,247.0,13,40.0,71.8,EuroChip
+R1198,2025-01-05,line b,Afternoon,Power Unit,OP09,223,215.0,6,15.0,80.6,Nordic Parts
+R1234,2025-01-23,Line E,Night,Connector Board,OP25,190,158.0,13,4.0,67.1,Baltic Components
+R1420,2025-02-10,Line E,Morning,Connector Board,OP34,254,N/A,10,28.0,,TechSource
+R1689,2025-03-03,Line A,Afternoon,Power Unit,OP15,275,256.0,16,21.0,79.0,EuroChip
+R1608,2025-03-21,Line B,Morning,Power Unit,OP31,237,200.0,3,10.0,71.3,EuroChip
+R1651,2025-06-01,Line A,morning,Connector Board,OP02,302,265.0,10,25.0,70.4,EuroChip
+R1297,2025-03-27,Line C,Afternoon,Power Unit,OP18,315,,17,,72.1,EuroChip
+R1063,2025-05-10,Line A,Morning,Sensor Module,OP40,186,176.0,1,16.0,74.8,TechSource
+R1607,2025-03-15,Line E,Morning,Power Unit,OP30,293,260.0,11,36.0,67.4,EuroChip
+R1013,2025-06-13,Line E,Night,Power Unit,OP05,206,193.0,15,27.0,63.2,EuroChip
+R1435,2025-06-21,LINE E ,Afternoon,Connector Board,OP39,223,204.0,6,30.0,59.4,EuroChip
+R1017,2025-02-27,Line C,Afternoon,Connector Board,OP12,222,208.0,13,,64.3,Nordic Parts
+R1685,2025-02-12,Line A,Afternoon,Power Unit,OP39,303,244.0,3,55.0,54.6,Nordic Parts
+R1348,2025-05-07,Line E,Afternoon,Power Unit,OP32,205,,13,15.0,63.1,TechSource
+R1207,2025-01-21,Line B,Morning,Motherboard,OP23,238,222.0,5,25.0,62.3,TechSource
+R1090,2025-02-27,Line A,Afternoon,Sensor Module,OP05,189,179.0,9,57.0,81.4,Nordic Parts
+R1307,2025-03-08,Line-E,Night,Sensor Module,OP27,292,276.0,30,38.0,74.3,EuroChip
+R1341,2025-02-16,Line C,Afternoon,Connector Board,OP05,269,244.0,10,26.0,70.8,Baltic Components
+R1380,2025-06-03,Line C,Morning,Motherboard,OP01,282,262.0,21,3.0,73.0,TechSource
+R1344,2025-01-20,Line E,Afternoon,Motherboard,OP37,259,241.0,27,25.0,76.8,Nordic Parts
+R1471,2025-02-16,Line-E,Night,Motherboard,OP21,303,248.0,18,16.0,62.8,TechSource
+R1666,2025-06-26,Line-E,Morning,Motherboard,OP19,201,179.0,5,19.0,64.0,EuroChip
+R1551,2025-02-11,LINE A ,Afternoon,Power Unit,OP28,308,269.0,3,8.0,61.9,Nordic Parts
+R1598,2025-01-14,Line A,Night,Sensor Module,,253,213.0,15,21.0,79.1,TechSource
+R1032,2025-06-10,Line E,Morning,Motherboard,OP25,293,271.0,19,8.0,53.7,Baltic Components
+R1776,2025-05-23,Line B,Night,Sensor Module,OP21,221,185.0,8,17.0,66.4,EuroChip
+R1657,2025-04-24,Line E,afternoon,Sensor Module,OP03,258,212.0,13,6.0,69.8,Nordic Parts
+R1172,2025-01-18,line a,morning,Sensor Module,OP03,200,189.0,4,20.0,65.3,EuroChip
+R1707,2025-01-27,line a,Morning,Power Unit,OP15,289,237.0,4,33.0,51.6,TechSource
+R1708,2025-06-17,Line D,night,Motherboard,OP38,221,204.0,7,9.0,57.4,TechSource
+R1408,2025-02-22,Line D,Morning,Power Unit,OP34,309,274.0,9,8.0,66.0,EuroChip
+R1691,2025-02-16,Line B,Afternoon,Power Unit,OP25,285,272.0,7,8.0,73.5,Baltic Components
+R1751,2025-04-30,Line C,Afternoon,Motherboard,OP23,307,273.0,22,10.0,,EuroChip
+R1200,2025-05-24,Line C,Night,Sensor Module,OP09,293,263.0,25,11.0,67.9,Nordic Parts
+R1292,2025-05-10,Line B,Afternoon,Motherboard,OP40,265,237.0,5,28.0,66.7,Baltic Components
+R1583,2025-02-28,Line-B,Morning,Sensor Module,OP12,183,178.0,8,2.0,65.8,Nordic Parts
+R1723,2025-05-05,Line A,Night,Power Unit,OP03,220,211.0,9,17.0,72.5,TechSource
+R1510,2025-06-15,Line A,Night,Sensor Module,OP35,310,302.0,21,37.0,,Nordic Parts
+R1758,2025-03-25,Line A,Morning,Power Unit,OP03,227,222.0,2,,69.3,Baltic Components
+R1701,2025-04-26,Line-C,Night,Connector Board,OP25,180,163.0,11,5.0,66.1,EuroChip
+R1732,2025-02-22,Line E,night,Motherboard,OP35,247,196.0,16,35.0,60.4,TechSource
+R1540,2025-02-18,Line D,Afternoon,Power Unit,OP37,301,243.0,5,21.0,73.0,TechSource
+R1796,2025-06-13,Line C,Night,Power Unit,OP25,306,272.0,29,2.0,67.0,EuroChip
+R1489,2025-05-14,Line C,Night,Power Unit,OP08,291,252.0,14,5.0,69.0,Nordic Parts
+R1729,2025-03-13,Line A,Afternoon,Motherboard,OP27,266,209.0,6,21.0,68.7,Nordic Parts
+R1725,2025-02-11,Line B,Morning,Sensor Module,OP38,285,232.0,6,37.0,52.9,Baltic Components
+R1133,2025-03-30,line a,Night,Power Unit,OP05,190,150.0,6,17.0,62.0,TechSource
+R1060,2025-01-18,Line-B,Night,Connector Board,OP02,255,247.0,14,41.0,73.8,TechSource
+R1690,2025-05-26,Line A,Morning,Power Unit,OP29,277,248.0,6,15.0,61.9,Nordic Parts
+R1026,2025-02-18,Line B,Night,Sensor Module,OP17,246,235.0,15,5.0,74.2,Baltic Components
+R1100,2025-05-18,Line-D,Night,Power Unit,OP28,222,196.0,3,19.0,,Baltic Components
+R1531,2025-06-26,Line B,Afternoon,Motherboard,OP24,270,241.0,9,37.0,73.2,TechSource
+R1588,2025-06-26,line a,Afternoon,Power Unit,OP11,299,239.0,3,8.0,59.2,EuroChip
+R1708,2025-06-17,Line D,night,Motherboard,OP38,221,204.0,7,9.0,57.4,TechSource
+R1520,2025-04-02,LINE B ,Night,Sensor Module,OP01,218,184.0,10,6.0,67.0,EuroChip
+R1363,2025-04-12,Line D,Afternoon,Sensor Module,OP18,193,163.0,8,8.0,81.0,Nordic Parts
+R1309,2025-05-15,Line A,Afternoon,Sensor Module,OP18,194,156.0,2,,58.3,Baltic Components
+R1604,2025-06-20,Line C,Afternoon,Connector Board,OP30,186,172.0,16,6.0,73.8,EuroChip
+R1252,2025-03-28,Line B,Night,Power Unit,OP23,221,193.0,13,20.0,78.9,Baltic Components
+R1544,2025-04-30,Line E,morning,Sensor Module,OP17,230,191.0,7,7.0,66.5,Nordic Parts
+R1481,2025-05-13,line d,Afternoon,Sensor Module,OP10,202,167.0,4,3.0,67.3,EuroChip
+R1441,2025-05-28,Line E,Night,Motherboard,OP09,279,253.0,17,45.0,64.1,EuroChip
+R1647,2025-06-22,Line E,Morning,Connector Board,,254,220.0,14,34.0,54.5,Baltic Components
+R1476,2025-05-20,Line C,Night,Connector Board,OP35,206,182.0,14,,69.3,TechSource
+R1022,2025-03-06,Line B,Afternoon,Power Unit,OP27,263,233.0,5,17.0,61.8,EuroChip
+R1062,2025-04-26,Line A,Night,Power Unit,OP25,276,271.0,13,37.0,70.7,EuroChip
+R1148,2025-05-16,Line C,morning,Connector Board,OP20,197,165.0,15,22.0,71.0,Nordic Parts
+R1483,2025-03-12,Line D,Afternoon,Sensor Module,OP36,194,154.0,6,46.0,72.2,Nordic Parts
+R1750,2025-03-19,Line D,Morning,Connector Board,OP03,240,196.0,5,19.0,,Nordic Parts
+R1257,2025-06-18,Line A,Afternoon,Connector Board,OP01,241,196.0,5,17.0,67.3,Nordic Parts
+R1052,2025-04-15,LINE B ,Morning,Sensor Module,OP23,267,,18,8.0,75.4,Baltic Components
+R1242,2025-06-11,Line A,Morning,Sensor Module,OP23,220,175.0,3,8.0,65.2,TechSource
+R1173,2025-05-11,Line A,Morning,Power Unit,OP14,200,192.0,4,71.0,73.9,TechSource
+R1035,2025-06-25,Line E,Afternoon,Power Unit,OP15,218,197.0,5,42.0,66.8,Nordic Parts
+R1178,2025-05-22,line d,Morning,Power Unit,OP04,265,247.0,6,35.0,69.7,TechSource
+R1679,2025-02-17,Line C,morning,Power Unit,OP27,206,166.0,9,31.0,68.1,Baltic Components
+R1120,2025-05-19,line d,Night,Connector Board,OP14,312,272.0,22,2.0,77.0,EuroChip
+R1275,2025-02-07,Line A,Night,Motherboard,OP09,225,179.0,4,17.0,70.9,TechSource
+R1044,2025-02-06,Line A,Night,Connector Board,OP29,188,165.0,8,13.0,71.8,Baltic Components
+R1300,2025-02-18,Line C,Morning,Motherboard,OP08,237,200.0,22,10.0,74.5,TechSource
+R1076,2025-01-26,LINE D ,Morning,Sensor Module,OP09,182,170.0,7,13.0,70.2,EuroChip
+R1720,2025-04-16,LINE C ,Morning,Motherboard,OP29,228,193.0,18,39.0,,Baltic Components
+R1368,2025-02-17,Line A,Morning,Motherboard,OP22,184,157.0,5,5.0,75.4,Nordic Parts
+R1212,2025-03-08,Line B,Night,Connector Board,OP37,209,200.0,6,6.0,68.4,Nordic Parts
+R1267,2025-04-24,Line B,Afternoon,Motherboard,OP15,198,180.0,11,4.0,81.3,Nordic Parts
+R1311,2025-04-19,Line D,Morning,Sensor Module,OP32,223,176.0,4,59.0,71.8,Baltic Components
+R1444,2025-05-17,Line E,Afternoon,Sensor Module,OP27,257,211.0,11,12.0,65.2,EuroChip
+R1503,2025-01-10,Line A,Morning,Power Unit,OP14,226,185.0,5,18.0,60.2,Baltic Components
+R1495,2025-04-06,Line D,Morning,Power Unit,OP20,234,,5,28.0,69.1,EuroChip
+R1033,2025-03-25,Line D,Morning,Power Unit,OP04,217,205.0,2,20.0,63.3,EuroChip
+R1009,2025-01-08,Line-E,Afternoon,Power Unit,OP37,226,209.0,14,,67.5,Nordic Parts
+R1688,2025-05-31,Line A,Night,Motherboard,OP15,182,145.0,3,26.0,,TechSource
+R1160,2025-02-17,Line-B,Morning,Connector Board,OP28,294,284.0,7,10.0,74.7,TechSource
+R1285,2025-04-19,Line-A,Morning,Connector Board,OP05,196,158.0,6,26.0,72.8,Baltic Components
+R1295,2025-02-27,Line-E,Night,Sensor Module,OP26,246,232.0,14,18.0,57.2,EuroChip
+R1616,2025-03-11,LINE B ,Night,Power Unit,OP04,290,245.0,17,34.0,64.0,TechSource
+R1625,2025-03-18,Line B,Night,Connector Board,OP24,221,194.0,9,18.0,69.5,EuroChip
+R1277,2025-01-28,Line E,Afternoon,Power Unit,OP10,305,299.0,11,19.0,73.5,Nordic Parts
+R1752,2025-06-18,LINE E ,Morning,Motherboard,OP32,204,195.0,14,40.0,67.5,TechSource
+R1603,2025-01-26,Line B,Morning,Connector Board,OP10,307,245.0,8,17.0,73.9,Nordic Parts
+R1484,2025-06-10,Line E,Afternoon,Power Unit,OP02,277,228.0,11,36.0,67.6,Baltic Components
+R1496,2025-01-01,Line C,Morning,Motherboard,OP05,304,258.0,22,17.0,64.5,TechSource
+R1182,2025-01-14,Line D,Morning,Motherboard,OP14,248,203.0,8,19.0,62.6,Nordic Parts
+R1788,2025-02-07,Line C,Night,Sensor Module,OP39,212,169.0,14,47.0,64.2,EuroChip
+R1684,2025-01-15,Line C,Morning,Power Unit,OP31,194,155.0,12,72.0,68.0,TechSource
+R1744,2025-06-01,Line C,Afternoon,Power Unit,OP09,232,222.0,13,3.0,67.8,EuroChip
+R1036,2025-01-10,Line D,Night,Connector Board,OP01,271,220.0,10,20.0,70.9,Nordic Parts
+R1156,2025-02-18,Line D,Night,Connector Board,OP15,267,257.0,6,26.0,72.1,Baltic Components
+R1002,2025-02-22,LINE A ,Afternoon,Connector Board,OP22,278,258.0,1,27.0,70.9,Baltic Components
+R1508,2025-04-07,Line B,Morning,Connector Board,OP32,259,216.0,6,23.0,62.3,EuroChip
+R1497,2025-06-10,Line D,Morning,Power Unit,OP09,184,150.0,5,48.0,65.8,Baltic Components
+R1308,2025-03-20,Line B,Morning,Motherboard,OP01,192,172.0,8,28.0,62.8,EuroChip
+R1289,2025-03-06,Line A,Morning,Sensor Module,OP07,228,193.0,9,24.0,76.6,Nordic Parts
+R1560,2025-02-02,Line A,Afternoon,Connector Board,OP11,247,201.0,3,13.0,64.5,TechSource
+R1414,2025-03-20,Line B,Afternoon,Sensor Module,OP28,224,199.0,5,8.0,62.2,Baltic Components
+R1421,2025-04-07,line a,Morning,Motherboard,OP30,256,249.0,13,15.0,82.4,EuroChip
+R1141,2025-01-03,Line-B,Morning,Motherboard,OP38,279,227.0,10,29.0,72.7,Baltic Components
+R1223,2025-01-08,Line B,Night,Power Unit,OP15,262,248.0,13,33.0,65.6,Baltic Components
+R1183,2025-03-17,Line D,Afternoon,Motherboard,OP16,277,221.0,10,7.0,77.5,TechSource
+R1777,2025-06-03,Line A,Afternoon,Power Unit,OP24,262,242.0,6,4.0,65.2,TechSource
+R1672,2025-04-07,Line D,Afternoon,Sensor Module,OP17,241,227.0,6,40.0,64.6,Nordic Parts
+R1511,2025-06-25,Line D,Morning,Power Unit,OP24,247,194.0,16,8.0,76.4,TechSource
+R1731,2025-01-02,LINE D ,Morning,Sensor Module,OP16,222,209.0,12,14.0,79.7,EuroChip
+R1611,2025-01-03,Line C,Afternoon,Power Unit,OP02,215,,19,19.0,68.5,Nordic Parts
+R1747,2025-02-24,line b,Morning,Motherboard,OP28,240,227.0,13,17.0,69.9,Baltic Components
+R1117,2025-04-01,Line B,Afternoon,Connector Board,OP17,317,311.0,9,11.0,62.2,Nordic Parts
+R1001,2025-05-24,Line B,Afternoon,Connector Board,OP12,314,287.0,7,66.0,69.7,Baltic Components
+R1113,2025-03-02,Line B,Morning,Power Unit,OP27,308,285.0,11,8.0,66.9,EuroChip
+R1791,2025-05-13,Line A,Night,Power Unit,OP25,286,258.0,9,11.0,55.7,TechSource
+R1686,2025-05-21,Line C,Night,Sensor Module,OP35,200,158.0,19,35.0,70.1,Nordic Parts
+R1765,2025-05-09,Line-A,Morning,Motherboard,OP09,277,263.0,12,7.0,82.3,Baltic Components
+R1165,2025-06-27,Line B,Morning,Sensor Module,OP23,188,151.0,5,8.0,69.9,Nordic Parts
+R1184,2025-04-15,Line D,night,Connector Board,OP40,210,179.0,10,29.0,57.8,Baltic Components
+R1677,2025-05-02,LINE A ,Night,Connector Board,OP16,216,209.0,12,46.0,68.2,EuroChip
+R1372,2025-04-02,Line D,Morning,Power Unit,OP24,185,183.0,5,20.0,64.7,Baltic Components
+R1274,2025-05-17,Line B,Night,Connector Board,OP39,280,259.0,16,28.0,74.1,TechSource
+R1704,2025-01-29,LINE C ,Night,Power Unit,OP01,202,165.0,23,20.0,75.1,EuroChip
+R1000,2025-03-07,Line A,Afternoon,Sensor Module,OP01,187,145.0,15,23.0,,Baltic Components
+R1566,2025-02-09,Line B,Night,Sensor Module,OP13,258,250.0,12,28.0,74.6,TechSource
+R1540,2025-02-18,Line D,Afternoon,Power Unit,OP37,301,243.0,5,21.0,73.0,TechSource
+R1500,2025-05-31,LINE A ,Afternoon,Motherboard,OP21,305,292.0,9,10.0,79.0,EuroChip
+R1718,2025-04-18,line c,Morning,Connector Board,OP32,245,200.0,26,19.0,77.6,EuroChip
+R1383,2025-05-09,Line C,Night,Sensor Module,OP26,248,195.0,16,29.0,72.9,Nordic Parts
+R1405,2025-03-07,Line E,Afternoon,Sensor Module,OP14,280,270.0,14,11.0,68.0,Nordic Parts
+R1561,2025-01-19,Line A,Night,Motherboard,OP11,309,279.0,14,25.0,65.3,TechSource
+R1020,2025-01-05,line d,Morning,Sensor Module,OP38,232,186.0,5,42.0,67.7,EuroChip
+R1176,2025-02-16,Line A,Night,Motherboard,OP30,220,184.0,10,25.0,62.8,Baltic Components
+R1335,2025-04-02,Line E,Morning,Connector Board,OP16,199,156.0,15,4.0,78.1,Nordic Parts
+R1379,2025-05-20,Line A,Morning,Power Unit,OP24,280,272.0,2,28.0,66.8,EuroChip
+R1545,2025-04-21,Line-D,Morning,Power Unit,OP33,251,209.0,6,35.0,67.0,TechSource
+R1171,2025-06-28,Line E,night,Sensor Module,OP37,300,255.0,12,11.0,71.5,Baltic Components
+R1519,24/06/2025,Line D,Morning,Connector Board,OP13,228,187.0,3,18.0,65.2,Nordic Parts
+R1507,2025-04-06,Line E,Night,Motherboard,OP02,229,208.0,16,24.0,65.6,TechSource
+R1152,2025-01-22,Line-C,Afternoon,Connector Board,OP38,277,234.0,17,25.0,66.4,Nordic Parts
+R1618,2025-01-23,Line A,Morning,Sensor Module,OP30,319,312.0,5,38.0,64.6,EuroChip
+R1413,2025-04-14,Line D,Night,Connector Board,OP11,263,221.0,7,16.0,67.5,Nordic Parts
+R1609,2025-01-31,Line B,Morning,Sensor Module,OP25,252,240.0,7,53.0,69.4,Baltic Components
+R1622,2025-04-04,line a,Afternoon,Motherboard,OP37,255,252.0,5,20.0,67.1,TechSource
+R1581,2025-03-10,Line E,Morning,Power Unit,OP21,316,267.0,13,,59.7,Nordic Parts
+R1641,2025-02-10,Line E,Morning,Sensor Module,OP26,272,234.0,21,21.0,71.4,Baltic Components
+R1316,2025-01-13,Line-E,night,Sensor Module,OP09,180,166.0,12,38.0,67.7,TechSource
+R1258,2025-05-12,Line E,Night,Motherboard,OP28,213,210.0,25,35.0,68.6,EuroChip
+R1662,2025-02-08,line a,Night,Connector Board,OP15,242,221.0,7,3.0,63.1,Baltic Components
+R1474,2025-02-15,Line A,Night,Motherboard,OP33,306,242.0,9,18.0,73.0,EuroChip
+R1337,2025-03-02,Line A,Afternoon,Power Unit,OP35,314,263.0,3,35.0,62.4,TechSource
+R1538,2025-02-08,Line B,Morning,Sensor Module,OP25,253,220.0,10,13.0,57.1,Baltic Components
+R1504,2025-02-15,Line A,Night,Connector Board,OP12,208,183.0,12,23.0,78.4,TechSource
+R1398,2025-01-06,Line C,Morning,Connector Board,OP02,246,199.0,29,91.0,76.1,Baltic Components
+R1423,2025-02-01,Line B,Morning,Connector Board,OP16,266,238.0,6,3.0,56.6,TechSource
+R1605,2025-04-16,Line D,morning,Motherboard,OP34,302,281.0,4,29.0,62.0,TechSource
+R1660,2025-01-31,Line E,night,Sensor Module,OP32,306,293.0,22,17.0,65.6,Nordic Parts
+R1480,2025-06-06,Line C,Night,Sensor Module,OP03,232,209.0,25,24.0,69.8,EuroChip
+R1422,2025-06-03,LINE A ,Afternoon,Connector Board,OP05,290,238.0,2,22.0,61.7,EuroChip
+R1119,2025-02-04,Line A,morning,Motherboard,OP33,315,264.0,3,31.0,63.8,Nordic Parts
+R1650,2025-02-15,Line B,Morning,Sensor Module,OP19,302,263.0,6,31.0,63.0,Nordic Parts
+R1681,2025-03-28,Line A,Morning,Sensor Module,OP24,185,163.0,1,26.0,71.3,EuroChip
+R1714,2025-01-12,Line A,afternoon,Power Unit,OP18,191,176.0,3,8.0,68.1,Nordic Parts
+R1659,2025-05-17,LINE C ,Night,Connector Board,OP15,258,216.0,15,56.0,68.8,Nordic Parts
+R1789,2025-04-11,line b,afternoon,Connector Board,OP27,280,222.0,8,44.0,74.3,TechSource
+R1256,2025-05-12,Line D,Night,Motherboard,OP32,203,197.0,4,16.0,67.4,TechSource
+R1643,2025-06-28,Line C,Morning,Sensor Module,OP32,236,196.0,17,,63.9,EuroChip
+R1249,2025-01-12,Line E,Night,Power Unit,OP40,274,243.0,20,9.0,69.3,Nordic Parts
+R1664,2025-01-21,Line C,Night,Sensor Module,OP11,284,222.0,18,21.0,67.4,Nordic Parts

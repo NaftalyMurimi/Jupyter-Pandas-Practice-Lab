@@ -1,0 +1,719 @@
+delivery_id,order_date,supplier,part_category,quantity_ordered,delivery_date,quantity_received,rejected_units,status
+D5109,2025-04-23,TechSource,Chips,3051,2025-05-12,3019.0,33.0,Delivered
+D5386,2025-01-18,BALTIC COMPONENTS,Capacitors,1131,,1074.0,15.0,Delivered
+D5300,2025-07-19,Baltic Components,Sensors,1572,2025-07-26,1540.0,23.0,Delivered
+D5552,2025-06-07,TechSource,Resistors,2987,2025-06-19,2737.0,33.0,Delivered
+D5023,2025-03-18,Nordic Parts,Resistors,4252,2025-03-20,4043.0,51.0,Delivered
+D5698,2025-02-03,Baltic Components,Capacitors,4514,2025-02-12,4074.0,45.0,Cancelled
+D5123,2025-01-03,TechSource,Chips,4712,2025-01-22,,53.0,Delivered
+D5396,2025-06-03,Baltic Components,Capacitors,446,2025-06-11,435.0,4.0,Delivered
+D5343,2025-01-12,TechSource,Capacitors,4612,2025-01-30,4370.0,60.0,Delivered
+D5072,2025-05-23,Nordic Parts,Sensors,4130,2025-05-26,3780.0,47.0,Delivered
+D5482,2025-04-22,Nordic Parts,Chips,4191,2025-04-27,3963.0,33.0,Delivered
+D5199,2025-05-20,Nordic Parts,Chips,381,,356.0,3.0,Cancelled
+D5197,2025-06-29,Nordic Parts,Resistors,4602,2025-07-03,4459.0,52.0,Delivered
+D5522,2025-07-13,Nordic Parts,Chips,1489,2025-07-20,1341.0,17.0,delivered
+D5559,2025-04-27,EuroChip,Capacitors,3636,2025-05-03,3523.0,43.0,Delivered
+D5369,2025-01-17,Baltic Components,Chips,2291,2025-01-22,2135.0,29.0,Delivered
+D5363,2025-05-28,PolyMetal,Chips,4514,2025-06-13,4155.0,153.0,Delayed
+D5524,2025-02-18,Baltic Components,Resistors,842,2025-02-21,795.0,8.0,delivered
+D5084,2025-01-05,EuroChip,Chips,1567,2025-01-14,1437.0,19.0,Delivered
+D5368,2025-03-02,Baltic Components,PCBs,1949,2025-03-04,1781.0,20.0,Delayed
+D5104,2025-03-06,PolyMetal,Resistors,1126,2025-03-22,1066.0,41.0,Delivered
+D5464,2025-05-09,Baltic Components,Resistors,4878,2025-05-17,4669.0,50.0,Delayed
+D5623,2025-06-29,PolyMetal,Chips,4743,2025-07-14,4511.0,183.0,Delivered
+D5490,2025-07-18,Baltic Components,Sensors,1375,2025-07-25,1260.0,11.0,Delivered
+D5120,2025-01-20,Baltic Components,Capacitors,4685,2025-01-29,4486.0,40.0,delivered
+D5458,2025-01-08,Baltic Components,Capacitors,1952,2025-01-10,1771.0,25.0,delivered
+D5504,2025-03-18,Nordic Parts,Resistors,885,2025-03-21,826.0,13.0,Delayed
+D5151,2025-05-09,PolyMetal,Sensors,4520,2025-05-27,4395.0,182.0,Delayed
+D5232,2025-02-19,Nordic Parts,Sensors,3323,2025-02-28,3115.0,32.0,Delivered
+D5694,2025-01-13,Baltic Components,Sensors,4669,2025-01-18,4398.0,67.0,Delayed
+D5463,2025-04-25,PolyMetal,Capacitors,3110,2025-05-10,3103.0,123.0,Delayed
+D5037,2025-01-01,Baltic Components,PCBs,1333,2025-01-09,1316.0,26.0,Delivered
+D5436,2025-07-02,EuroChip ,Sensors,1614,2025-07-05,1568.0,18.0,Cancelled
+D5581,2025-05-13,TechSource,Capacitors,-500,2025-05-21,4221.0,65.0,Delivered
+D5502,2025-06-28,TechSource,Chips,3757,2025-07-11,3568.0,40.0,Delivered
+D5132,2025-01-10,TechSource,Sensors,1428,2025-01-25,1304.0,17.0,Delayed
+D5117,2025-04-25,EuroChip,Chips,2888,2025-05-03,2663.0,37.0,Delivered
+D5261,2025-04-26,PolyMetal,Connectors,3736,2025-05-07,3586.0,,delivered
+D5481,2025-03-28,NORDIC PARTS,Sensors,773,2025-04-05,712.0,2.0,Delivered
+D5458,2025-01-08,Baltic Components,Capacitors,1952,2025-01-10,1771.0,25.0,delivered
+D5657,2025-01-17,Baltic Components,Resistors,3635,2025-01-25,3354.0,39.0,Delivered
+D5327,2025-06-15,Nordic Parts,Chips,2027,2025-06-24,1982.0,23.0,Delivered
+D5285,2025-02-07,PolyMetal,Sensors,1121,2025-02-21,1055.0,39.0,Delivered
+D5108,2025-07-05,Baltic Components,Resistors,4566,2025-07-11,4339.0,48.0,Partial
+D5424,2025-04-06,Baltic Components,PCBs,3636,2025-04-09,3420.0,47.0,Delivered
+D5590,2025-06-25,TechSource,Chips,4986,2025-07-01,4875.0,53.0,delivered
+D5420,2025-02-21,EuroChip,Chips,446,2025-02-24,401.0,1.0,Delivered
+D5244,2025-07-02,TechSource,PCBs,4434,2025-07-13,4226.0,47.0,Delivered
+D5299,2025-02-20,PolyMetal,Capacitors,2863,2025-03-10,2702.0,103.0,Delivered
+D5404,2025-06-14,Nordic Parts ,PCBs,4565,2025-06-18,4479.0,58.0,Delivered
+D5433,2025-05-11,Baltic Components,PCBs,281,2025-05-14,254.0,3.0,Delayed
+D5523,2025-03-26,EuroChip,PCBs,1065,2025-03-29,1035.0,11.0,Delivered
+D5573,2025-03-03,TechSource,Chips,275,2025-03-16,267.0,0.0,Delayed
+D5071,2025-06-29,Baltic Components,PCBs,1873,2025-07-04,1870.0,26.0,Delivered
+D5163,2025-04-02,TechSource,PCBs,4719,,4656.0,51.0,Delivered
+D5288,2025-06-12,Nordic Parts,Resistors,698,2025-06-21,664.0,9.0,Delivered
+D5148,2025-04-19,Baltic Components,Chips,4014,2025-04-27,3812.0,51.0,Delivered
+D5692,2025-05-29,BALTIC COMPONENTS,PCBs,3222,2025-05-31,3052.0,32.0,Delivered
+D5451,2025-02-20,Baltic Components,PCBs,4190,2025-02-23,4147.0,43.0,Delivered
+D5248,2025-02-13,TechSource,Chips,2802,2025-03-04,2558.0,32.0,Delayed
+D5583,2025-03-04,TechSource,Connectors,2202,2025-03-14,2083.0,22.0,Delivered
+D5134,2025-01-16,TechSource,Sensors,4349,2025-01-22,4117.0,36.0,Delivered
+D5680,2025-02-03,TechSource,Chips,2230,2025-02-21,2042.0,27.0,Partial
+D5696,2025-04-26,POLYMETAL,Capacitors,103,2025-05-15,96.0,1.0,Partial
+D5652,2025-02-23,Nordic Parts,Resistors,752,2025-03-01,721.0,4.0,Partial
+D5203,2025-02-01,PolyMetal,PCBs,4713,2025-02-12,4599.0,173.0,Delivered
+D5417,2025-01-01,Nordic Parts,Sensors,3035,2025-01-08,2817.0,40.0,Delivered
+D5066,2025-02-17,Baltic Components,Resistors,4008,2025-02-20,3826.0,46.0,delayed
+D5517,2025-02-25,TechSource,Resistors,4450,2025-03-15,,64.0,Delivered
+D5131,2025-03-31,PolyMetal ,Resistors,4305,2025-04-13,4086.0,165.0,Delivered
+D5003,2025-02-04,EuroChip,PCBs,3114,2025-02-08,3101.0,31.0,Delivered
+D5141,2025-04-29,Nordic Parts,Chips,1754,2025-05-01,,16.0,Delivered
+D5365,2025-05-18,TechSource,Sensors,583,2025-05-30,545.0,7.0,Delivered
+D5309,2025-02-15,EUROCHIP,Connectors,1549,2025-02-22,1464.0,18.0,Partial
+D5052,2025-05-23,Baltic Components,Sensors,400,2025-06-01,387.0,2.0,Delivered
+D5360,2025-01-09,TechSource,Sensors,1984,2025-01-23,1823.0,19.0,Delivered
+D5641,2025-03-10,Baltic Components,Chips,2508,2025-03-13,,30.0,delivered
+D5506,2025-07-05,TechSource,Chips,2495,2025-07-13,2259.0,25.0,Delivered
+D5089,2025-01-04,Baltic Components,Connectors,536,2025-01-09,502.0,9.0,Delivered
+D5571,2025-06-09,BALTIC COMPONENTS,Resistors,2023,,1959.0,25.0,Delivered
+D5647,2025-06-11,Baltic Components,Resistors,3904,2025-06-15,3880.0,40.0,Delivered
+D5258,2025-03-23,Baltic Components,Capacitors,4277,2025-03-31,3991.0,39.0,delivered
+D5427,2025-06-06,EuroChip,Sensors,4631,2025-06-14,4577.0,58.0,Delivered
+D5382,2025-05-21,TECHSOURCE,Resistors,2119,2025-05-31,2062.0,16.0,delivered
+D5484,2025-02-22,TechSource,Connectors,4494,2025-03-09,,55.0,Partial
+D5440,2025-04-09,Nordic Parts,Chips,4149,2025-04-11,4117.0,43.0,Delivered
+D5045,2025-04-03,Baltic Components,PCBs,1066,2025-04-06,969.0,9.0,Delivered
+D5546,2025-04-11,Nordic Parts,Chips,120,2025-04-15,116.0,1.0,delayed
+D5042,2025-04-26,Nordic Parts,Connectors,718,2025-05-04,712.0,8.0,Delivered
+D5322,2025-06-23,BALTIC COMPONENTS,Connectors,3521,2025-06-26,3468.0,42.0,Delayed
+D5028,2025-07-15,PolyMetal,Resistors,474,2025-08-02,471.0,21.0,Delivered
+D5452,2025-03-09,PolyMetal,PCBs,2117,2025-03-20,2007.0,81.0,Delivered
+D5597,2025-05-18,EuroChip,Resistors,1163,2025-05-21,1134.0,23.0,Delivered
+D5281,2025-02-26,Baltic Components,Sensors,3042,,2886.0,30.0,cancelled
+D5454,2025-07-01,TechSource,Chips,1691,2025-07-08,1658.0,,Partial
+D5035,2025-06-29,PolyMetal,Chips,717,2025-07-05,706.0,33.0,Delivered
+D5615,2025-07-09,TechSource,Chips,2749,2025-07-16,2543.0,21.0,Delivered
+D5622,2025-02-20,EuroChip,PCBs,776,2025-02-25,715.0,8.0,Delayed
+D5432,2025-06-23,Nordic Parts,Sensors,3706,2025-06-28,3375.0,41.0,Partial
+D5488,2025-07-09,TechSource,Resistors,1151,2025-07-17,1150.0,6.0,Delivered
+D5007,2025-06-01,Baltic Components,Sensors,2303,2025-06-03,2271.0,18.0,Delivered
+D5355,2025-01-17,EUROCHIP,Resistors,2993,2025-01-23,2831.0,32.0,delivered
+D5342,2025-04-07,EuroChip,Sensors,3284,2025-04-15,2972.0,,Delivered
+D5040,2025-03-03,PolyMetal,Resistors,3915,2025-03-16,3716.0,160.0,Delivered
+D5682,2025-06-25,PolyMetal,Resistors,2922,2025-07-08,2670.0,88.0,Delivered
+D5371,2025-02-28,TechSource,Capacitors,772,2025-03-10,756.0,12.0,Delivered
+D5166,2025-04-06,PolyMetal,Connectors,859,2025-04-16,828.0,15.0,Delayed
+D5413,2025-03-11,TechSource,Sensors,2388,2025-03-30,2258.0,27.0,Delivered
+D5306,2025-01-09,PolyMetal,Sensors,3570,2025-01-22,3283.0,140.0,Delivered
+D5033,2025-06-10,PolyMetal,Resistors,2769,2025-06-19,2719.0,119.0,Delivered
+D5344,2025-03-19,TECHSOURCE,Capacitors,4016,2025-04-01,3965.0,60.0,Cancelled
+D5470,2025-02-12,EuroChip,PCBs,2921,2025-02-20,2647.0,25.0,Delivered
+D5207,2025-02-17,Baltic Components,Capacitors,667,,659.0,10.0,delivered
+D5653,2025-03-09,TechSource,Chips,3612,2025-03-20,3310.0,43.0,Partial
+D5121,2025-04-20,Baltic Components,Connectors,4149,2025-04-25,3770.0,42.0,Partial
+D5501,2025-03-30,PolyMetal,Resistors,2874,2025-04-06,2619.0,102.0,Delivered
+D5196,2025-06-22,EuroChip,Resistors,1797,2025-06-30,1691.0,20.0,Partial
+D5405,2025-06-15,Baltic Components,Connectors,1293,2025-06-20,1265.0,13.0,Delivered
+D5283,2025-04-05,EuroChip,Chips,3385,2025-04-07,3339.0,32.0,Delivered
+D5099,2025-04-25,TechSource,PCBs,2295,2025-05-12,2069.0,14.0,Delayed
+D5554,2025-01-17,PolyMetal,Chips,1551,2025-01-27,1543.0,67.0,Delayed
+D5282,2025-03-28,BALTIC COMPONENTS,Connectors,4983,2025-03-30,4521.0,53.0,Delivered
+D5586,2025-06-17,TechSource,Resistors,2457,2025-07-01,2410.0,26.0,Delivered
+D5228,2025-05-01,TechSource,Chips,4833,2025-05-20,4504.0,33.0,Delivered
+D5230,2025-03-03,Nordic Parts,Connectors,2083,2025-03-10,1945.0,20.0,Cancelled
+D5438,2025-07-10,TechSource,Chips,4571,2025-07-24,4476.0,56.0,Delivered
+D5532,2025-03-18,PolyMetal,Chips,4649,2025-03-28,4582.0,184.0,Delivered
+D5510,2025-03-02,EuroChip,Sensors,1711,2025-03-04,1689.0,20.0,Cancelled
+D5630,2025-03-28,EuroChip,Sensors,4709,2025-04-01,4617.0,53.0,Delayed
+D5384,2025-03-25,TechSource,Sensors,899,2025-04-09,851.0,9.0,Delivered
+D5468,2025-02-13,TechSource,Connectors,2900,2025-03-03,2671.0,28.0,Cancelled
+D5021,2025-01-11,Baltic Components,Resistors,816,2025-01-15,783.0,11.0,Delivered
+D5651,2025-03-27,TechSource,Chips,2147,2025-04-07,2058.0,29.0,Delivered
+D5663,2025-03-11,PolyMetal,Sensors,1549,,1460.0,63.0,Delivered
+D5347,2025-05-03,PolyMetal,Connectors,376,2025-05-17,,15.0,Delayed
+D5678,2025-04-23,EuroChip,Connectors,4968,2025-04-25,4864.0,47.0,Delivered
+D5224,2025-04-12,PolyMetal,PCBs,694,,665.0,32.0,Delayed
+D5558,2025-06-21,Baltic Components,Sensors,1680,2025-06-26,1547.0,26.0,Delivered
+D5419,2025-03-22,TechSource,Capacitors,2233,2025-03-29,2063.0,30.0,Partial
+D5143,2025-06-12,Nordic Parts,Resistors,996,2025-06-18,974.0,15.0,Delivered
+D5361,2025-07-16,Nordic Parts,PCBs,520,2025-07-24,497.0,6.0,Delivered
+D5525,2025-04-10,Nordic Parts,PCBs,2957,2025-04-15,2674.0,33.0,Delivered
+D5286,2025-01-11,NORDIC PARTS,Resistors,4865,2025-01-16,4571.0,44.0,Delivered
+D5358,2025-05-28,PolyMetal,Capacitors,4461,2025-06-09,4284.0,,Delivered
+D5338,2025-05-17,BALTIC COMPONENTS,Capacitors,1269,2025-05-22,1197.0,14.0,Delivered
+D5611,2025-01-18,Baltic Components,Sensors,181,2025-01-21,171.0,1.0,Cancelled
+D5193,2025-04-28,PolyMetal,Capacitors,4342,2025-05-16,4225.0,170.0,Delivered
+D5575,2025-07-13,Nordic Parts,Chips,1522,2025-07-15,1482.0,22.0,Delivered
+D5354,2025-06-20,Baltic Components,Connectors,4402,2025-06-25,4325.0,46.0,Delivered
+D5499,2025-05-04,TechSource,Chips,2953,2025-05-23,2721.0,31.0,Delivered
+D5149,2025-01-29,EuroChip,Resistors,2015,2025-02-05,2000.0,16.0,Delivered
+D5582,2025-04-10,Baltic Components,Chips,2524,2025-04-18,2428.0,27.0,Delivered
+D5129,2025-06-21,POLYMETAL,Sensors,1141,2025-07-03,1071.0,41.0,Delayed
+D5329,2025-06-15,Baltic Components,PCBs,362,2025-06-23,,4.0,Delivered
+D5296,2025-05-23,TechSource,Chips,281,2025-05-29,,3.0,Delivered
+D5295,2025-06-29,TechSource,Capacitors,2234,2025-07-12,2091.0,32.0,Delivered
+D5626,2025-02-01,Baltic Components,Chips,2946,2025-02-05,2809.0,32.0,Delayed
+D5619,2025-06-07,EuroChip,Resistors,2689,2025-06-16,2564.0,,Delivered
+D5053,2025-01-10,Baltic Components,Capacitors,440,2025-01-12,400.0,7.0,delivered
+D5655,2025-02-05,Baltic Components,Chips,609,2025-02-09,562.0,8.0,Delayed
+D5138,2025-02-15,Nordic Parts,Chips,2292,2025-02-22,2241.0,23.0,delivered
+D5336,2025-06-01,Baltic Components,PCBs,3914,2025-06-07,3633.0,46.0,Delivered
+D5178,2025-01-10,Nordic Parts,Capacitors,1301,2025-01-13,1204.0,13.0,Delivered
+D5383,2025-04-26,EuroChip,Resistors,4367,2025-05-04,4340.0,53.0,Delivered
+D5493,2025-03-24,EuroChip,Capacitors,475,2025-03-27,434.0,7.0,Delivered
+D5421,2025-04-29,Baltic Components,Resistors,3648,2025-05-01,3593.0,47.0,Cancelled
+D5567,2025-04-20,Baltic Components,Chips,4540,2025-04-26,4245.0,41.0,Cancelled
+D5602,2025-04-16,Nordic Parts,Chips,3227,2025-04-18,3058.0,35.0,Delivered
+D5155,2025-07-11,Nordic Parts,Chips,3316,2025-07-15,3010.0,37.0,Delayed
+D5325,2025-04-02,EuroChip,Connectors,389,2025-04-07,354.0,4.0,Delivered
+D5617,2025-03-10,EuroChip,Chips,202,2025-03-14,198.0,1.0,Delivered
+D5654,2025-06-12,Baltic Components,Chips,2432,2025-06-17,,32.0,Delivered
+D5451,2025-02-20,Baltic Components,PCBs,4190,2025-02-23,4147.0,43.0,Delivered
+D5176,2025-04-29,Baltic Components,Chips,4461,2025-05-08,4361.0,48.0,Delayed
+D5359,2025-02-03,TechSource,Resistors,3439,2025-02-16,3155.0,37.0,Delivered
+D5050,2025-01-21,Baltic Components,Sensors,4199,2025-01-29,3790.0,42.0,cancelled
+D5556,2025-07-18,TechSource,Sensors,2006,,1979.0,26.0,Delivered
+D5356,2025-03-25,Baltic Components,Chips,3172,2025-03-29,3162.0,32.0,Delivered
+D5247,2025-02-12,BALTIC COMPONENTS,Sensors,531,2025-02-16,529.0,7.0,Delivered
+D5565,2025-07-07,Baltic Components,Sensors,3464,2025-07-10,3394.0,43.0,Delivered
+D5591,2025-05-10,TechSource,PCBs,4952,2025-05-17,4563.0,64.0,Delivered
+D5467,2025-02-02,POLYMETAL,Sensors,2953,2025-02-14,2779.0,112.0,Cancelled
+D5212,2025-01-18,EuroChip,PCBs,195,2025-01-27,190.0,3.0,Delivered
+D5521,2025-05-28,PolyMetal,PCBs,2337,2025-06-12,2117.0,95.0,Delivered
+D5208,2025-05-06,Baltic Components,Chips,1478,2025-05-13,1368.0,18.0,Delivered
+D5236,2025-04-27,PolyMetal,Capacitors,1178,2025-05-06,1096.0,43.0,Delivered
+D5689,2025-01-26,TechSource ,Connectors,3733,2025-02-06,3721.0,37.0,Partial
+D5681,2025-06-25,EuroChip,Chips,3850,2025-06-30,3475.0,44.0,Delayed
+D5279,2025-05-06,EuroChip,Chips,607,2025-05-09,551.0,3.0,Delivered
+D5625,2025-05-13,Baltic Components,Chips,1007,2025-05-20,945.0,9.0,Delivered
+D5532,2025-03-18,PolyMetal,Chips,4649,2025-03-28,4582.0,184.0,Delivered
+D5583,2025-03-04,TechSource,Connectors,2202,2025-03-14,2083.0,22.0,Delivered
+D5302,2025-01-02,TechSource ,Resistors,4586,2025-01-12,4555.0,57.0,Delivered
+D5068,2025-03-23,Baltic Components,PCBs,3990,2025-03-29,3662.0,45.0,Delayed
+D5632,2025-02-09,Baltic Components,Resistors,2510,2025-02-13,2296.0,21.0,Delivered
+D5253,2025-06-17,PolyMetal,Sensors,2931,2025-07-04,2834.0,117.0,Delivered
+D5638,2025-04-07,Baltic Components,Sensors,3960,2025-04-11,3773.0,50.0,Partial
+D5126,2025-03-29,EuroChip ,Resistors,3013,2025-04-06,2971.0,33.0,Delivered
+D5349,2025-02-22,Baltic Components,Chips,2605,2025-02-24,2384.0,28.0,Delivered
+D5578,2025-03-03,EuroChip,Connectors,3975,2025-03-08,3906.0,50.0,Delivered
+D5153,2025-03-14,EuroChip,Sensors,2301,2025-03-23,2230.0,,Delivered
+D5187,2025-02-06,Nordic Parts,Capacitors,1290,2025-02-13,1279.0,17.0,Delivered
+D5140,2025-02-06,Nordic Parts,Resistors,4554,2025-02-12,4492.0,58.0,Delivered
+D5683,2025-04-01,Nordic Parts,Resistors,2527,2025-04-05,2408.0,29.0,Delivered
+D5348,2025-05-08,Nordic Parts,Resistors,3125,2025-05-13,3077.0,31.0,Delivered
+D5165,2025-03-16,Baltic Components,Chips,4644,2025-03-19,4356.0,52.0,Delivered
+D5500,2025-04-24,Nordic Parts,Chips,3906,2025-05-03,3806.0,42.0,Delivered
+D5697,2025-04-27,BALTIC COMPONENTS,Capacitors,4995,2025-05-03,4656.0,58.0,Delayed
+D5267,2025-01-27,PolyMetal,Sensors,4321,2025-02-06,4219.0,159.0,Delayed
+D5495,2025-05-03,Baltic Components,Capacitors,1394,2025-05-07,1331.0,14.0,delayed
+D5107,2025-05-10,EuroChip,Resistors,3293,2025-05-13,3217.0,31.0,Delivered
+D5273,2025-02-21,TechSource,PCBs,370,2025-03-07,356.0,4.0,delivered
+D5331,2025-02-28,PolyMetal,Chips,2842,2025-03-11,2592.0,,Delivered
+D5425,2025-07-07,TechSource,PCBs,1418,2025-07-20,1353.0,11.0,delivered
+D5194,2025-07-02,Baltic Components,Sensors,2505,2025-07-05,2385.0,38.0,Delayed
+D5319,2025-02-13,Baltic Components,Chips,2803,2025-02-20,2781.0,40.0,Delivered
+D5250,2025-07-19,Baltic Components,Capacitors,2350,2025-07-25,2262.0,20.0,delivered
+D5478,2025-04-19,Nordic Parts,Chips,4717,2025-04-24,4611.0,48.0,Delayed
+D5537,2025-03-25,EuroChip,Resistors,4408,2025-03-29,4209.0,51.0,Delivered
+D5051,2025-07-19,Nordic Parts,Connectors,189,2025-07-28,187.0,5.0,Delivered
+D5671,2025-06-22,Baltic Components,Chips,634,2025-06-27,581.0,5.0,Delivered
+D5075,2025-01-11,PolyMetal,Sensors,2563,2025-01-17,2492.0,108.0,Delivered
+D5219,2025-01-11,EuroChip,Capacitors,2406,2025-01-20,2354.0,26.0,Delivered
+D5222,2025-01-31,Baltic Components,Capacitors,4149,2025-02-07,4083.0,,Delivered
+D5503,2025-03-26,TechSource,Chips,3462,2025-04-12,3304.0,40.0,Delivered
+D5549,2025-06-10,TechSource,PCBs,716,2025-06-29,661.0,10.0,Delayed
+D5589,2025-04-21,EuroChip,Sensors,2550,2025-04-24,2543.0,34.0,Delayed
+D5687,2025-05-23,TechSource,Sensors,2876,2025-06-03,2780.0,31.0,Partial
+D5665,2025-01-27,TechSource,PCBs,4411,2025-02-15,4159.0,49.0,Delivered
+D5443,2025-06-24,PolyMetal,Resistors,4683,2025-07-11,4509.0,180.0,Delivered
+D5472,2025-01-06,Nordic Parts,Capacitors,962,2025-01-15,909.0,13.0,Cancelled
+D5012,2025-06-01,Nordic Parts,Resistors,3958,2025-06-07,3756.0,45.0,Delivered
+D5316,2025-05-03,TECHSOURCE,Resistors,2348,2025-05-12,2147.0,31.0,Delayed
+D5004,2025-01-01,Nordic Parts,Connectors,3779,2025-01-03,3524.0,42.0,Delivered
+D5423,2025-01-08,EuroChip,Capacitors,2878,2025-01-15,2786.0,34.0,Delayed
+D5666,2025-02-27,TechSource ,Sensors,3003,2025-03-18,2743.0,38.0,Delivered
+D5111,2025-04-15,PolyMetal ,Connectors,4312,2025-05-02,4163.0,175.0,Delivered
+D5357,2025-05-29,EuroChip,Resistors,355,2025-06-03,,2.0,delayed
+D5049,2025-05-03,TechSource,Sensors,854,2025-05-09,771.0,10.0,Delivered
+D5206,2025-02-03,Nordic Parts ,Connectors,4854,2025-02-07,4625.0,56.0,delivered
+D5485,2025-01-17,Nordic Parts,Chips,2782,2025-01-26,2654.0,40.0,Delayed
+D5124,2025-07-10,POLYMETAL,Chips,4456,2025-07-29,4052.0,156.0,Delivered
+D5612,2025-03-08,Nordic Parts,Sensors,4946,2025-03-14,4715.0,54.0,Delivered
+D5447,2025-05-01,EuroChip,PCBs,1736,2025-05-07,1717.0,23.0,Delivered
+D5693,2025-02-09,Baltic Components,Chips,2210,2025-02-13,2103.0,18.0,Delivered
+D5179,2025-04-14,Baltic Components,Connectors,1486,2025-04-18,1425.0,22.0,Delivered
+D5668,2025-01-11,Baltic Components,Sensors,313,2025-01-15,287.0,3.0,Delivered
+D5062,2025-01-07,EuroChip,Sensors,1736,2025-01-14,1618.0,19.0,Delayed
+D5293,2025-05-12,TechSource,Sensors,1054,2025-05-26,1008.0,15.0,partial
+D5242,2025-01-02,Nordic Parts,Capacitors,1536,2025-01-05,1469.0,17.0,Delivered
+D5643,2025-01-29,PolyMetal,PCBs,4131,2025-02-13,3872.0,163.0,Delivered
+D5579,2025-06-15,Nordic Parts,PCBs,2772,2025-06-23,2591.0,28.0,delivered
+D5056,2025-04-24,Nordic Parts,Resistors,3494,2025-05-02,3426.0,37.0,Delivered
+D5312,2025-06-19,Baltic Components,Chips,168,2025-06-21,159.0,1.0,Partial
+D5330,2025-05-06,Baltic Components,Resistors,4663,2025-05-14,4272.0,,Delivered
+D5366,2025-04-02,PolyMetal,Resistors,3833,2025-04-12,3617.0,138.0,Cancelled
+D5390,2025-03-27,TechSource,PCBs,1876,2025-04-06,1825.0,32.0,Delivered
+D5034,2025-01-06,TechSource,Sensors,3583,2025-01-20,3326.0,44.0,Delivered
+D5317,2025-06-04,Baltic Components,Sensors,752,2025-06-07,683.0,7.0,Delivered
+D5170,2025-01-28,TechSource,PCBs,403,2025-02-10,368.0,5.0,Delayed
+D5631,2025-06-14,BALTIC COMPONENTS,Connectors,1260,2025-06-18,,11.0,Delivered
+D5186,2025-04-20,Baltic Components,Sensors,4912,2025-04-26,4698.0,60.0,Delivered
+D5416,2025-03-29,EuroChip,PCBs,3599,2025-04-03,3387.0,35.0,Cancelled
+D5085,2025-01-19,EuroChip,Chips,4413,2025-01-24,4108.0,46.0,Delivered
+D5444,2025-06-10,Baltic Components,Capacitors,4773,2025-06-13,4544.0,73.0,Delivered
+D5406,2025-02-05,Baltic Components,Chips,3839,2025-02-14,3767.0,42.0,Delivered
+D5600,2025-07-06,Nordic Parts,Connectors,918,2025-07-12,868.0,8.0,delivered
+D5115,2025-06-23,Nordic Parts,Resistors,3237,2025-06-25,3233.0,42.0,Delivered
+D5457,2025-02-23,TechSource,Capacitors,4412,2025-03-11,4081.0,37.0,Delivered
+D5189,2025-02-28,PolyMetal,Resistors,815,2025-03-14,747.0,35.0,Cancelled
+D5116,2025-05-10,EuroChip,Sensors,2454,2025-05-18,2352.0,23.0,Delivered
+D5275,2025-02-15,Nordic Parts,Connectors,1774,2025-02-17,1675.0,18.0,Delivered
+D5498,2025-02-05,TechSource,Sensors,4894,2025-02-20,4480.0,54.0,Delayed
+D5057,2025-06-16,TechSource,Resistors,3481,2025-06-23,3384.0,36.0,Delivered
+D5326,2025-06-28,PolyMetal,Chips,4543,2025-07-05,4148.0,167.0,partial
+D5570,2025-07-01,Baltic Components,PCBs,237,2025-07-10,234.0,3.0,Delivered
+D5353,2025-07-09,Nordic Parts,Sensors,4276,2025-07-13,4117.0,63.0,Delivered
+D5389,2025-03-03,PolyMetal,Resistors,1376,2025-03-12,1305.0,58.0,Delivered
+D5530,2025-03-02,POLYMETAL,PCBs,3456,2025-03-21,3279.0,129.0,Delivered
+D5370,2025-03-04,Baltic Components,PCBs,210,2025-03-13,207.0,5.0,Delivered
+D5422,2025-05-16,POLYMETAL,PCBs,3557,2025-06-04,3540.0,136.0,Delayed
+D5125,2025-06-21,Nordic Parts,PCBs,3173,2025-06-25,,38.0,delivered
+D5479,2025-04-08,Nordic Parts,Sensors,4199,2025-04-10,4116.0,58.0,Delivered
+D5256,2025-05-26,EuroChip,Chips,761,2025-05-30,747.0,7.0,delivered
+D5106,2025-04-14,PolyMetal,Capacitors,1297,2025-04-24,1268.0,53.0,Delivered
+D5690,2025-01-17,BALTIC COMPONENTS,PCBs,2788,2025-01-21,2615.0,35.0,Delivered
+D5526,2025-07-13,Baltic Components,Capacitors,4806,2025-07-21,4776.0,56.0,Delivered
+D5529,2025-01-19,PolyMetal,PCBs,3803,2025-02-06,3589.0,154.0,delivered
+D5475,2025-06-24,Nordic Parts,Chips,1907,2025-06-29,1815.0,15.0,Delivered
+D5616,2025-03-25,POLYMETAL,Resistors,2743,2025-04-06,2542.0,109.0,Partial
+D5441,2025-03-21,EuroChip,Sensors,4921,2025-03-28,4685.0,61.0,Delayed
+D5477,2025-07-04,PolyMetal,Capacitors,171,2025-07-11,,5.0,Delivered
+D5601,2025-01-13,Baltic Components ,Sensors,2282,2025-01-16,2089.0,22.0,Cancelled
+D5047,2025-04-27,Nordic Parts,Sensors,2940,2025-05-01,2825.0,21.0,Partial
+D5157,2025-01-02,Baltic Components,Connectors,1479,2025-01-04,1384.0,20.0,Partial
+D5466,2025-05-03,PolyMetal ,Resistors,1111,2025-05-16,1038.0,33.0,Partial
+D5395,2025-02-23,Nordic Parts,Capacitors,4014,2025-02-26,3677.0,61.0,Delivered
+D5234,2025-03-30,Baltic Components,Sensors,722,2025-04-01,652.0,15.0,Delivered
+D5568,2025-01-28,EuroChip,Chips,2628,2025-02-02,2572.0,33.0,Delivered
+D5620,2025-02-17,PolyMetal,Chips,4167,2025-02-28,3758.0,138.0,Delivered
+D5218,2025-05-06,EuroChip,Connectors,1006,2025-05-12,1004.0,10.0,delayed
+D5346,2025-07-09,Baltic Components,Connectors,4293,2025-07-15,4075.0,47.0,Delivered
+D5572,2025-04-01,BALTIC COMPONENTS,PCBs,366,2025-04-03,334.0,7.0,cancelled
+D5195,2025-03-29,TechSource,Sensors,1641,2025-04-16,1520.0,,Delivered
+D5090,2025-01-22,EuroChip,Sensors,804,2025-01-26,,4.0,Delayed
+D5162,2025-06-20,PolyMetal ,PCBs,3181,2025-06-30,,131.0,Delivered
+D5540,2025-02-15,Baltic Components,Connectors,2446,2025-02-23,2386.0,24.0,Partial
+D5310,2025-04-26,PolyMetal,Sensors,2022,2025-05-03,1877.0,85.0,delivered
+D5054,2025-06-02,EuroChip,Connectors,2726,2025-06-09,2473.0,22.0,Delivered
+D5577,2025-06-12,Nordic Parts,Resistors,3677,2025-06-17,3581.0,,Partial
+D5599,2025-01-22,TechSource,Connectors,4721,2025-02-06,4350.0,59.0,delivered
+D5016,2025-07-15,Nordic Parts,Capacitors,1417,,1336.0,17.0,Partial
+D5442,2025-01-20,Nordic Parts,Sensors,3746,2025-01-29,3666.0,62.0,Delivered
+D5156,2025-05-31,EuroChip,Chips,2123,2025-06-02,2083.0,25.0,delivered
+D5373,2025-04-05,PolyMetal,PCBs,3184,2025-04-12,2893.0,139.0,Delayed
+D5043,2025-01-28,Baltic Components,PCBs,1083,2025-02-04,1019.0,11.0,Delivered
+D5541,2025-03-02,Nordic Parts,Chips,4668,2025-03-08,4212.0,66.0,Delayed
+D5434,2025-06-12,NORDIC PARTS,PCBs,4845,2025-06-20,4820.0,58.0,Delayed
+D5518,2025-01-15,Nordic Parts,Chips,1539,2025-01-17,1447.0,16.0,Delivered
+D5379,2025-05-15,EuroChip,Resistors,3875,2025-05-23,3529.0,45.0,Delivered
+D5297,2025-04-11,EuroChip,Chips,382,2025-04-20,376.0,3.0,Partial
+D5305,2025-05-16,Baltic Components,Connectors,1296,,1171.0,6.0,Delivered
+D5609,2025-07-07,PolyMetal,Connectors,3318,2025-07-24,3030.0,137.0,Delivered
+D5145,2025-05-02,EuroChip,Chips,2697,2025-05-07,2462.0,41.0,Delivered
+D5664,2025-06-06,Baltic Components,PCBs,858,2025-06-13,787.0,10.0,Delivered
+D5198,2025-07-04,PolyMetal,Capacitors,370,2025-07-18,362.0,18.0,Cancelled
+D5585,2025-01-11,Baltic Components,Resistors,902,2025-01-19,824.0,6.0,Delivered
+D5409,2025-05-03,Baltic Components,Sensors,2874,2025-05-07,2808.0,30.0,Delivered
+D5289,2025-05-27,TechSource,Sensors,463,2025-06-15,438.0,4.0,Delayed
+D5460,2025-06-22,Nordic Parts,Chips,4035,2025-06-28,3794.0,44.0,Partial
+D5457,2025-02-23,TechSource,Capacitors,4412,2025-03-11,4081.0,37.0,Delivered
+D5388,2025-06-20,Baltic Components,Resistors,4247,2025-06-26,4187.0,48.0,Delivered
+D5445,2025-05-30,EuroChip,Resistors,195,2025-06-03,193.0,3.0,Delayed
+D5098,2025-03-20,EuroChip,Sensors,4777,2025-03-28,4540.0,56.0,Delivered
+D5462,2025-06-02,Baltic Components,Capacitors,4732,2025-06-06,4410.0,49.0,Delivered
+D5564,2025-05-17,PolyMetal,Resistors,2583,2025-05-29,2453.0,91.0,Delayed
+D5303,2025-03-11,PolyMetal,Connectors,3497,2025-03-26,3311.0,147.0,Delivered
+D5341,2025-05-31,PolyMetal,Sensors,1311,2025-06-07,1290.0,50.0,Delivered
+D5650,2025-05-16,TechSource,PCBs,1942,2025-05-23,1853.0,20.0,Delivered
+D5598,2025-07-16,PolyMetal,Sensors,2855,2025-08-01,2830.0,121.0,Delivered
+D5277,2025-03-23,Baltic Components,Sensors,2872,2025-03-31,2871.0,30.0,Delivered
+D5439,2025-01-12,Nordic Parts,Sensors,4282,2025-01-18,4060.0,43.0,Delivered
+D5321,2025-07-17,TechSource,Connectors,-500,2025-07-26,4459.0,48.0,Delivered
+D5139,2025-04-13,EuroChip,PCBs,4616,2025-04-19,4493.0,55.0,Delivered
+D5323,2025-01-25,TechSource,PCBs,736,2025-02-07,701.0,9.0,Delivered
+D5127,2025-03-04,Baltic Components,Sensors,274,2025-03-12,249.0,2.0,Cancelled
+D5605,2025-02-14,TechSource,Capacitors,3381,2025-02-28,3260.0,41.0,Delivered
+D5587,2025-05-13,Baltic Components,PCBs,3068,2025-05-21,2911.0,32.0,Delivered
+D5640,2025-06-10,Nordic Parts,Sensors,-500,2025-06-15,1824.0,23.0,Delivered
+D5557,2025-02-09,TechSource ,Chips,3370,2025-02-24,3153.0,31.0,Delayed
+D5483,2025-07-16,Nordic Parts,PCBs,4199,,4128.0,47.0,Delayed
+D5201,2025-05-30,TechSource,Connectors,4450,2025-06-07,4162.0,45.0,Delivered
+D5691,2025-06-20,PolyMetal,Sensors,966,2025-07-08,901.0,33.0,Delayed
+D5188,2025-03-21,EuroChip,Chips,1306,2025-03-24,1294.0,14.0,Delayed
+D5580,2025-07-12,PolyMetal,Connectors,639,2025-07-24,588.0,24.0,Delivered
+D5618,2025-06-20,PolyMetal,Sensors,4953,2025-07-07,4914.0,185.0,Delayed
+D5595,2025-05-14,Nordic Parts,Resistors,4156,2025-05-20,3793.0,55.0,Partial
+D5128,2025-04-27,Baltic Components,Chips,2668,2025-05-01,2467.0,23.0,delayed
+D5645,2025-05-01,Baltic Components,PCBs,2390,2025-05-10,2197.0,25.0,Delivered
+D5122,2025-07-04,Baltic Components,Connectors,2151,2025-07-08,2109.0,27.0,Delivered
+D5009,2025-04-14,EuroChip,PCBs,1940,2025-04-20,1910.0,31.0,Delivered
+D5513,2025-06-16,TechSource,PCBs,4306,2025-06-27,3956.0,50.0,Delivered
+D5164,2025-05-18,TECHSOURCE,Chips,2586,2025-06-06,2353.0,31.0,Delivered
+D5292,2025-02-15,Nordic Parts,Capacitors,1307,2025-02-17,,16.0,Delivered
+D5677,2025-04-25,Baltic Components,Chips,1769,2025-04-30,1763.0,27.0,Delivered
+D5594,2025-01-15,PolyMetal,Resistors,2626,2025-01-28,2573.0,104.0,Delayed
+D5101,2025-06-20,TechSource,Resistors,3157,2025-06-28,3002.0,47.0,partial
+D5486,2025-02-20,Nordic Parts ,PCBs,3705,2025-02-28,3517.0,44.0,Delivered
+D5351,2025-04-30,EuroChip,PCBs,3657,2025-05-04,3336.0,44.0,Delivered
+D5059,2025-07-12,EUROCHIP,PCBs,1788,2025-07-17,1723.0,24.0,delivered
+D5048,2025-05-30,Nordic Parts,Connectors,646,2025-06-04,621.0,10.0,Delivered
+D5642,2025-06-04,TechSource,Chips,232,2025-06-22,221.0,2.0,Delivered
+D5607,2025-06-30,TechSource,Connectors,3310,2025-07-15,3129.0,43.0,Delivered
+D5109,2025-04-23,TechSource,Chips,3051,2025-05-12,3019.0,33.0,Delivered
+D5489,2025-01-31,PolyMetal,Sensors,2667,2025-02-19,2513.0,97.0,Delivered
+D5627,2025-05-16,Nordic Parts,Capacitors,3120,2025-05-20,3045.0,43.0,Delivered
+D5133,2025-05-09,TechSource,Chips,3115,2025-05-18,2883.0,24.0,Delivered
+D5239,2025-02-10,PolyMetal,Capacitors,3264,2025-02-20,3001.0,122.0,delivered
+D5667,2025-01-27,TechSource,Connectors,4918,2025-02-12,4592.0,56.0,Delivered
+D5076,2025-05-22,Baltic Components,Resistors,1955,2025-05-25,,23.0,Delivered
+D5223,2025-06-02,EuroChip,Chips,1657,2025-06-10,1617.0,21.0,Delivered
+D5381,2025-01-01,Nordic Parts,PCBs,2505,2025-01-05,2446.0,40.0,Partial
+D5150,2025-04-26,TechSource,PCBs,4060,2025-05-06,3992.0,52.0,Delivered
+D5588,2025-02-15,TECHSOURCE,Connectors,3518,2025-03-01,3181.0,39.0,Delivered
+D5318,2025-02-16,Baltic Components,Resistors,4712,2025-02-22,4681.0,56.0,Delivered
+D5560,2025-03-05,PolyMetal,Resistors,2293,2025-03-20,2095.0,76.0,Delivered
+D5545,2025-02-22,Baltic Components,Chips,1018,2025-02-26,1008.0,11.0,Delivered
+D5006,2025-06-13,PolyMetal,Capacitors,2280,2025-06-22,2252.0,98.0,Delivered
+D5426,2025-03-01,Baltic Components,Resistors,1196,2025-03-09,1175.0,14.0,Delivered
+D5311,2025-05-15,Nordic Parts,Connectors,4652,2025-05-22,4196.0,52.0,delivered
+D5018,2025-04-10,EuroChip,Chips,4262,2025-04-12,3915.0,52.0,Cancelled
+D5191,2025-04-11,Nordic Parts,Sensors,1937,2025-04-16,1859.0,24.0,Delivered
+D5699,2025-02-05,TechSource,Connectors,4545,2025-02-23,4395.0,48.0,Delayed
+D5469,2025-03-13,EuroChip ,Chips,4611,2025-03-19,4348.0,61.0,Delayed
+D5280,2025-05-10,TechSource,PCBs,4718,2025-05-17,4418.0,61.0,Delivered
+D5328,2025-06-25,PolyMetal,PCBs,1538,2025-07-02,1476.0,50.0,Delivered
+D5000,2025-03-19,Baltic Components,Connectors,136,2025-03-23,125.0,2.0,Delivered
+D5060,2025-07-10,Baltic Components,Chips,3203,2025-07-14,3157.0,35.0,Delivered
+D5674,2025-05-23,TECHSOURCE,Resistors,1888,2025-06-06,1741.0,22.0,Delivered
+D5613,2025-06-22,Baltic Components,PCBs,1101,2025-06-27,1020.0,14.0,Delivered
+D5606,2025-05-01,TechSource,Connectors,3731,2025-05-19,3596.0,36.0,Delivered
+D5097,2025-05-12,EuroChip,Resistors,4665,2025-05-17,4446.0,51.0,Cancelled
+D5514,2025-06-13,PolyMetal,Resistors,153,,152.0,9.0,Delivered
+D5448,2025-03-18,Nordic Parts,Resistors,2524,2025-03-20,2280.0,26.0,Delivered
+D5394,2025-07-05,TechSource,Sensors,2422,2025-07-24,2281.0,25.0,Delayed
+D5339,2025-04-01,EuroChip,Connectors,4238,2025-04-10,3851.0,,Delivered
+D5450,2025-07-15,Nordic Parts,Resistors,3410,2025-07-23,,45.0,Delivered
+D5344,2025-03-19,TECHSOURCE,Capacitors,4016,2025-04-01,3965.0,60.0,Cancelled
+D5269,2025-04-24,PolyMetal,Resistors,1482,2025-05-06,1446.0,60.0,Delivered
+D5096,2025-04-24,PolyMetal,PCBs,2543,2025-05-13,2431.0,98.0,Delayed
+D5555,2025-04-27,PolyMetal,Connectors,1134,2025-05-16,1095.0,45.0,delivered
+D5055,2025-06-26,PolyMetal,Resistors,3504,2025-07-07,3210.0,106.0,Delivered
+D5350,2025-06-06,TechSource,Resistors,280,2025-06-22,259.0,2.0,Delivered
+D5681,2025-06-25,EuroChip,Chips,3850,2025-06-30,3475.0,44.0,Delayed
+D5259,2025-02-20,PolyMetal,Chips,1968,2025-03-07,1916.0,85.0,Delivered
+D5494,2025-01-11,TechSource,PCBs,471,2025-01-28,439.0,6.0,Delivered
+D5010,2025-07-11,Nordic Parts,PCBs,4671,2025-07-20,4540.0,,Delayed
+D5461,2025-03-10,EuroChip,Resistors,246,2025-03-14,230.0,3.0,Partial
+D5304,2025-02-15,TechSource,Sensors,2959,2025-03-05,2804.0,32.0,Delivered
+D5215,2025-01-29,PolyMetal,Chips,2832,2025-02-04,2801.0,124.0,Delivered
+D5313,2025-05-27,EuroChip,Resistors,1184,2025-06-03,1142.0,12.0,Delivered
+D5298,2025-02-09,Nordic Parts,Resistors,1267,2025-02-12,1185.0,15.0,Delayed
+D5371,2025-02-28,TechSource,Capacitors,772,2025-03-10,756.0,12.0,Delivered
+D5026,2025-05-20,Nordic Parts,Sensors,3899,2025-05-25,3545.0,36.0,Delivered
+D5608,2025-02-10,PolyMetal,Capacitors,3349,2025-02-19,3313.0,110.0,Cancelled
+D5184,2025-02-22,PolyMetal,Connectors,3073,2025-03-05,3049.0,123.0,Delivered
+D5237,2025-01-17,PolyMetal,PCBs,522,2025-01-27,470.0,19.0,Partial
+D5376,2025-04-03,Nordic Parts,PCBs,2300,2025-04-12,2259.0,16.0,Delayed
+D5088,2025-05-24,EuroChip,PCBs,4999,2025-06-01,4571.0,68.0,Partial
+D5509,2025-01-17,Nordic Parts,PCBs,1600,2025-01-24,1521.0,18.0,Delivered
+D5512,2025-01-19,Baltic Components,PCBs,1044,2025-01-26,1023.0,16.0,Delivered
+D5685,2025-04-19,PolyMetal,Resistors,2978,2025-04-28,2698.0,113.0,Delivered
+D5385,2025-01-05,EuroChip,Sensors,615,2025-01-13,562.0,6.0,Delivered
+D5268,2025-06-21,Nordic Parts,Resistors,1983,2025-06-30,1836.0,23.0,Delivered
+D5038,2025-05-01,EUROCHIP,Connectors,1089,2025-05-06,1039.0,16.0,Partial
+D5152,2025-04-02,TechSource,Capacitors,547,2025-04-16,546.0,6.0,Delivered
+D5079,2025-02-14,PolyMetal,Resistors,3576,2025-03-03,3352.0,147.0,Delivered
+D5429,2025-02-24,Baltic Components,PCBs,4278,2025-02-27,4221.0,47.0,Cancelled
+D5241,2025-03-26,TechSource,Chips,4554,2025-04-13,4529.0,44.0,Delivered
+D5249,2025-01-16,Nordic Parts,Chips,4170,2025-01-22,3816.0,40.0,Delivered
+D5648,2025-05-05,Nordic Parts,Capacitors,521,2025-05-11,478.0,7.0,Partial
+D5656,2025-04-22,Nordic Parts,Connectors,793,,788.0,3.0,Partial
+D5345,2025-07-12,Baltic Components,Connectors,1073,2025-07-21,1050.0,10.0,Delivered
+D5515,2025-01-21,PolyMetal,Resistors,4252,2025-02-01,3840.0,156.0,Delivered
+D5174,2025-06-20,EuroChip,Resistors,3983,2025-06-25,3621.0,37.0,Partial
+D5610,2025-05-11,Baltic Components,Connectors,1719,2025-05-15,1555.0,23.0,Delivered
+D5536,2025-03-29,Nordic Parts,Connectors,2355,2025-04-01,2352.0,26.0,Partial
+D5024,2025-07-03,PolyMetal,Resistors,473,2025-07-15,443.0,15.0,partial
+D5161,2025-06-05,Baltic Components ,Chips,612,2025-06-12,598.0,11.0,Delivered
+D5093,2025-01-08,TechSource,Capacitors,2567,,2535.0,29.0,Delivered
+D5182,2025-02-25,TechSource,Chips,4469,2025-03-10,4281.0,53.0,Partial
+D5289,2025-05-27,TechSource,Sensors,463,2025-06-15,438.0,4.0,Delayed
+D5119,2025-02-21,TechSource,Sensors,-500,2025-03-01,2508.0,37.0,Delivered
+D5456,2025-04-29,Baltic Components,Chips,503,2025-05-07,499.0,5.0,Delivered
+D5262,2025-01-31,Nordic Parts,PCBs,4683,2025-02-04,4536.0,53.0,Delayed
+D5266,2025-07-07,EuroChip,PCBs,250,2025-07-11,235.0,7.0,Delayed
+D5058,2025-06-27,Baltic Components,Resistors,382,2025-07-03,368.0,6.0,Delivered
+D5492,2025-06-12,EuroChip,PCBs,4858,2025-06-14,4717.0,61.0,Delivered
+D5168,2025-02-25,Baltic Components,Connectors,2973,2025-02-28,2746.0,36.0,Delivered
+D5081,2025-02-26,PolyMetal ,Connectors,461,2025-03-07,452.0,16.0,Cancelled
+D5480,2025-01-27,PolyMetal,Resistors,1350,2025-02-07,1328.0,61.0,Delivered
+D5639,2025-06-12,Nordic Parts,Chips,4004,2025-06-21,3681.0,38.0,Delivered
+D5226,2025-02-01,BALTIC COMPONENTS,PCBs,360,2025-02-04,332.0,2.0,Delivered
+D5646,2025-05-22,TechSource,Chips,3442,2025-06-04,3208.0,34.0,Delivered
+D5334,2025-07-10,PolyMetal,Sensors,2591,,2469.0,101.0,Delivered
+D5574,2025-06-10,PolyMetal,Chips,1918,2025-06-19,1865.0,71.0,Delivered
+D5221,2025-03-15,TechSource,Resistors,3112,2025-03-27,2935.0,33.0,Delivered
+D5508,2025-05-22,Nordic Parts,Capacitors,4219,2025-05-29,4069.0,52.0,Delivered
+D5636,2025-01-06,TechSource,PCBs,2448,2025-01-20,2333.0,38.0,Delivered
+D5673,2025-03-23,TechSource,Chips,1897,2025-04-09,1712.0,20.0,Delivered
+D5352,2025-01-08,TechSource,Chips,1558,2025-01-23,1473.0,17.0,Delivered
+D5272,2025-05-11,TechSource,Sensors,2744,2025-05-23,2672.0,39.0,Delivered
+D5551,2025-05-07,TechSource,PCBs,291,2025-05-23,288.0,4.0,Partial
+D5213,2025-05-09,TechSource,Connectors,3907,2025-05-22,3627.0,34.0,Delayed
+D5563,2025-01-29,PolyMetal,Sensors,1891,2025-02-15,1759.0,75.0,Delivered
+D5083,2025-04-26,Baltic Components,Connectors,2703,2025-05-05,2658.0,35.0,Partial
+D5092,2025-03-27,EuroChip,Chips,4719,2025-03-31,4394.0,61.0,Delayed
+D5301,2025-01-03,Nordic Parts,PCBs,173,2025-01-11,165.0,3.0,Delivered
+D5019,2025-04-21,Nordic Parts,Connectors,4532,2025-04-23,4270.0,58.0,Delivered
+D5046,2025-03-12,TechSource,Connectors,1001,2025-03-31,959.0,14.0,Delivered
+D5185,2025-01-26,EuroChip,Chips,847,2025-01-29,776.0,9.0,Delivered
+D5227,2025-05-27,TechSource,Capacitors,1895,2025-06-14,1827.0,19.0,Delivered
+D5209,2025-03-08,Baltic Components,Capacitors,3665,2025-03-10,3503.0,44.0,Partial
+D5333,2025-04-09,TechSource,PCBs,4266,2025-04-16,4217.0,56.0,Delivered
+D5538,2025-01-15,POLYMETAL,PCBs,1100,2025-01-24,,48.0,Delivered
+D5015,2025-01-21,TechSource,Chips,1499,2025-01-28,1466.0,17.0,Delivered
+D5231,2025-05-19,Baltic Components,Sensors,3407,2025-05-24,3180.0,46.0,Delivered
+D5399,2025-02-02,PolyMetal,Capacitors,1958,2025-02-08,1799.0,57.0,Delivered
+D5428,2025-03-09,TechSource,PCBs,4774,2025-03-24,,62.0,Delayed
+D5314,2025-07-12,Nordic Parts,Resistors,624,2025-07-18,582.0,7.0,Delivered
+D5180,2025-02-01,Nordic Parts,Sensors,4311,2025-02-09,4151.0,51.0,Delivered
+D5278,2025-06-23,EuroChip,Resistors,3150,2025-06-30,2982.0,33.0,Cancelled
+D5315,2025-01-24,Nordic Parts,Chips,3241,,3168.0,40.0,Delivered
+D5679,2025-01-25,PolyMetal ,Capacitors,3968,2025-02-08,3602.0,149.0,Delivered
+D5039,2025-02-25,PolyMetal,Capacitors,1687,2025-03-12,1660.0,69.0,Cancelled
+D5159,2025-01-05,Baltic Components,Connectors,1838,2025-01-14,1675.0,14.0,Delivered
+D5246,2025-01-01,EuroChip,Resistors,3927,2025-01-03,3809.0,37.0,Delivered
+D5238,2025-03-15,Baltic Components,Resistors,2353,2025-03-23,2136.0,19.0,Delivered
+D5137,2025-05-31,Baltic Components,Capacitors,3897,,3517.0,53.0,Delivered
+D5025,2025-06-03,EuroChip,Capacitors,1997,2025-06-12,1945.0,30.0,Delayed
+D5561,2025-06-06,EuroChip,PCBs,3947,2025-06-15,3883.0,49.0,Delivered
+D5634,2025-07-13,EuroChip,Chips,479,2025-07-22,457.0,6.0,Delivered
+D5340,2025-03-29,Baltic Components,Resistors,4081,2025-04-07,3871.0,39.0,Cancelled
+D5061,2025-02-08,Baltic Components,Sensors,3442,2025-02-11,3212.0,41.0,Partial
+D5307,2025-06-07,POLYMETAL,Resistors,4736,2025-06-18,4518.0,185.0,Cancelled
+D5392,2025-05-12,Nordic Parts,Resistors,4092,2025-05-18,3777.0,46.0,Delivered
+D5505,2025-04-16,EuroChip,Resistors,837,2025-04-23,819.0,9.0,Delivered
+D5544,2025-05-20,PolyMetal,Chips,4240,2025-06-07,3931.0,159.0,Delivered
+D5158,2025-02-27,Nordic Parts,Connectors,1332,2025-03-07,1321.0,14.0,Delivered
+D5011,2025-05-24,Baltic Components,Resistors,301,2025-05-27,280.0,5.0,Delivered
+D5240,2025-07-12,TechSource,Sensors,3408,2025-07-25,3083.0,34.0,Delivered
+D5471,2025-07-01,Nordic Parts,Sensors,2090,2025-07-07,1881.0,25.0,Delivered
+D5017,2025-03-10,Baltic Components,Capacitors,1649,2025-03-17,1590.0,25.0,Delivered
+D5067,2025-07-09,PolyMetal,Resistors,4878,2025-07-26,4785.0,197.0,Partial
+D5553,2025-07-07,Baltic Components,Chips,1378,2025-07-16,1297.0,11.0,Delivered
+D5533,2025-02-05,EUROCHIP,Sensors,4304,2025-02-09,4127.0,43.0,Partial
+D5112,2025-04-13,Nordic Parts,Chips,258,2025-04-19,252.0,,Cancelled
+D5596,2025-04-27,Baltic Components ,Sensors,2610,2025-05-05,2397.0,35.0,Delivered
+D5516,2025-04-02,TechSource,PCBs,3150,2025-04-09,3009.0,41.0,Delivered
+D5660,2025-07-07,BALTIC COMPONENTS,Capacitors,3519,2025-07-15,3238.0,36.0,Delivered
+D5102,2025-01-01,EuroChip,Sensors,3008,2025-01-04,2998.0,37.0,Delivered
+D5415,2025-01-08,PolyMetal,Connectors,2740,2025-01-16,2711.0,114.0,Delayed
+D5487,2025-02-18,Baltic Components,Connectors,3674,2025-02-22,3587.0,60.0,Delayed
+D5473,2025-06-30,Baltic Components,Connectors,1697,2025-07-08,1653.0,21.0,Delivered
+D5527,2025-02-01,EuroChip,Connectors,2871,2025-02-07,2774.0,32.0,Partial
+D5604,2025-05-17,TechSource,Sensors,317,2025-06-03,285.0,2.0,Delivered
+D5291,2025-03-20,PolyMetal,Capacitors,3011,2025-04-08,2908.0,94.0,Delivered
+D5263,2025-03-23,Nordic Parts,Capacitors,1332,2025-04-01,1284.0,18.0,Delivered
+D5251,2025-01-12,EuroChip,Sensors,2842,2025-01-21,2600.0,37.0,Delayed
+D5576,2025-03-01,PolyMetal,Connectors,4436,2025-03-07,4145.0,143.0,Delivered
+D5562,2025-06-24,TechSource,Chips,2277,2025-07-04,2221.0,23.0,Delivered
+D5001,2025-01-30,EuroChip,PCBs,1991,2025-02-05,1957.0,25.0,Delivered
+D5375,2025-03-23,TechSource,PCBs,2899,2025-04-01,2689.0,32.0,Delivered
+D5669,2025-03-15,Nordic Parts,Resistors,3558,2025-03-20,3492.0,37.0,Delayed
+D5592,2025-07-03,TechSource,Capacitors,572,2025-07-16,,7.0,Delivered
+D5367,2025-05-17,PolyMetal,PCBs,500,2025-05-25,461.0,19.0,Delivered
+D5402,2025-06-19,TechSource ,Connectors,3498,2025-07-08,3446.0,54.0,Delivered
+D5002,2025-06-07,Baltic Components,Sensors,695,2025-06-16,645.0,12.0,Delivered
+D5095,2025-01-26,Baltic Components,Resistors,3298,2025-02-03,3154.0,43.0,Partial
+D5535,2025-05-15,TechSource,Resistors,2966,2025-05-25,2884.0,35.0,delivered
+D5496,2025-05-26,TechSource,Sensors,673,2025-06-10,654.0,13.0,Delivered
+D5635,2025-03-13,Nordic Parts,Chips,2077,2025-03-22,1993.0,25.0,Delivered
+D5284,2025-06-06,TechSource,Sensors,149,2025-06-14,142.0,0.0,Delivered
+D5211,2025-07-19,Nordic Parts,PCBs,4545,2025-07-25,4439.0,53.0,Delivered
+D5410,2025-06-23,EUROCHIP,Resistors,4323,2025-06-26,4098.0,44.0,Delivered
+D5173,2025-06-13,EuroChip,PCBs,4502,2025-06-19,4501.0,55.0,Delivered
+D5287,2025-04-12,EuroChip,Chips,2842,2025-04-16,2565.0,28.0,delivered
+D5658,2025-05-26,EuroChip,Connectors,634,2025-05-28,571.0,4.0,delivered
+D5142,2025-01-02,Nordic Parts,PCBs,4113,2025-01-07,3949.0,63.0,Delivered
+D5412,2025-06-10,TechSource,Sensors,3905,,3671.0,42.0,Delivered
+D5192,2025-05-24,EuroChip,Chips,4232,2025-05-30,3951.0,54.0,Delayed
+D5022,2025-07-01,EuroChip,Chips,4733,2025-07-07,4630.0,68.0,Delayed
+D5401,2025-02-18,Nordic Parts ,Resistors,575,2025-02-24,557.0,8.0,Delivered
+D5229,2025-05-11,TechSource,Resistors,1333,2025-05-18,1260.0,17.0,Delayed
+D5217,2025-04-12,PolyMetal ,Chips,4520,2025-04-26,4274.0,159.0,Cancelled
+D5154,2025-04-02,PolyMetal,Connectors,1200,2025-04-18,1091.0,43.0,Delivered
+D5430,2025-06-21,Nordic Parts,Resistors,357,2025-06-27,343.0,4.0,Delivered
+D5403,2025-05-31,Baltic Components,Sensors,4265,2025-06-04,3914.0,45.0,Delivered
+D5181,2025-06-19,TechSource,PCBs,3047,2025-06-27,2961.0,34.0,delivered
+D5335,2025-03-31,EuroChip,Chips,1520,2025-04-07,1485.0,17.0,Delivered
+D5593,2025-01-24,NORDIC PARTS,Capacitors,506,2025-02-01,502.0,6.0,Delivered
+D5074,2025-06-18,PolyMetal,Chips,3186,2025-07-07,3155.0,98.0,Delivered
+D5414,2025-01-25,EuroChip,PCBs,2886,2025-01-30,2743.0,28.0,Delivered
+D5435,2025-06-12,EuroChip,PCBs,3956,2025-06-21,3729.0,40.0,Delivered
+D5030,2025-03-07,PolyMetal ,Sensors,1749,2025-03-19,1728.0,72.0,Partial
+D5233,2025-06-02,PolyMetal,PCBs,1423,2025-06-20,1288.0,57.0,Delivered
+D5020,2025-04-15,Nordic Parts,Capacitors,3492,2025-04-22,3419.0,46.0,delayed
+D5614,2025-03-09,EuroChip,Chips,4161,2025-03-13,4145.0,49.0,Delivered
+D5633,2025-04-19,EuroChip,Connectors,4209,2025-04-27,,41.0,Delivered
+D5030,2025-03-07,PolyMetal ,Sensors,1749,2025-03-19,1728.0,72.0,Partial
+D5290,2025-06-12,TechSource,Connectors,2731,2025-06-28,2552.0,34.0,Delivered
+D5252,2025-05-26,Nordic Parts,Capacitors,3135,2025-05-31,2861.0,41.0,Delivered
+D5069,2025-05-29,EuroChip,Sensors,2968,2025-06-06,2791.0,27.0,Delivered
+D5087,2025-06-29,PolyMetal,Resistors,2027,2025-07-11,1857.0,78.0,Delivered
+D5114,2025-04-24,PolyMetal,Capacitors,1404,2025-05-04,1397.0,56.0,Delivered
+D5548,2025-02-19,Baltic Components,Capacitors,2008,2025-02-21,,27.0,Delivered
+D5091,2025-03-28,PolyMetal,Sensors,1802,2025-04-12,1636.0,65.0,Partial
+D5465,2025-02-04,PolyMetal,Connectors,2800,2025-02-11,2797.0,127.0,Delivered
+D5167,2025-06-15,Baltic Components,PCBs,4868,2025-06-19,4828.0,44.0,Partial
+D5407,2025-01-07,Nordic Parts,Connectors,644,2025-01-12,617.0,3.0,Delivered
+D5320,2025-01-19,Nordic Parts,PCBs,1318,2025-01-25,1239.0,12.0,Delivered
+D5659,2025-01-30,Nordic Parts,Capacitors,2654,2025-02-05,2539.0,34.0,Delivered
+D5077,2025-04-28,EuroChip,Connectors,2308,2025-05-01,2136.0,29.0,Delivered
+D5566,2025-05-14,EuroChip,PCBs,2376,2025-05-19,,31.0,Delayed
+D5531,2025-03-29,Nordic Parts,Connectors,3652,2025-04-03,3494.0,48.0,Partial
+D5257,2025-03-07,Baltic Components,PCBs,2137,2025-03-11,1945.0,25.0,Delivered
+D5255,2025-01-27,EuroChip,Capacitors,4310,2025-02-01,3972.0,56.0,Delivered
+D5497,2025-06-17,PolyMetal,Chips,144,2025-06-30,140.0,8.0,delivered
+D5130,2025-01-06,TechSource,Capacitors,884,2025-01-17,869.0,12.0,Delivered
+D5100,2025-02-10,Nordic Parts ,Chips,3597,2025-02-17,3254.0,41.0,Delayed
+D5171,2025-02-13,Baltic Components,Capacitors,3059,2025-02-19,2981.0,28.0,Partial
+D5672,2025-01-07,EUROCHIP,Chips,2214,2025-01-16,2010.0,24.0,Delayed
+D5629,2025-05-14,EuroChip,Connectors,1675,2025-05-23,1540.0,27.0,Delivered
+D5453,2025-01-22,EuroChip,Sensors,3521,2025-01-25,3335.0,,Cancelled
+D5684,2025-04-30,TechSource,Capacitors,4604,2025-05-13,4178.0,55.0,Delivered
+D5200,2025-07-16,EuroChip,Connectors,416,2025-07-18,378.0,7.0,Delivered
+D5202,2025-03-04,TechSource,PCBs,544,2025-03-21,523.0,8.0,Delivered
+D5455,2025-04-17,Nordic Parts ,Connectors,3772,,3521.0,45.0,Delivered
+D5136,2025-05-28,PolyMetal,Sensors,3921,2025-06-16,3776.0,143.0,Delivered
+D5520,2025-01-21,TECHSOURCE,Connectors,4331,2025-01-28,3981.0,36.0,Delayed
+D5569,2025-04-01,TechSource,Resistors,1550,2025-04-10,1425.0,20.0,Cancelled
+D5378,2025-04-01,Baltic Components,Resistors,2776,2025-04-06,2735.0,34.0,Delivered
+D5270,2025-05-28,EuroChip,Capacitors,2678,2025-06-02,2485.0,33.0,Partial
+D5063,2025-05-11,EuroChip,Capacitors,4249,2025-05-13,4004.0,59.0,Delayed
+D5393,2025-01-13,PolyMetal,Sensors,3353,2025-01-27,3214.0,122.0,Delivered
+D5070,2025-05-05,EuroChip,PCBs,2053,2025-05-07,1979.0,18.0,Delivered
+D5534,2025-06-05,Nordic Parts,Sensors,892,2025-06-09,890.0,6.0,Delivered
+D5271,2025-03-19,Baltic Components,Resistors,2923,2025-03-26,2771.0,39.0,Delivered
+D5543,2025-05-09,Nordic Parts,Sensors,1790,2025-05-14,1651.0,,Delayed
+D5160,2025-02-17,TechSource,Connectors,633,2025-02-23,,12.0,Delivered
+D5628,2025-07-15,PolyMetal,Chips,3299,2025-07-23,3050.0,121.0,delivered
+D5169,2025-03-05,TechSource,Connectors,3744,2025-03-23,3594.0,46.0,Partial
+D5036,2025-03-11,POLYMETAL,Chips,110,2025-03-25,101.0,4.0,Delayed
+D5243,2025-01-06,TechSource,Capacitors,3308,2025-01-13,3107.0,50.0,Cancelled
+D5082,2025-01-24,PolyMetal,Connectors,1331,2025-01-30,1293.0,57.0,Delivered
+D5260,2025-06-06,EuroChip,Chips,2498,2025-06-13,2401.0,41.0,Delivered
+D5372,2025-03-02,Baltic Components,Chips,4413,2025-03-07,4016.0,41.0,Delivered
+D5022,2025-07-01,EuroChip,Chips,4733,2025-07-07,4630.0,68.0,Delayed
+D5337,2025-02-04,EuroChip,PCBs,2697,2025-02-09,2585.0,28.0,Delayed
+D5308,2025-06-06,Baltic Components,Chips,3412,2025-06-11,3134.0,31.0,Delivered
+D5695,2025-02-13,TechSource,Resistors,4551,2025-02-28,4317.0,54.0,Delivered
+D5507,2025-06-23,TechSource,PCBs,1918,2025-07-09,1875.0,33.0,Delivered
+D5220,2025-03-29,Baltic Components,Resistors,1491,2025-04-02,1439.0,13.0,Delivered
+D5013,2025-01-18,TechSource,Sensors,907,2025-01-29,874.0,10.0,Delivered
+D5688,2025-04-24,NORDIC PARTS,Resistors,3927,2025-05-01,3541.0,,Delivered
+D5584,2025-01-12,PolyMetal,PCBs,3062,2025-01-24,3025.0,131.0,Delivered
+D5511,2025-01-04,TechSource,PCBs,2692,2025-01-22,2477.0,24.0,Delivered
+D5177,2025-02-19,Nordic Parts,Resistors,3631,2025-02-24,3361.0,38.0,Delivered
+D5276,2025-03-21,TechSource,Sensors,791,2025-03-29,,10.0,Delivered
+D5547,2025-01-03,Baltic Components,Capacitors,2583,2025-01-10,2361.0,25.0,Delayed
+D5476,2025-03-09,PolyMetal,Connectors,1877,2025-03-18,,70.0,Delivered
+D5225,2025-06-25,EuroChip,PCBs,415,2025-07-03,414.0,4.0,delivered
+D5216,2025-06-06,EuroChip,PCBs,4540,2025-06-11,4516.0,42.0,Delivered
+D5029,2025-03-02,EuroChip,Sensors,3069,2025-03-06,3032.0,44.0,Cancelled
+D5180,2025-02-01,Nordic Parts,Sensors,4311,2025-02-09,4151.0,51.0,Delivered
+D5459,2025-06-10,EuroChip ,Chips,2573,2025-06-13,2514.0,36.0,Delivered
+D5644,2025-02-07,PolyMetal,Chips,1585,2025-02-19,1551.0,57.0,delayed
+D5204,2025-02-11,TechSource,Connectors,999,2025-02-26,986.0,15.0,Cancelled
+D5474,2025-01-31,TechSource,Resistors,2949,2025-02-07,2782.0,42.0,Delivered
+D5264,2025-06-08,EuroChip ,PCBs,4782,2025-06-14,4721.0,47.0,Delivered
+D5064,2025-05-16,Nordic Parts,PCBs,4184,2025-05-23,4179.0,47.0,Delivered
+D5662,2025-06-21,Nordic Parts,Connectors,874,2025-06-24,806.0,9.0,Delivered
+D5214,2025-06-14,POLYMETAL,Sensors,1676,2025-06-25,1656.0,50.0,Delivered
+D5675,2025-02-10,PolyMetal,Connectors,432,2025-02-21,409.0,15.0,Delivered
+D5661,2025-06-26,EuroChip,Sensors,4568,2025-07-02,4398.0,49.0,Delayed
+D5175,2025-03-26,Nordic Parts,Sensors,4334,2025-04-03,4197.0,43.0,Delivered
+D5398,2025-04-18,PolyMetal ,Sensors,1871,2025-05-04,1781.0,72.0,Delivered
+D5172,2025-01-08,Baltic Components,Connectors,1976,2025-01-14,1803.0,19.0,delayed
+D5332,2025-05-01,EuroChip,Capacitors,3079,2025-05-03,2999.0,,Delivered
+D5032,2025-02-16,PolyMetal,Resistors,3778,,3588.0,144.0,delivered
+D5031,2025-05-15,TechSource,Chips,2263,2025-06-01,2152.0,21.0,delivered
+D5235,2025-04-06,EuroChip,Capacitors,867,2025-04-08,843.0,11.0,Delivered
+D5374,2025-01-27,PolyMetal,Chips,3953,,3752.0,139.0,Delivered
+D5397,2025-06-16,Nordic Parts,Chips,3424,2025-06-18,,49.0,Delayed
+D5408,2025-05-06,TechSource,Chips,3914,2025-05-12,3660.0,52.0,Delivered
+D5418,2025-04-14,PolyMetal ,PCBs,2138,2025-04-24,2129.0,101.0,Delivered
+D5389,2025-03-03,PolyMetal,Resistors,1376,2025-03-12,1305.0,58.0,Delivered
+D5686,2025-04-13,EuroChip,Connectors,2467,2025-04-16,2249.0,19.0,Delivered
+D5550,2025-04-05,PolyMetal ,Chips,4970,2025-04-14,4885.0,207.0,Delivered
+D5265,2025-07-07,TechSource ,Sensors,3577,2025-07-20,3422.0,40.0,Delayed
+D5014,2025-02-18,TechSource,PCBs,660,2025-03-08,656.0,7.0,Delayed
+D5094,2025-02-21,PolyMetal,Connectors,3562,2025-03-04,3225.0,153.0,Delivered
+D5528,2025-05-17,TechSource ,Connectors,4827,2025-05-26,4471.0,63.0,Delivered
+D5391,2025-05-20,EuroChip,Capacitors,1360,2025-05-27,1257.0,17.0,Delivered
+D5078,2025-06-05,Baltic Components,PCBs,495,2025-06-13,454.0,8.0,Delivered
+D5603,2025-06-16,EuroChip,Resistors,2026,2025-06-23,1953.0,19.0,Cancelled
+D5387,2025-01-16,Nordic Parts,Sensors,865,2025-01-23,849.0,11.0,Delivered
+D5183,2025-05-28,Baltic Components,Resistors,3995,,3665.0,34.0,Delivered
+D5449,2025-05-17,PolyMetal,Connectors,921,2025-06-02,889.0,33.0,Delivered
+D5380,2025-03-24,Baltic Components,Capacitors,1101,2025-04-01,1097.0,5.0,Delivered
+D5491,2025-01-23,Baltic Components,Capacitors,3793,2025-02-01,3730.0,43.0,Delivered
+D5190,2025-06-26,Nordic Parts,Resistors,437,2025-06-29,403.0,4.0,Delivered
+D5377,2025-02-07,TechSource,Resistors,189,2025-02-23,179.0,2.0,Delivered
+D5621,2025-06-06,PolyMetal,Resistors,3911,2025-06-13,3658.0,143.0,Delayed
+D5364,2025-05-12,TechSource,Sensors,4326,2025-05-21,4102.0,,Delivered
+D5135,2025-03-05,TechSource,PCBs,3029,2025-03-19,2737.0,37.0,Delivered
+D5245,2025-02-01,EuroChip,Resistors,239,2025-02-07,217.0,3.0,Partial
+D5274,2025-04-15,PolyMetal,Resistors,4129,2025-05-04,3751.0,153.0,Partial
+D5147,2025-02-14,Baltic Components,Sensors,2959,2025-02-17,2842.0,38.0,Delivered
+D5105,2025-04-01,EuroChip,PCBs,-500,2025-04-10,4942.0,52.0,Delivered
+D5294,2025-01-08,TechSource,Connectors,3071,2025-01-27,3035.0,35.0,Delivered
+D5324,2025-02-19,PolyMetal,PCBs,4150,2025-03-08,3783.0,146.0,Delivered
+D5539,2025-05-13,PolyMetal,Chips,4117,2025-05-19,,,Delivered
+D5676,2025-05-28,PolyMetal,Resistors,2768,2025-06-16,2601.0,110.0,Delayed
+D5110,2025-02-15,Nordic Parts,Sensors,1153,2025-02-23,,9.0,Delivered
+D5005,2025-03-06,PolyMetal,Sensors,2387,2025-03-25,2365.0,92.0,Delivered
+D5144,2025-01-05,TechSource,Chips,649,2025-01-23,617.0,4.0,Delivered
+D5103,2025-04-11,TechSource,Connectors,597,2025-04-30,561.0,9.0,Delivered
+D5210,2025-05-17,Nordic Parts,Resistors,4103,2025-05-19,3914.0,44.0,Delivered
+D5446,2025-05-07,Baltic Components,Connectors,3304,2025-05-15,3137.0,44.0,Delivered
+D5041,2025-04-07,Nordic Parts,Capacitors,844,2025-04-13,810.0,9.0,Delivered
+D5362,2025-06-28,EuroChip,Connectors,2573,2025-07-04,2501.0,28.0,Delivered
+D5649,2025-01-26,EuroChip,Capacitors,3859,2025-01-30,3516.0,38.0,Delivered
+D5377,2025-02-07,TechSource,Resistors,189,2025-02-23,179.0,2.0,Delivered
+D5254,2025-05-09,PolyMetal,Connectors,3685,2025-05-19,3544.0,169.0,Delayed
+D5146,2025-03-23,PolyMetal,Capacitors,3069,2025-04-07,2792.0,117.0,Delivered
+D5637,2025-03-30,Baltic Components,Capacitors,3887,2025-04-03,3659.0,38.0,Delivered
+D5086,2025-04-16,Baltic Components,Resistors,4644,2025-04-24,4536.0,49.0,delivered
+D5542,2025-06-22,EuroChip,Sensors,3976,2025-06-24,3629.0,38.0,Delivered
+D5431,2025-03-13,Baltic Components,Sensors,2789,2025-03-20,2519.0,35.0,Delivered
+D5065,2025-04-24,Nordic Parts,PCBs,3851,2025-05-02,3679.0,48.0,Delivered
+D5205,2025-04-25,TechSource,Resistors,2786,2025-05-12,2775.0,27.0,Delivered
+D5044,2025-01-10,TechSource ,Connectors,1699,2025-01-17,1566.0,14.0,delayed
+D5027,2025-05-21,Nordic Parts ,Connectors,536,2025-05-27,534.0,9.0,Delivered
+D5080,2025-04-30,EuroChip,Resistors,427,2025-05-04,395.0,7.0,Delivered
+D5437,2025-04-21,Baltic Components ,Capacitors,2581,2025-04-28,2323.0,28.0,Delivered
+D5113,2025-06-22,EuroChip,Resistors,3643,2025-06-26,3426.0,42.0,Delivered
+D5204,2025-02-11,TechSource,Connectors,999,2025-02-26,986.0,15.0,Cancelled
+D5519,2025-03-18,Nordic Parts,PCBs,4511,2025-03-21,4126.0,43.0,Delivered
+D5670,2025-04-25,Nordic Parts,Connectors,261,2025-05-01,253.0,0.0,Delivered
+D5624,2025-01-02,PolyMetal,Sensors,2996,2025-01-19,2900.0,115.0,Delivered
+D5411,2025-05-08,EuroChip,Sensors,431,2025-05-10,397.0,3.0,Delivered
+D5008,2025-03-03,PolyMetal,Sensors,1073,,969.0,32.0,Delivered
+D5073,2025-05-07,EuroChip,PCBs,1549,2025-05-15,1464.0,22.0,Delivered
+D5400,2025-04-20,EuroChip,Chips,875,2025-04-26,808.0,11.0,Partial
+D5118,2025-03-07,Baltic Components,Sensors,1971,,1926.0,30.0,Delayed
+D5345,2025-07-12,Baltic Components,Connectors,1073,2025-07-21,1050.0,10.0,Delivered
+D5206,2025-02-03,Nordic Parts ,Connectors,4854,2025-02-07,4625.0,56.0,delivered
