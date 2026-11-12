@@ -1,0 +1,200 @@
+2025-03-01 06:00:00 | LINE-E | ERROR | Solder bridge detected
+2025-03-01 06:17:00 | LINE-A | INFO | Cycle completed, temperature 65.8C
+2025-03-01 06:34:00 | LINE-C | ERROR | Conveyor jam
+2025-03-01 06:51:00 | LINE-D | INFO | Cycle completed, temperature 62.1C
+2025-03-01 07:08:00 | LINE-A | ERROR | Conveyor jam
+2025-03-01 07:25:00 | LINE-C | INFO | Cycle completed, temperature 68.7C
+2025-03-01 07:42:00 | LINE-E | INFO | Cycle completed, temperature 68.3C
+2025-03-01 07:59:00 | LINE-C | ERROR | Conveyor jam
+2025-03-01 08:16:00 | LINE-D | INFO | Cycle completed, temperature 69.1C
+2025-03-01 08:33:00 | LINE-B | WARNING | Temperature high 78.0C
+2025-03-01 08:50:00 | LINE-B | INFO | Cycle completed, temperature 65.3C
+2025-03-01 09:07:00 | LINE-E | ERROR | Feeder empty
+2025-03-01 09:24:00 | LINE-D | INFO | Cycle completed, temperature 61.4C
+2025-03-01 09:41:00 | LINE-C | ERROR | Solder bridge detected
+2025-03-01 09:58:00 | LINE-A | WARNING | Temperature high 86.3C
+2025-03-01 10:15:00 | LINE-B | INFO | Cycle completed, temperature 59.2C
+2025-03-01 10:32:00 | LINE-B | INFO | Cycle completed, temperature 67.7C
+2025-03-01 10:49:00 | LINE-E | ERROR | Feeder empty
+2025-03-01 11:06:00 | LINE-A | ERROR | Conveyor jam
+2025-03-01 11:23:00 | LINE-C | INFO | Cycle completed, temperature 57.5C
+2025-03-01 11:40:00 | LINE-A | ERROR | Solder bridge detected
+2025-03-01 11:57:00 | LINE-B | ERROR | Conveyor jam
+2025-03-01 12:14:00 | LINE-E | ERROR | Sensor timeout
+2025-03-01 12:31:00 | LINE-A | INFO | Cycle completed, temperature 57.6C
+2025-03-01 12:48:00 | LINE-B | INFO | Cycle completed, temperature 55.4C
+2025-03-01 13:05:00 | LINE-A | WARNING | Temperature high 77.3C
+2025-03-01 13:22:00 | LINE-A | ERROR | Conveyor jam
+2025-03-01 13:39:00 | LINE-C | INFO | Cycle completed, temperature 66.6C
+2025-03-01 13:56:00 | LINE-E | INFO | Cycle completed, temperature 60.4C
+2025-03-01 14:13:00 | LINE-E | INFO | Cycle completed, temperature 69.9C
+2025-03-01 14:30:00 | LINE-D | ERROR | Sensor timeout
+2025-03-01 14:47:00 | LINE-A | INFO | Cycle completed, temperature 59.0C
+2025-03-01 15:04:00 | LINE-A | INFO | Cycle completed, temperature 64.7C
+2025-03-01 15:21:00 | LINE-B | ERROR | Solder bridge detected
+2025-03-01 15:38:00 | LINE-B | INFO | Cycle completed, temperature 61.4C
+2025-03-01 15:55:00 | LINE-E | INFO | Cycle completed, temperature 56.7C
+2025-03-01 16:12:00 | LINE-A | ERROR | Conveyor jam
+2025-03-01 16:29:00 | LINE-A | INFO | Cycle completed, temperature 56.7C
+2025-03-01 16:46:00 | LINE-E | ERROR | Feeder empty
+2025-03-01 17:03:00 | LINE-E | ERROR | Conveyor jam
+2025-03-01 17:20:00 | LINE-E | INFO | Cycle completed, temperature 68.3C
+2025-03-01 17:37:00 | LINE-E | WARNING | Temperature high 85.1C
+2025-03-01 17:54:00 | LINE-D | WARNING | Temperature high 82.0C
+2025-03-01 18:11:00 | LINE-A | INFO | Cycle completed, temperature 69.6C
+2025-03-01 18:28:00 | LINE-C | ERROR | Solder bridge detected
+2025-03-01 18:45:00 | LINE-D | INFO | Cycle completed, temperature 65.9C
+2025-03-01 19:02:00 | LINE-B | INFO | Cycle completed, temperature 57.4C
+2025-03-01 19:19:00 | LINE-C | INFO | Cycle completed, temperature 62.1C
+2025-03-01 19:36:00 | LINE-D | INFO | Cycle completed, temperature 61.2C
+2025-03-01 19:53:00 | LINE-C | INFO | Cycle completed, temperature 60.6C
+2025-03-01 20:10:00 | LINE-C | INFO | Cycle completed, temperature 66.7C
+2025-03-01 20:27:00 | LINE-B | INFO | Cycle completed, temperature 71.1C
+2025-03-01 20:44:00 | LINE-D | ERROR | Feeder empty
+2025-03-01 21:01:00 | LINE-C | WARNING | Temperature high 82.0C
+2025-03-01 21:18:00 | LINE-B | ERROR | Feeder empty
+2025-03-01 21:35:00 | LINE-C | WARNING | Temperature high 85.5C
+2025-03-01 21:52:00 | LINE-C | INFO | Cycle completed, temperature 65.8C
+2025-03-01 22:09:00 | LINE-A | INFO | Cycle completed, temperature 67.5C
+2025-03-01 22:26:00 | LINE-A | INFO | Cycle completed, temperature 66.8C
+2025-03-01 22:43:00 | LINE-C | ERROR | Feeder empty
+2025-03-01 23:00:00 | LINE-A | ERROR | Sensor timeout
+2025-03-01 23:17:00 | LINE-D | INFO | Cycle completed, temperature 67.3C
+2025-03-01 23:34:00 | LINE-C | INFO | Cycle completed, temperature 70.9C
+2025-03-01 23:51:00 | LINE-D | INFO | Cycle completed, temperature 71.3C
+2025-03-02 00:08:00 | LINE-A | ERROR | Solder bridge detected
+2025-03-02 00:25:00 | LINE-C | INFO | Cycle completed, temperature 68.5C
+2025-03-02 00:42:00 | LINE-D | ERROR | Feeder empty
+2025-03-02 00:59:00 | LINE-A | INFO | Cycle completed, temperature 65.0C
+2025-03-02 01:16:00 | LINE-A | INFO | Cycle completed, temperature 65.5C
+2025-03-02 01:33:00 | LINE-A | INFO | Cycle completed, temperature 64.6C
+2025-03-02 01:50:00 | LINE-A | INFO | Cycle completed, temperature 62.9C
+2025-03-02 02:07:00 | LINE-D | INFO | Cycle completed, temperature 68.0C
+2025-03-02 02:24:00 | LINE-E | WARNING | Temperature high 81.4C
+2025-03-02 02:41:00 | LINE-B | INFO | Cycle completed, temperature 70.8C
+2025-03-02 02:58:00 | LINE-E | INFO | Cycle completed, temperature 57.0C
+2025-03-02 03:15:00 | LINE-D | INFO | Cycle completed, temperature 66.2C
+2025-03-02 03:32:00 | LINE-D | INFO | Cycle completed, temperature 68.2C
+2025-03-02 03:49:00 | LINE-B | WARNING | Temperature high 79.3C
+2025-03-02 04:06:00 | LINE-D | ERROR | Feeder empty
+2025-03-02 04:23:00 | LINE-D | WARNING | Temperature high 79.7C
+2025-03-02 04:40:00 | LINE-B | INFO | Cycle completed, temperature 57.7C
+2025-03-02 04:57:00 | LINE-B | ERROR | Conveyor jam
+2025-03-02 05:14:00 | LINE-A | ERROR | Sensor timeout
+2025-03-02 05:31:00 | LINE-C | WARNING | Temperature high 84.5C
+2025-03-02 05:48:00 | LINE-B | INFO | Cycle completed, temperature 70.9C
+2025-03-02 06:05:00 | LINE-C | INFO | Cycle completed, temperature 63.1C
+2025-03-02 06:22:00 | LINE-D | INFO | Cycle completed, temperature 71.8C
+2025-03-02 06:39:00 | LINE-B | INFO | Cycle completed, temperature 71.2C
+2025-03-02 06:56:00 | LINE-D | INFO | Cycle completed, temperature 69.5C
+2025-03-02 07:13:00 | LINE-A | ERROR | Sensor timeout
+2025-03-02 07:30:00 | LINE-A | INFO | Cycle completed, temperature 65.0C
+2025-03-02 07:47:00 | LINE-A | WARNING | Temperature high 75.2C
+2025-03-02 08:04:00 | LINE-A | INFO | Cycle completed, temperature 69.0C
+2025-03-02 08:21:00 | LINE-C | INFO | Cycle completed, temperature 62.8C
+2025-03-02 08:38:00 | LINE-B | INFO | Cycle completed, temperature 60.1C
+2025-03-02 08:55:00 | LINE-C | ERROR | Sensor timeout
+2025-03-02 09:12:00 | LINE-D | INFO | Cycle completed, temperature 71.9C
+2025-03-02 09:29:00 | LINE-A | INFO | Cycle completed, temperature 59.8C
+2025-03-02 09:46:00 | LINE-E | WARNING | Temperature high 76.4C
+2025-03-02 10:03:00 | LINE-E | WARNING | Temperature high 83.7C
+2025-03-02 10:20:00 | LINE-E | INFO | Cycle completed, temperature 56.5C
+2025-03-02 10:37:00 | LINE-D | WARNING | Temperature high 75.4C
+2025-03-02 10:54:00 | LINE-E | INFO | Cycle completed, temperature 57.4C
+2025-03-02 11:11:00 | LINE-B | ERROR | Feeder empty
+2025-03-02 11:28:00 | LINE-E | INFO | Cycle completed, temperature 70.5C
+2025-03-02 11:45:00 | LINE-B | WARNING | Temperature high 75.5C
+2025-03-02 12:02:00 | LINE-A | INFO | Cycle completed, temperature 55.9C
+2025-03-02 12:19:00 | LINE-E | WARNING | Temperature high 85.4C
+2025-03-02 12:36:00 | LINE-E | INFO | Cycle completed, temperature 69.4C
+2025-03-02 12:53:00 | LINE-B | INFO | Cycle completed, temperature 68.6C
+2025-03-02 13:10:00 | LINE-E | ERROR | Conveyor jam
+2025-03-02 13:27:00 | LINE-D | ERROR | Sensor timeout
+2025-03-02 13:44:00 | LINE-E | ERROR | Solder bridge detected
+2025-03-02 14:01:00 | LINE-A | INFO | Cycle completed, temperature 57.1C
+2025-03-02 14:18:00 | LINE-B | WARNING | Temperature high 84.7C
+2025-03-02 14:35:00 | LINE-C | INFO | Cycle completed, temperature 69.5C
+2025-03-02 14:52:00 | LINE-D | INFO | Cycle completed, temperature 67.5C
+2025-03-02 15:09:00 | LINE-A | INFO | Cycle completed, temperature 59.6C
+2025-03-02 15:26:00 | LINE-A | INFO | Cycle completed, temperature 71.7C
+2025-03-02 15:43:00 | LINE-D | WARNING | Temperature high 75.7C
+2025-03-02 16:00:00 | LINE-D | INFO | Cycle completed, temperature 55.7C
+2025-03-02 16:17:00 | LINE-D | INFO | Cycle completed, temperature 67.1C
+2025-03-02 16:34:00 | LINE-E | INFO | Cycle completed, temperature 56.6C
+2025-03-02 16:51:00 | LINE-A | WARNING | Temperature high 87.7C
+2025-03-02 17:08:00 | LINE-A | INFO | Cycle completed, temperature 68.3C
+2025-03-02 17:25:00 | LINE-C | INFO | Cycle completed, temperature 64.7C
+2025-03-02 17:42:00 | LINE-D | INFO | Cycle completed, temperature 71.1C
+2025-03-02 17:59:00 | LINE-A | INFO | Cycle completed, temperature 64.8C
+2025-03-02 18:16:00 | LINE-B | INFO | Cycle completed, temperature 66.0C
+2025-03-02 18:33:00 | LINE-D | INFO | Cycle completed, temperature 57.5C
+2025-03-02 18:50:00 | LINE-E | INFO | Cycle completed, temperature 61.9C
+2025-03-02 19:07:00 | LINE-C | ERROR | Solder bridge detected
+2025-03-02 19:24:00 | LINE-A | INFO | Cycle completed, temperature 57.3C
+2025-03-02 19:41:00 | LINE-E | INFO | Cycle completed, temperature 60.2C
+2025-03-02 19:58:00 | LINE-D | INFO | Cycle completed, temperature 65.4C
+2025-03-02 20:15:00 | LINE-C | WARNING | Temperature high 80.4C
+2025-03-02 20:32:00 | LINE-A | INFO | Cycle completed, temperature 58.7C
+2025-03-02 20:49:00 | LINE-E | INFO | Cycle completed, temperature 60.4C
+2025-03-02 21:06:00 | LINE-E | INFO | Cycle completed, temperature 62.1C
+2025-03-02 21:23:00 | LINE-C | INFO | Cycle completed, temperature 58.8C
+2025-03-02 21:40:00 | LINE-A | INFO | Cycle completed, temperature 64.6C
+2025-03-02 21:57:00 | LINE-C | WARNING | Temperature high 83.4C
+2025-03-02 22:14:00 | LINE-C | WARNING | Temperature high 79.1C
+2025-03-02 22:31:00 | LINE-B | WARNING | Temperature high 82.1C
+2025-03-02 22:48:00 | LINE-A | INFO | Cycle completed, temperature 65.6C
+2025-03-02 23:05:00 | LINE-C | INFO | Cycle completed, temperature 63.7C
+2025-03-02 23:22:00 | LINE-E | WARNING | Temperature high 86.5C
+2025-03-02 23:39:00 | LINE-A | ERROR | Feeder empty
+2025-03-02 23:56:00 | LINE-C | WARNING | Temperature high 85.4C
+2025-03-03 00:13:00 | LINE-C | INFO | Cycle completed, temperature 69.2C
+2025-03-03 00:30:00 | LINE-B | INFO | Cycle completed, temperature 57.0C
+2025-03-03 00:47:00 | LINE-C | INFO | Cycle completed, temperature 69.3C
+2025-03-03 01:04:00 | LINE-A | ERROR | Conveyor jam
+2025-03-03 01:21:00 | LINE-A | INFO | Cycle completed, temperature 60.7C
+2025-03-03 01:38:00 | LINE-C | INFO | Cycle completed, temperature 60.3C
+2025-03-03 01:55:00 | LINE-A | WARNING | Temperature high 75.2C
+2025-03-03 02:12:00 | LINE-C | ERROR | Sensor timeout
+2025-03-03 02:29:00 | LINE-E | INFO | Cycle completed, temperature 57.6C
+2025-03-03 02:46:00 | LINE-B | INFO | Cycle completed, temperature 57.0C
+2025-03-03 03:03:00 | LINE-D | INFO | Cycle completed, temperature 71.3C
+2025-03-03 03:20:00 | LINE-B | INFO | Cycle completed, temperature 68.1C
+2025-03-03 03:37:00 | LINE-E | INFO | Cycle completed, temperature 66.7C
+2025-03-03 03:54:00 | LINE-B | INFO | Cycle completed, temperature 61.6C
+2025-03-03 04:11:00 | LINE-D | ERROR | Sensor timeout
+2025-03-03 04:28:00 | LINE-B | INFO | Cycle completed, temperature 58.6C
+2025-03-03 04:45:00 | LINE-D | INFO | Cycle completed, temperature 57.8C
+2025-03-03 05:02:00 | LINE-D | INFO | Cycle completed, temperature 69.2C
+2025-03-03 05:19:00 | LINE-E | ERROR | Feeder empty
+2025-03-03 05:36:00 | LINE-C | INFO | Cycle completed, temperature 71.8C
+2025-03-03 05:53:00 | LINE-E | WARNING | Temperature high 80.8C
+2025-03-03 06:10:00 | LINE-A | ERROR | Solder bridge detected
+2025-03-03 06:27:00 | LINE-B | INFO | Cycle completed, temperature 67.8C
+2025-03-03 06:44:00 | LINE-A | INFO | Cycle completed, temperature 63.0C
+2025-03-03 07:01:00 | LINE-E | INFO | Cycle completed, temperature 58.1C
+2025-03-03 07:18:00 | LINE-B | ERROR | Feeder empty
+2025-03-03 07:35:00 | LINE-A | WARNING | Temperature high 78.8C
+2025-03-03 07:52:00 | LINE-B | INFO | Cycle completed, temperature 65.0C
+2025-03-03 08:09:00 | LINE-C | WARNING | Temperature high 76.1C
+2025-03-03 08:26:00 | LINE-C | INFO | Cycle completed, temperature 69.3C
+2025-03-03 08:43:00 | LINE-B | ERROR | Sensor timeout
+2025-03-03 09:00:00 | LINE-C | WARNING | Temperature high 83.7C
+2025-03-03 09:17:00 | LINE-D | WARNING | Temperature high 75.8C
+2025-03-03 09:34:00 | LINE-D | INFO | Cycle completed, temperature 64.2C
+2025-03-03 09:51:00 | LINE-E | INFO | Cycle completed, temperature 69.4C
+2025-03-03 10:08:00 | LINE-B | INFO | Cycle completed, temperature 68.1C
+2025-03-03 10:25:00 | LINE-D | ERROR | Solder bridge detected
+2025-03-03 10:42:00 | LINE-C | INFO | Cycle completed, temperature 65.0C
+2025-03-03 10:59:00 | LINE-E | INFO | Cycle completed, temperature 60.8C
+2025-03-03 11:16:00 | LINE-E | INFO | Cycle completed, temperature 64.0C
+2025-03-03 11:33:00 | LINE-C | INFO | Cycle completed, temperature 61.8C
+2025-03-03 11:50:00 | LINE-A | ERROR | Feeder empty
+2025-03-03 12:07:00 | LINE-D | WARNING | Temperature high 77.3C
+2025-03-03 12:24:00 | LINE-A | INFO | Cycle completed, temperature 58.3C
+2025-03-03 12:41:00 | LINE-B | INFO | Cycle completed, temperature 70.8C
+2025-03-03 12:58:00 | LINE-D | INFO | Cycle completed, temperature 60.2C
+2025-03-03 13:15:00 | LINE-A | INFO | Cycle completed, temperature 55.1C
+2025-03-03 13:32:00 | LINE-C | INFO | Cycle completed, temperature 67.0C
+2025-03-03 13:49:00 | LINE-C | WARNING | Temperature high 87.8C
+2025-03-03 14:06:00 | LINE-E | WARNING | Temperature high 81.2C
+2025-03-03 14:23:00 | LINE-E | WARNING | Temperature high 86.7C
